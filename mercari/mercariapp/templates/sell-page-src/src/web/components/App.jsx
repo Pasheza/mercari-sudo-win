@@ -8,14 +8,13 @@ import {
     FormControl,
     ControlLabel,
     InputGroup,
-    ButtonToolbar, ToggleButtonGroup, ToggleButton, Button
+    ButtonToolbar, ToggleButtonGroup, ToggleButton, Button, ButtonGroup, Col
 } from "react-bootstrap"
 import Dropzone from 'react-dropzone'
 import CategorySelector from "./containers/CategorySelector";
 
 require("../css/styles.css");
 const dropZoneStyle = {
-    width: 700,
     textAlign: "center",
     backgroundColor: "white",
     height: 200,
@@ -56,12 +55,26 @@ class App extends Component {
                     </div>
                 </Row>
                 <Row>
-                    <div style={{margin: "auto"}}>
-                        <Dropzone onDrop={this.onDrop} style={dropZoneStyle}>
-                            <Thumbnail src="/static/images/saveFIleIcon.png" style={fileIconStyle}>
-                                <p>Drag and drop photos or click to select images.</p>
-                            </Thumbnail>
-                        </Dropzone>
+                    <div className="menu-block-div">
+                        {this.props.files.map(file => {
+                            return (
+                                <Col>
+                                    <Thumbnail src={`/static/toSave/${file.name}`}
+                                               style={{marginLeft: 10, marginRight: 10, width: 180}}
+                                    >
+                                        <ButtonGroup>
+                                            <Button>Delete</Button>
+                                        </ButtonGroup>
+                                    </Thumbnail>
+                                </Col>)
+                        })}
+                        <Col>
+                            <Dropzone onDrop={this.onDrop} style={dropZoneStyle}>
+                                <Thumbnail src="/static/images/saveFIleIcon.png" style={fileIconStyle}>
+                                    <p>Drag and drop photos or click to select images.</p>
+                                </Thumbnail>
+                            </Dropzone>
+                        </Col>
                     </div>
                 </Row>
                 <Row>
@@ -132,9 +145,9 @@ class App extends Component {
                 </Row>
                 <Row>
                     <div className="menu-block-div">
-                        <div style={{margin: "auto", width: 500}}>
+                        <div style={{margin: "auto", width: 600}}>
                             <Button bsStyle="warning"
-                                    style={{width: 500}}
+                                    style={{width: 600}}
                             >List</Button>
                         </div>
                     </div>
