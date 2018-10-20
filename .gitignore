@@ -106,4 +106,5 @@ venv.bak/
 .idea/
 
 
-mercari/mercariapp/templates/sell-page-src/node_modules
+mercari/mercariapp/templates/sell-page-src/node_modules/
+mercari/~/toSave/
