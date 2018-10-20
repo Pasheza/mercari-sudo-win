@@ -4,9 +4,12 @@
 # from keras.layers import Flatten
 # from keras.layers import Dense
 import json
+import requests
+from PIL import Image
+import io
 
 
-f_name = 'mercari-categories.json'
+f_name = 'phones-category.json'
 def get_dataset():
     df = []
     cats = set()
@@ -16,8 +19,15 @@ def get_dataset():
             category_id = int(category['categoryName'].split('/')[-2])
             category_name = category['categoryName'].split(' https')[0]
             cats.add(category_name)
+            img_id = 0
             for img in category['imagesUrls']:
                 df.append({'url': img, 'category': category_id, 'category_name': category_name})
+                response = requests.get(img)
+                img_pil = Image.open(io.BytesIO(response.content))
+                img_pil.save('{cat_name}/{id}.png'.format(cat_name=category_name, id=str(img_id)), "PNG")
+                img_id = img_id + 1
+            print('{category} - {imgs}'.format(category=category_name, imgs=img_id - 1))
+
     print(cats)
     return df
 
