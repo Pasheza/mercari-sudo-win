@@ -1,23 +1,14 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
 import numpy as np
 import cv2 as ocv
 import image_slicer
 import os
+import argparse
 
 
-# In[2]:
-
+DATA_PATH = 'defolt image path'
 
 def variance_of_laplacian(image):
     return ocv.Laplacian(image, ocv.CV_64F).var() 
-
-
-# In[3]:
 
 
 def get_slices(image_path):
@@ -26,16 +17,13 @@ def get_slices(image_path):
     row = []
     for i in range(3):
         for j in range(3):
-            slice_path = image_path.split('.')[0] + '_0' + str(i+1) + '_0' +str(j+1) + '.png'
+            slice_path = '.' + image_path.split('.')[1] + '_0' + str(i+1) + '_0' +str(j+1) + '.png'
             slices.append(ocv.imread(slice_path))
             os.remove(slice_path)
     return slices
 
 
-# In[4]:
 
-
-# 0 = размытое изображение, 1 = чёткое изображение
 def blur_detection(image_path):
     image = ocv.imread(image_path)
     if image.shape[0] > image.shape[1]:
@@ -56,10 +44,7 @@ def blur_detection(image_path):
         return(0)
 
 
-# In[5]:
 
-
-# 0 = норма, -1 = недоэкспонированное, 1 = переэкспонированное
 def expose(image_path):
     bright_thres = 0.3
     dark_thres = 0.4
@@ -79,9 +64,19 @@ def expose(image_path):
         return(0)
 
 
-# In[6]:
-
-
 def image_quality(image_path):
     return([expose(image_path), blur_detection(image_path)])
+	
+def get_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--img_path', type=str, default=DATA_PATH, help='path to the image')
 
+    return parser.parse_args()
+
+# Вызов:  python Mercari_IP.py --img_path YOUR-PATH-WITHOUT-COMA
+# Первый аргумент: -1 - темное изображение, 0 - нормальное изображение, 1 - пересвеченое
+# Второй аргумент: 1 - четкое изображение, 0 - размытое изображение
+if __name__ == "__main__":
+	FLAGS = get_args()
+	result = image_quality(FLAGS.img_path)
+	print(*result)	
