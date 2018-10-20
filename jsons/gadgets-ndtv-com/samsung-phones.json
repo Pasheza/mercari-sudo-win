@@ -1,6 +1,12 @@
 [
   {
-    "itemName": "Galaxy A9 (2018)",
+    "itemName": "Samsung Galaxy A9 (2018)",
+    "tags": [
+      "Galaxy",
+      "(2018)",
+      "A9",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -62,7 +68,13 @@
     }
   },
   {
-    "itemName": "Galaxy A7 (2018)",
+    "itemName": "Samsung Galaxy A7 (2018)",
+    "tags": [
+      "Galaxy",
+      "(2018)",
+      "A7",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -126,7 +138,12 @@
     }
   },
   {
-    "itemName": "Galaxy J6+",
+    "itemName": "Samsung Galaxy J6+",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "J6+"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -174,7 +191,12 @@
     }
   },
   {
-    "itemName": "Galaxy J4+",
+    "itemName": "Samsung Galaxy J4+",
+    "tags": [
+      "J4+",
+      "Galaxy",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -221,7 +243,13 @@
     }
   },
   {
-    "itemName": "Galaxy J2 Core",
+    "itemName": "Samsung Galaxy J2 Core",
+    "tags": [
+      "Galaxy",
+      "J2",
+      "Samsung",
+      "Core"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -280,7 +308,13 @@
     }
   },
   {
-    "itemName": "Galaxy On8 (2018)",
+    "itemName": "Samsung Galaxy On8 (2018)",
+    "tags": [
+      "Galaxy",
+      "(2018)",
+      "On8",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -337,7 +371,13 @@
     }
   },
   {
-    "itemName": "Galaxy Note 9",
+    "itemName": "Samsung Galaxy Note 9",
+    "tags": [
+      "Galaxy",
+      "Note",
+      "9",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -395,7 +435,12 @@
     }
   },
   {
-    "itemName": "Galaxy Jean",
+    "itemName": "Samsung Galaxy Jean",
+    "tags": [
+      "Galaxy",
+      "Jean",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -450,7 +495,12 @@
     }
   },
   {
-    "itemName": "Galaxy On6",
+    "itemName": "Samsung Galaxy On6",
+    "tags": [
+      "Galaxy",
+      "On6",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -508,7 +558,13 @@
     }
   },
   {
-    "itemName": "Galaxy A8 Star",
+    "itemName": "Samsung Galaxy A8 Star",
+    "tags": [
+      "Galaxy",
+      "Star",
+      "A8",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -563,7 +619,13 @@
     }
   },
   {
-    "itemName": "Galaxy J7 (2018)",
+    "itemName": "Samsung Galaxy J7 (2018)",
+    "tags": [
+      "Galaxy",
+      "(2018)",
+      "Samsung",
+      "J7"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -610,7 +672,13 @@
     }
   },
   {
-    "itemName": "Galaxy J3 (2018)",
+    "itemName": "Samsung Galaxy J3 (2018)",
+    "tags": [
+      "Galaxy",
+      "(2018)",
+      "J3",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -657,7 +725,14 @@
     }
   },
   {
-    "itemName": "Galaxy A9 Star Lite",
+    "itemName": "Samsung Galaxy A9 Star Lite",
+    "tags": [
+      "Galaxy",
+      "Star",
+      "A9",
+      "Lite",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -712,7 +787,13 @@
     }
   },
   {
-    "itemName": "Galaxy A9 Star",
+    "itemName": "Samsung Galaxy A9 Star",
+    "tags": [
+      "Galaxy",
+      "Star",
+      "A9",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -773,7 +854,13 @@
     }
   },
   {
-    "itemName": "Galaxy Wide 3",
+    "itemName": "Samsung Galaxy Wide 3",
+    "tags": [
+      "Galaxy",
+      "3",
+      "Wide",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -821,7 +908,14 @@
     }
   },
   {
-    "itemName": "Galaxy S Light Luxury",
+    "itemName": "Samsung Galaxy S Light Luxury",
+    "tags": [
+      "Galaxy",
+      "S",
+      "Luxury",
+      "Light",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -871,7 +965,12 @@
     }
   },
   {
-    "itemName": "Galaxy J8",
+    "itemName": "Samsung Galaxy J8",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "J8"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -935,7 +1034,12 @@
     }
   },
   {
-    "itemName": "Galaxy J6",
+    "itemName": "Samsung Galaxy J6",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "J6"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1001,7 +1105,12 @@
     }
   },
   {
-    "itemName": "Galaxy J4",
+    "itemName": "Samsung Galaxy J4",
+    "tags": [
+      "Galaxy",
+      "J4",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1054,7 +1163,12 @@
     }
   },
   {
-    "itemName": "Galaxy A6+",
+    "itemName": "Samsung Galaxy A6+",
+    "tags": [
+      "Galaxy",
+      "A6+",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1103,7 +1217,12 @@
     }
   },
   {
-    "itemName": "Galaxy A6",
+    "itemName": "Samsung Galaxy A6",
+    "tags": [
+      "Galaxy",
+      "A6",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1141,7 +1260,13 @@
     }
   },
   {
-    "itemName": "Galaxy J7 Duo",
+    "itemName": "Samsung Galaxy J7 Duo",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "J7",
+      "Duo"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1189,7 +1314,14 @@
     }
   },
   {
-    "itemName": "Galaxy J7 Prime 2",
+    "itemName": "Samsung Galaxy J7 Prime 2",
+    "tags": [
+      "Galaxy",
+      "2",
+      "Prime",
+      "Samsung",
+      "J7"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1242,7 +1374,12 @@
     }
   },
   {
-    "itemName": "Galaxy S9+",
+    "itemName": "Samsung Galaxy S9+",
+    "tags": [
+      "Galaxy",
+      "S9+",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1306,7 +1443,12 @@
     }
   },
   {
-    "itemName": "Galaxy S9",
+    "itemName": "Samsung Galaxy S9",
+    "tags": [
+      "Galaxy",
+      "S9",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1371,7 +1513,13 @@
     }
   },
   {
-    "itemName": "Galaxy J2 (2018)",
+    "itemName": "Samsung Galaxy J2 (2018)",
+    "tags": [
+      "Galaxy",
+      "(2018)",
+      "J2",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1437,7 +1585,14 @@
     }
   },
   {
-    "itemName": "Galaxy J2 Pro (2018)",
+    "itemName": "Samsung Galaxy J2 Pro (2018)",
+    "tags": [
+      "Galaxy",
+      "(2018)",
+      "J2",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1507,7 +1662,13 @@
     }
   },
   {
-    "itemName": "Galaxy On7 Prime",
+    "itemName": "Samsung Galaxy On7 Prime",
+    "tags": [
+      "Galaxy",
+      "Prime",
+      "On7",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1574,7 +1735,13 @@
     }
   },
   {
-    "itemName": "Galaxy A8+ (2018)",
+    "itemName": "Samsung Galaxy A8+ (2018)",
+    "tags": [
+      "Galaxy",
+      "A8+",
+      "(2018)",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1623,7 +1790,13 @@
     }
   },
   {
-    "itemName": "Galaxy A8 (2018)",
+    "itemName": "Samsung Galaxy A8 (2018)",
+    "tags": [
+      "Galaxy",
+      "(2018)",
+      "A8",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1672,7 +1845,11 @@
     }
   },
   {
-    "itemName": "W2018",
+    "itemName": "Samsung W2018",
+    "tags": [
+      "Samsung",
+      "W2018"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1724,7 +1901,13 @@
     }
   },
   {
-    "itemName": "Galaxy J2 (2017)",
+    "itemName": "Samsung Galaxy J2 (2017)",
+    "tags": [
+      "Galaxy",
+      "(2017)",
+      "J2",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1788,7 +1971,12 @@
     }
   },
   {
-    "itemName": "Galaxy C8",
+    "itemName": "Samsung Galaxy C8",
+    "tags": [
+      "Galaxy",
+      "C8",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1847,7 +2035,12 @@
     }
   },
   {
-    "itemName": "Galaxy J7+",
+    "itemName": "Samsung Galaxy J7+",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "J7+"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1908,7 +2101,11 @@
     }
   },
   {
-    "itemName": "SM-G9298",
+    "itemName": "Samsung SM-G9298",
+    "tags": [
+      "SM-G9298",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1969,7 +2166,13 @@
     }
   },
   {
-    "itemName": "Galaxy Note 8",
+    "itemName": "Samsung Galaxy Note 8",
+    "tags": [
+      "Galaxy",
+      "Note",
+      "8",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2035,7 +2238,13 @@
     }
   },
   {
-    "itemName": "Galaxy J7 Nxt",
+    "itemName": "Samsung Galaxy J7 Nxt",
+    "tags": [
+      "Galaxy",
+      "Nxt",
+      "Samsung",
+      "J7"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2099,7 +2308,13 @@
     }
   },
   {
-    "itemName": "Galaxy On Max",
+    "itemName": "Samsung Galaxy On Max",
+    "tags": [
+      "Galaxy",
+      "Max",
+      "Samsung",
+      "On"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2164,7 +2379,13 @@
     }
   },
   {
-    "itemName": "Galaxy J5 Pro",
+    "itemName": "Samsung Galaxy J5 Pro",
+    "tags": [
+      "Galaxy",
+      "J5",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2228,7 +2449,13 @@
     }
   },
   {
-    "itemName": "Galaxy J7 Max",
+    "itemName": "Samsung Galaxy J7 Max",
+    "tags": [
+      "Galaxy",
+      "Max",
+      "Samsung",
+      "J7"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2298,7 +2525,13 @@
     }
   },
   {
-    "itemName": "Galaxy J7 Pro",
+    "itemName": "Samsung Galaxy J7 Pro",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "Pro",
+      "J7"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2368,7 +2601,13 @@
     }
   },
   {
-    "itemName": "Galaxy J3 (2017)",
+    "itemName": "Samsung Galaxy J3 (2017)",
+    "tags": [
+      "Galaxy",
+      "(2017)",
+      "J3",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2431,7 +2670,13 @@
     }
   },
   {
-    "itemName": "Galaxy J7 (2017)",
+    "itemName": "Samsung Galaxy J7 (2017)",
+    "tags": [
+      "Galaxy",
+      "(2017)",
+      "Samsung",
+      "J7"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2493,7 +2738,13 @@
     }
   },
   {
-    "itemName": "Galaxy J5 (2017)",
+    "itemName": "Samsung Galaxy J5 (2017)",
+    "tags": [
+      "Galaxy",
+      "(2017)",
+      "J5",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2555,7 +2806,12 @@
     }
   },
   {
-    "itemName": "Galaxy Feel",
+    "itemName": "Samsung Galaxy Feel",
+    "tags": [
+      "Galaxy",
+      "Feel",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2613,7 +2869,13 @@
     }
   },
   {
-    "itemName": "Galaxy Wide 2",
+    "itemName": "Samsung Galaxy Wide 2",
+    "tags": [
+      "Galaxy",
+      "2",
+      "Wide",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2675,7 +2937,14 @@
     }
   },
   {
-    "itemName": "Galaxy J3 (2017) (AT\u0026T)",
+    "itemName": "Samsung Galaxy J3 (2017) (AT\u0026T)",
+    "tags": [
+      "Galaxy",
+      "(2017)",
+      "J3",
+      "Samsung",
+      "(AT\u0026T)"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2737,7 +3006,11 @@
     }
   },
   {
-    "itemName": "Z4",
+    "itemName": "Samsung Z4",
+    "tags": [
+      "Z4",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2800,7 +3073,13 @@
     }
   },
   {
-    "itemName": "Galaxy J3 Prime",
+    "itemName": "Samsung Galaxy J3 Prime",
+    "tags": [
+      "Galaxy",
+      "Prime",
+      "J3",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2861,7 +3140,13 @@
     }
   },
   {
-    "itemName": "Galaxy C5 Pro",
+    "itemName": "Samsung Galaxy C5 Pro",
+    "tags": [
+      "Galaxy",
+      "C5",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2923,7 +3208,13 @@
     }
   },
   {
-    "itemName": "Galaxy Xcover 4",
+    "itemName": "Samsung Galaxy Xcover 4",
+    "tags": [
+      "Galaxy",
+      "4",
+      "Samsung",
+      "Xcover"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2977,7 +3268,12 @@
     }
   },
   {
-    "itemName": "Galaxy S8+",
+    "itemName": "Samsung Galaxy S8+",
+    "tags": [
+      "Galaxy",
+      "S8+",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3039,7 +3335,12 @@
     }
   },
   {
-    "itemName": "Galaxy S8",
+    "itemName": "Samsung Galaxy S8",
+    "tags": [
+      "Galaxy",
+      "S8",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3102,7 +3403,13 @@
     }
   },
   {
-    "itemName": "Galaxy C7 Pro",
+    "itemName": "Samsung Galaxy C7 Pro",
+    "tags": [
+      "Galaxy",
+      "C7",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3165,7 +3472,13 @@
     }
   },
   {
-    "itemName": "Galaxy J2 Ace",
+    "itemName": "Samsung Galaxy J2 Ace",
+    "tags": [
+      "Galaxy",
+      "Ace",
+      "J2",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3225,7 +3538,13 @@
     }
   },
   {
-    "itemName": "Galaxy J1 (4G)",
+    "itemName": "Samsung Galaxy J1 (4G)",
+    "tags": [
+      "Galaxy",
+      "J1",
+      "Samsung",
+      "(4G)"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3288,7 +3607,13 @@
     }
   },
   {
-    "itemName": "Galaxy A7 (2017)",
+    "itemName": "Samsung Galaxy A7 (2017)",
+    "tags": [
+      "Galaxy",
+      "(2017)",
+      "A7",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3353,7 +3678,13 @@
     }
   },
   {
-    "itemName": "Galaxy A5 (2017)",
+    "itemName": "Samsung Galaxy A5 (2017)",
+    "tags": [
+      "Galaxy",
+      "A5",
+      "(2017)",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3418,7 +3749,13 @@
     }
   },
   {
-    "itemName": "Galaxy A3 (2017)",
+    "itemName": "Samsung Galaxy A3 (2017)",
+    "tags": [
+      "Galaxy",
+      "A3",
+      "(2017)",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3477,7 +3814,14 @@
     }
   },
   {
-    "itemName": "Galaxy J1 Mini Prime",
+    "itemName": "Samsung Galaxy J1 Mini Prime",
+    "tags": [
+      "Galaxy",
+      "Mini",
+      "Prime",
+      "J1",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3541,7 +3885,11 @@
     }
   },
   {
-    "itemName": "W2017",
+    "itemName": "Samsung W2017",
+    "tags": [
+      "W2017",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3603,7 +3951,13 @@
     }
   },
   {
-    "itemName": "Galaxy C9 Pro",
+    "itemName": "Samsung Galaxy C9 Pro",
+    "tags": [
+      "Galaxy",
+      "C9",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3667,7 +4021,13 @@
     }
   },
   {
-    "itemName": "Galaxy On Nxt",
+    "itemName": "Samsung Galaxy On Nxt",
+    "tags": [
+      "Galaxy",
+      "Nxt",
+      "Samsung",
+      "On"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3731,7 +4091,13 @@
     }
   },
   {
-    "itemName": "Galaxy A8 (2016)",
+    "itemName": "Samsung Galaxy A8 (2016)",
+    "tags": [
+      "Galaxy",
+      "A8",
+      "(2016)",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3795,7 +4161,12 @@
     }
   },
   {
-    "itemName": "Galaxy On8",
+    "itemName": "Samsung Galaxy On8",
+    "tags": [
+      "Galaxy",
+      "On8",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3858,7 +4229,13 @@
     }
   },
   {
-    "itemName": "Galaxy On7 (2016)",
+    "itemName": "Samsung Galaxy On7 (2016)",
+    "tags": [
+      "Galaxy",
+      "(2016)",
+      "On7",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3922,7 +4299,13 @@
     }
   },
   {
-    "itemName": "Galaxy J5 Prime",
+    "itemName": "Samsung Galaxy J5 Prime",
+    "tags": [
+      "Galaxy",
+      "Prime",
+      "J5",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3984,7 +4367,13 @@
     }
   },
   {
-    "itemName": "Galaxy Folder 2",
+    "itemName": "Samsung Galaxy Folder 2",
+    "tags": [
+      "Galaxy",
+      "2",
+      "Samsung",
+      "Folder"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -4045,7 +4434,13 @@
     }
   },
   {
-    "itemName": "Galaxy J7 Prime",
+    "itemName": "Samsung Galaxy J7 Prime",
+    "tags": [
+      "Galaxy",
+      "Prime",
+      "Samsung",
+      "J7"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4115,7 +4510,13 @@
     }
   },
   {
-    "itemName": "Galaxy J2 DTV",
+    "itemName": "Samsung Galaxy J2 DTV",
+    "tags": [
+      "Galaxy",
+      "DTV",
+      "J2",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4177,7 +4578,11 @@
     }
   },
   {
-    "itemName": "Z2",
+    "itemName": "Samsung Z2",
+    "tags": [
+      "Z2",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4239,7 +4644,12 @@
     }
   },
   {
-    "itemName": "Galaxy Note7",
+    "itemName": "Samsung Galaxy Note7",
+    "tags": [
+      "Galaxy",
+      "Note7",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4304,7 +4714,13 @@
     }
   },
   {
-    "itemName": "Galaxy On7 Pro",
+    "itemName": "Samsung Galaxy On7 Pro",
+    "tags": [
+      "Galaxy",
+      "On7",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4365,7 +4781,13 @@
     }
   },
   {
-    "itemName": "Galaxy On5 Pro",
+    "itemName": "Samsung Galaxy On5 Pro",
+    "tags": [
+      "Galaxy",
+      "On5",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4427,7 +4849,14 @@
     }
   },
   {
-    "itemName": "Galaxy J1 Ace Neo",
+    "itemName": "Samsung Galaxy J1 Ace Neo",
+    "tags": [
+      "Galaxy",
+      "Ace",
+      "J1",
+      "Neo",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4488,7 +4917,13 @@
     }
   },
   {
-    "itemName": "Galaxy J2 (2016)",
+    "itemName": "Samsung Galaxy J2 (2016)",
+    "tags": [
+      "Galaxy",
+      "(2016)",
+      "J2",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4548,7 +4983,12 @@
     }
   },
   {
-    "itemName": "Galaxy Wide",
+    "itemName": "Samsung Galaxy Wide",
+    "tags": [
+      "Galaxy",
+      "Wide",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4606,7 +5046,13 @@
     }
   },
   {
-    "itemName": "Galaxy S7 Active",
+    "itemName": "Samsung Galaxy S7 Active",
+    "tags": [
+      "Galaxy",
+      "Active",
+      "S7",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4666,7 +5112,13 @@
     }
   },
   {
-    "itemName": "Galaxy J3 Pro",
+    "itemName": "Samsung Galaxy J3 Pro",
+    "tags": [
+      "Galaxy",
+      "J3",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4729,7 +5181,15 @@
     }
   },
   {
-    "itemName": "Galaxy Xcover 3 Value Edition",
+    "itemName": "Samsung Galaxy Xcover 3 Value Edition",
+    "tags": [
+      "Galaxy",
+      "3",
+      "Value",
+      "Samsung",
+      "Xcover",
+      "Edition"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4788,7 +5248,13 @@
     }
   },
   {
-    "itemName": "Galaxy J7 (2016)",
+    "itemName": "Samsung Galaxy J7 (2016)",
+    "tags": [
+      "Galaxy",
+      "(2016)",
+      "Samsung",
+      "J7"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4853,7 +5319,13 @@
     }
   },
   {
-    "itemName": "Galaxy J1 (2016)",
+    "itemName": "Samsung Galaxy J1 (2016)",
+    "tags": [
+      "Galaxy",
+      "J1",
+      "(2016)",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4916,7 +5388,13 @@
     }
   },
   {
-    "itemName": "Galaxy J1 mini",
+    "itemName": "Samsung Galaxy J1 mini",
+    "tags": [
+      "Galaxy",
+      "mini",
+      "J1",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4978,7 +5456,13 @@
     }
   },
   {
-    "itemName": "Galaxy S7 Edge",
+    "itemName": "Samsung Galaxy S7 Edge",
+    "tags": [
+      "Galaxy",
+      "S7",
+      "Samsung",
+      "Edge"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5040,7 +5524,12 @@
     }
   },
   {
-    "itemName": "Galaxy S7",
+    "itemName": "Samsung Galaxy S7",
+    "tags": [
+      "Galaxy",
+      "S7",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5102,7 +5591,13 @@
     }
   },
   {
-    "itemName": "Galaxy A9 Pro",
+    "itemName": "Samsung Galaxy A9 Pro",
+    "tags": [
+      "Galaxy",
+      "A9",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5164,7 +5659,13 @@
     }
   },
   {
-    "itemName": "Galaxy J5 (2016)",
+    "itemName": "Samsung Galaxy J5 (2016)",
+    "tags": [
+      "Galaxy",
+      "(2016)",
+      "J5",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5228,7 +5729,15 @@
     }
   },
   {
-    "itemName": "Galaxy Note 5 Dual SIM",
+    "itemName": "Samsung Galaxy Note 5 Dual SIM",
+    "tags": [
+      "Galaxy",
+      "5",
+      "SIM",
+      "Note",
+      "Samsung",
+      "Dual"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5292,7 +5801,13 @@
     }
   },
   {
-    "itemName": "Galaxy A3 (2016)",
+    "itemName": "Samsung Galaxy A3 (2016)",
+    "tags": [
+      "Galaxy",
+      "A3",
+      "(2016)",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5354,7 +5869,13 @@
     }
   },
   {
-    "itemName": "Galaxy A5 (2016)",
+    "itemName": "Samsung Galaxy A5 (2016)",
+    "tags": [
+      "Galaxy",
+      "A5",
+      "(2016)",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5421,7 +5942,13 @@
     }
   },
   {
-    "itemName": "Galaxy A7 (2016)",
+    "itemName": "Samsung Galaxy A7 (2016)",
+    "tags": [
+      "Galaxy",
+      "A7",
+      "(2016)",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5483,7 +6010,12 @@
     }
   },
   {
-    "itemName": "Galaxy A9",
+    "itemName": "Samsung Galaxy A9",
+    "tags": [
+      "Galaxy",
+      "A9",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5545,7 +6077,11 @@
     }
   },
   {
-    "itemName": "W2016",
+    "itemName": "Samsung W2016",
+    "tags": [
+      "W2016",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5604,7 +6140,13 @@
     }
   },
   {
-    "itemName": "Galaxy J3 (6)",
+    "itemName": "Samsung Galaxy J3 (6)",
+    "tags": [
+      "Galaxy",
+      "J3",
+      "(6)",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5665,7 +6207,12 @@
     }
   },
   {
-    "itemName": "Galaxy On7",
+    "itemName": "Samsung Galaxy On7",
+    "tags": [
+      "Galaxy",
+      "On7",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5730,7 +6277,12 @@
     }
   },
   {
-    "itemName": "Galaxy On5",
+    "itemName": "Samsung Galaxy On5",
+    "tags": [
+      "Galaxy",
+      "On5",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5795,7 +6347,11 @@
     }
   },
   {
-    "itemName": "Z3",
+    "itemName": "Samsung Z3",
+    "tags": [
+      "Z3",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5859,7 +6415,13 @@
     }
   },
   {
-    "itemName": "Galaxy Active Neo",
+    "itemName": "Samsung Galaxy Active Neo",
+    "tags": [
+      "Galaxy",
+      "Active",
+      "Neo",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5922,7 +6484,13 @@
     }
   },
   {
-    "itemName": "Galaxy J1 Ace",
+    "itemName": "Samsung Galaxy J1 Ace",
+    "tags": [
+      "Galaxy",
+      "Ace",
+      "J1",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -5982,7 +6550,14 @@
     }
   },
   {
-    "itemName": "Galaxy Core Prime VE",
+    "itemName": "Samsung Galaxy Core Prime VE",
+    "tags": [
+      "Galaxy",
+      "Prime",
+      "Samsung",
+      "Core",
+      "VE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6044,7 +6619,12 @@
     }
   },
   {
-    "itemName": "Galaxy J2",
+    "itemName": "Samsung Galaxy J2",
+    "tags": [
+      "Galaxy",
+      "J2",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6107,7 +6687,11 @@
     }
   },
   {
-    "itemName": "G9198",
+    "itemName": "Samsung G9198",
+    "tags": [
+      "Samsung",
+      "G9198"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6169,7 +6753,12 @@
     }
   },
   {
-    "itemName": "Metro B350E",
+    "itemName": "Samsung Metro B350E",
+    "tags": [
+      "B350E",
+      "Metro",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -6223,7 +6812,13 @@
     }
   },
   {
-    "itemName": "Galaxy S6 Edge+",
+    "itemName": "Samsung Galaxy S6 Edge+",
+    "tags": [
+      "Galaxy",
+      "S6",
+      "Edge+",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6286,7 +6881,13 @@
     }
   },
   {
-    "itemName": "Galaxy Note 5",
+    "itemName": "Samsung Galaxy Note 5",
+    "tags": [
+      "Galaxy",
+      "5",
+      "Note",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6349,7 +6950,14 @@
     }
   },
   {
-    "itemName": "Galaxy S4 mini plus",
+    "itemName": "Samsung Galaxy S4 mini plus",
+    "tags": [
+      "Galaxy",
+      "S4",
+      "mini",
+      "Samsung",
+      "plus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6411,7 +7019,13 @@
     }
   },
   {
-    "itemName": "Galaxy S5 Neo",
+    "itemName": "Samsung Galaxy S5 Neo",
+    "tags": [
+      "Galaxy",
+      "S5",
+      "Neo",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6477,7 +7091,12 @@
     }
   },
   {
-    "itemName": "Galaxy Folder",
+    "itemName": "Samsung Galaxy Folder",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "Folder"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6532,7 +7151,12 @@
     }
   },
   {
-    "itemName": "Galaxy A8",
+    "itemName": "Samsung Galaxy A8",
+    "tags": [
+      "Galaxy",
+      "A8",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6600,7 +7224,12 @@
     }
   },
   {
-    "itemName": "Galaxy J7",
+    "itemName": "Samsung Galaxy J7",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "J7"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6666,7 +7295,12 @@
     }
   },
   {
-    "itemName": "Galaxy J5",
+    "itemName": "Samsung Galaxy J5",
+    "tags": [
+      "Galaxy",
+      "J5",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6731,7 +7365,13 @@
     }
   },
   {
-    "itemName": "Galaxy S6 Active",
+    "itemName": "Samsung Galaxy S6 Active",
+    "tags": [
+      "Galaxy",
+      "Active",
+      "S6",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6792,7 +7432,13 @@
     }
   },
   {
-    "itemName": "Galaxy Xcover 3",
+    "itemName": "Samsung Galaxy Xcover 3",
+    "tags": [
+      "Galaxy",
+      "3",
+      "Samsung",
+      "Xcover"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6849,7 +7495,14 @@
     }
   },
   {
-    "itemName": "Galaxy Win 2 Duos",
+    "itemName": "Samsung Galaxy Win 2 Duos",
+    "tags": [
+      "Galaxy",
+      "2",
+      "Duos",
+      "Samsung",
+      "Win"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6910,7 +7563,13 @@
     }
   },
   {
-    "itemName": "Galaxy S6 Edge",
+    "itemName": "Samsung Galaxy S6 Edge",
+    "tags": [
+      "Galaxy",
+      "S6",
+      "Samsung",
+      "Edge"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -6973,7 +7632,12 @@
     }
   },
   {
-    "itemName": "Galaxy S6",
+    "itemName": "Samsung Galaxy S6",
+    "tags": [
+      "Galaxy",
+      "S6",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7035,7 +7699,14 @@
     }
   },
   {
-    "itemName": "Galaxy S Duos 3-VE",
+    "itemName": "Samsung Galaxy S Duos 3-VE",
+    "tags": [
+      "Galaxy",
+      "S",
+      "Duos",
+      "Samsung",
+      "3-VE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7098,7 +7769,13 @@
     }
   },
   {
-    "itemName": "Galaxy A3 Duos",
+    "itemName": "Samsung Galaxy A3 Duos",
+    "tags": [
+      "Galaxy",
+      "A3",
+      "Duos",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7161,7 +7838,13 @@
     }
   },
   {
-    "itemName": "Galaxy J1 4G",
+    "itemName": "Samsung Galaxy J1 4G",
+    "tags": [
+      "Galaxy",
+      "4G",
+      "J1",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7224,7 +7907,14 @@
     }
   },
   {
-    "itemName": "Galaxy Grand Prime 4G",
+    "itemName": "Samsung Galaxy Grand Prime 4G",
+    "tags": [
+      "Galaxy",
+      "Grand",
+      "Prime",
+      "4G",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7287,7 +7977,14 @@
     }
   },
   {
-    "itemName": "Galaxy Core Prime 4G",
+    "itemName": "Samsung Galaxy Core Prime 4G",
+    "tags": [
+      "Galaxy",
+      "Prime",
+      "4G",
+      "Samsung",
+      "Core"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7349,7 +8046,12 @@
     }
   },
   {
-    "itemName": "Galaxy J1",
+    "itemName": "Samsung Galaxy J1",
+    "tags": [
+      "Galaxy",
+      "J1",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7413,7 +8115,14 @@
     }
   },
   {
-    "itemName": "Galaxy Grand Neo Plus",
+    "itemName": "Samsung Galaxy Grand Neo Plus",
+    "tags": [
+      "Galaxy",
+      "Grand",
+      "Neo",
+      "Samsung",
+      "Plus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7476,7 +8185,11 @@
     }
   },
   {
-    "itemName": "Z1",
+    "itemName": "Samsung Z1",
+    "tags": [
+      "Z1",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7537,7 +8250,13 @@
     }
   },
   {
-    "itemName": "Galaxy A7 Duos",
+    "itemName": "Samsung Galaxy A7 Duos",
+    "tags": [
+      "Galaxy",
+      "Duos",
+      "A7",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7602,7 +8321,12 @@
     }
   },
   {
-    "itemName": "Galaxy A7",
+    "itemName": "Samsung Galaxy A7",
+    "tags": [
+      "Galaxy",
+      "A7",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7666,7 +8390,13 @@
     }
   },
   {
-    "itemName": "Galaxy Grand Max",
+    "itemName": "Samsung Galaxy Grand Max",
+    "tags": [
+      "Galaxy",
+      "Grand",
+      "Max",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7732,7 +8462,13 @@
     }
   },
   {
-    "itemName": "Galaxy Prevail LTE",
+    "itemName": "Samsung Galaxy Prevail LTE",
+    "tags": [
+      "Prevail",
+      "Galaxy",
+      "Samsung",
+      "LTE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7789,7 +8525,12 @@
     }
   },
   {
-    "itemName": "Galaxy E7",
+    "itemName": "Samsung Galaxy E7",
+    "tags": [
+      "Galaxy",
+      "E7",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7850,7 +8591,12 @@
     }
   },
   {
-    "itemName": "Galaxy E5",
+    "itemName": "Samsung Galaxy E5",
+    "tags": [
+      "E5",
+      "Galaxy",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7912,7 +8658,14 @@
     }
   },
   {
-    "itemName": "Galaxy Note 4 S-LTE",
+    "itemName": "Samsung Galaxy Note 4 S-LTE",
+    "tags": [
+      "Galaxy",
+      "4",
+      "S-LTE",
+      "Note",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -7974,7 +8727,13 @@
     }
   },
   {
-    "itemName": "Galaxy A5 Duos",
+    "itemName": "Samsung Galaxy A5 Duos",
+    "tags": [
+      "Galaxy",
+      "A5",
+      "Duos",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8040,7 +8799,12 @@
     }
   },
   {
-    "itemName": "Galaxy A3",
+    "itemName": "Samsung Galaxy A3",
+    "tags": [
+      "Galaxy",
+      "A3",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8101,7 +8865,12 @@
     }
   },
   {
-    "itemName": "Galaxy A5",
+    "itemName": "Samsung Galaxy A5",
+    "tags": [
+      "Galaxy",
+      "A5",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8162,7 +8931,14 @@
     }
   },
   {
-    "itemName": "Galaxy Note 4 Duos",
+    "itemName": "Samsung Galaxy Note 4 Duos",
+    "tags": [
+      "Galaxy",
+      "4",
+      "Duos",
+      "Note",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8224,7 +9000,13 @@
     }
   },
   {
-    "itemName": "Galaxy Core Max",
+    "itemName": "Samsung Galaxy Core Max",
+    "tags": [
+      "Galaxy",
+      "Max",
+      "Samsung",
+      "Core"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8288,7 +9070,13 @@
     }
   },
   {
-    "itemName": "Galaxy Grand Prime",
+    "itemName": "Samsung Galaxy Grand Prime",
+    "tags": [
+      "Galaxy",
+      "Grand",
+      "Prime",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8350,7 +9138,14 @@
     }
   },
   {
-    "itemName": "Galaxy Ace Style LTE",
+    "itemName": "Samsung Galaxy Ace Style LTE",
+    "tags": [
+      "Galaxy",
+      "Ace",
+      "Style",
+      "Samsung",
+      "LTE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8409,7 +9204,14 @@
     }
   },
   {
-    "itemName": "Galaxy S Duos 3",
+    "itemName": "Samsung Galaxy S Duos 3",
+    "tags": [
+      "Galaxy",
+      "S",
+      "3",
+      "Duos",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8473,7 +9275,13 @@
     }
   },
   {
-    "itemName": "Galaxy Note 4",
+    "itemName": "Samsung Galaxy Note 4",
+    "tags": [
+      "Galaxy",
+      "4",
+      "Note",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8536,7 +9344,13 @@
     }
   },
   {
-    "itemName": "Galaxy Note Edge",
+    "itemName": "Samsung Galaxy Note Edge",
+    "tags": [
+      "Galaxy",
+      "Note",
+      "Samsung",
+      "Edge"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8600,7 +9414,13 @@
     }
   },
   {
-    "itemName": "Galaxy Mega 2",
+    "itemName": "Samsung Galaxy Mega 2",
+    "tags": [
+      "Galaxy",
+      "2",
+      "Mega",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8662,7 +9482,13 @@
     }
   },
   {
-    "itemName": "Galaxy S5 Plus",
+    "itemName": "Samsung Galaxy S5 Plus",
+    "tags": [
+      "Galaxy",
+      "S5",
+      "Samsung",
+      "Plus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8726,7 +9552,12 @@
     }
   },
   {
-    "itemName": "Galaxy Alpha",
+    "itemName": "Samsung Galaxy Alpha",
+    "tags": [
+      "Galaxy",
+      "Alpha",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8789,7 +9620,14 @@
     }
   },
   {
-    "itemName": "Galaxy S5 Mini Duos",
+    "itemName": "Samsung Galaxy S5 Mini Duos",
+    "tags": [
+      "Galaxy",
+      "S5",
+      "Mini",
+      "Duos",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8854,7 +9692,12 @@
     }
   },
   {
-    "itemName": "Galaxy Avant",
+    "itemName": "Samsung Galaxy Avant",
+    "tags": [
+      "Galaxy",
+      "Avant",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8915,7 +9758,13 @@
     }
   },
   {
-    "itemName": "Galaxy Star 2",
+    "itemName": "Samsung Galaxy Star 2",
+    "tags": [
+      "Galaxy",
+      "2",
+      "Star",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -8979,7 +9828,13 @@
     }
   },
   {
-    "itemName": "Guru Music 2",
+    "itemName": "Samsung Guru Music 2",
+    "tags": [
+      "2",
+      "Guru",
+      "Music",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -9029,7 +9884,12 @@
     }
   },
   {
-    "itemName": "Metro 312",
+    "itemName": "Samsung Metro 312",
+    "tags": [
+      "312",
+      "Metro",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -9079,7 +9939,13 @@
     }
   },
   {
-    "itemName": "Galaxy Ace NXT",
+    "itemName": "Samsung Galaxy Ace NXT",
+    "tags": [
+      "Galaxy",
+      "Ace",
+      "NXT",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9141,7 +10007,13 @@
     }
   },
   {
-    "itemName": "Galaxy Star Advance",
+    "itemName": "Samsung Galaxy Star Advance",
+    "tags": [
+      "Galaxy",
+      "Advance",
+      "Star",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9203,7 +10075,12 @@
     }
   },
   {
-    "itemName": "Galaxy S5-LTE",
+    "itemName": "Samsung Galaxy S5-LTE",
+    "tags": [
+      "S5-LTE",
+      "Galaxy",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9267,7 +10144,13 @@
     }
   },
   {
-    "itemName": "Galaxy S5 mini",
+    "itemName": "Samsung Galaxy S5 mini",
+    "tags": [
+      "Galaxy",
+      "S5",
+      "mini",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9329,7 +10212,13 @@
     }
   },
   {
-    "itemName": "Galaxy Core 2",
+    "itemName": "Samsung Galaxy Core 2",
+    "tags": [
+      "Galaxy",
+      "2",
+      "Samsung",
+      "Core"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9392,7 +10281,14 @@
     }
   },
   {
-    "itemName": "Galaxy Ace 4 LTE",
+    "itemName": "Samsung Galaxy Ace 4 LTE",
+    "tags": [
+      "Galaxy",
+      "Ace",
+      "4",
+      "Samsung",
+      "LTE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9455,7 +10351,13 @@
     }
   },
   {
-    "itemName": "Galaxy Ace 4",
+    "itemName": "Samsung Galaxy Ace 4",
+    "tags": [
+      "Galaxy",
+      "Ace",
+      "4",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9518,7 +10420,14 @@
     }
   },
   {
-    "itemName": "Galaxy Core Mini 4G",
+    "itemName": "Samsung Galaxy Core Mini 4G",
+    "tags": [
+      "Galaxy",
+      "Mini",
+      "4G",
+      "Samsung",
+      "Core"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9576,7 +10485,13 @@
     }
   },
   {
-    "itemName": "Galaxy S5 Sport",
+    "itemName": "Samsung Galaxy S5 Sport",
+    "tags": [
+      "Galaxy",
+      "S5",
+      "Sport",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9639,7 +10554,13 @@
     }
   },
   {
-    "itemName": "Galaxy S5 LTE-A",
+    "itemName": "Samsung Galaxy S5 LTE-A",
+    "tags": [
+      "Galaxy",
+      "S5",
+      "LTE-A",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9701,7 +10622,13 @@
     }
   },
   {
-    "itemName": "S III Neo",
+    "itemName": "Samsung S III Neo",
+    "tags": [
+      "S",
+      "III",
+      "Neo",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9763,7 +10690,13 @@
     }
   },
   {
-    "itemName": "Galaxy Core Lite",
+    "itemName": "Samsung Galaxy Core Lite",
+    "tags": [
+      "Galaxy",
+      "Lite",
+      "Samsung",
+      "Core"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9824,7 +10757,11 @@
     }
   },
   {
-    "itemName": "Z",
+    "itemName": "Samsung Z",
+    "tags": [
+      "Z",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9886,7 +10823,13 @@
     }
   },
   {
-    "itemName": "Galaxy S5 Active",
+    "itemName": "Samsung Galaxy S5 Active",
+    "tags": [
+      "Galaxy",
+      "S5",
+      "Active",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -9947,7 +10890,14 @@
     }
   },
   {
-    "itemName": "Galaxy S4 Value Edition",
+    "itemName": "Samsung Galaxy S4 Value Edition",
+    "tags": [
+      "Galaxy",
+      "S4",
+      "Value",
+      "Samsung",
+      "Edition"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10008,7 +10958,11 @@
     }
   },
   {
-    "itemName": "SM-G9098",
+    "itemName": "Samsung SM-G9098",
+    "tags": [
+      "SM-G9098",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10068,7 +11022,13 @@
     }
   },
   {
-    "itemName": "Galaxy K zoom",
+    "itemName": "Samsung Galaxy K zoom",
+    "tags": [
+      "Galaxy",
+      "zoom",
+      "K",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10128,7 +11088,13 @@
     }
   },
   {
-    "itemName": "Galaxy Beam 2",
+    "itemName": "Samsung Galaxy Beam 2",
+    "tags": [
+      "Beam",
+      "Galaxy",
+      "2",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10187,7 +11153,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab 3 10.1 3G",
+    "itemName": "Samsung Galaxy Tab 3 10.1 3G",
+    "tags": [
+      "Galaxy",
+      "3",
+      "Tab",
+      "3G",
+      "10.1",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10243,7 +11217,13 @@
     }
   },
   {
-    "itemName": "Galaxy Ace Style",
+    "itemName": "Samsung Galaxy Ace Style",
+    "tags": [
+      "Galaxy",
+      "Ace",
+      "Style",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10304,7 +11284,12 @@
     }
   },
   {
-    "itemName": "Ativ SE",
+    "itemName": "Samsung Ativ SE",
+    "tags": [
+      "SE",
+      "Samsung",
+      "Ativ"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10367,7 +11352,13 @@
     }
   },
   {
-    "itemName": "Galaxy S3 Neo",
+    "itemName": "Samsung Galaxy S3 Neo",
+    "tags": [
+      "S3",
+      "Galaxy",
+      "Neo",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10431,7 +11422,12 @@
     }
   },
   {
-    "itemName": "Galaxy S5",
+    "itemName": "Samsung Galaxy S5",
+    "tags": [
+      "Galaxy",
+      "S5",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10497,7 +11493,13 @@
     }
   },
   {
-    "itemName": "Galaxy S3 Slim",
+    "itemName": "Samsung Galaxy S3 Slim",
+    "tags": [
+      "S3",
+      "Galaxy",
+      "Slim",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10559,7 +11561,16 @@
     }
   },
   {
-    "itemName": "Galaxy S III mini Value Edition",
+    "itemName": "Samsung Galaxy S III mini Value Edition",
+    "tags": [
+      "Galaxy",
+      "S",
+      "mini",
+      "III",
+      "Value",
+      "Samsung",
+      "Edition"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10617,7 +11628,13 @@
     }
   },
   {
-    "itemName": "Galaxy Core 4G",
+    "itemName": "Samsung Galaxy Core 4G",
+    "tags": [
+      "Galaxy",
+      "4G",
+      "Samsung",
+      "Core"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10678,7 +11695,13 @@
     }
   },
   {
-    "itemName": "Galaxy Mega Plus",
+    "itemName": "Samsung Galaxy Mega Plus",
+    "tags": [
+      "Galaxy",
+      "Mega",
+      "Samsung",
+      "Plus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10740,7 +11763,13 @@
     }
   },
   {
-    "itemName": "Galaxy Star Trios",
+    "itemName": "Samsung Galaxy Star Trios",
+    "tags": [
+      "Galaxy",
+      "Star",
+      "Trios",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10805,7 +11834,13 @@
     }
   },
   {
-    "itemName": "Galaxy Core Prime",
+    "itemName": "Samsung Galaxy Core Prime",
+    "tags": [
+      "Galaxy",
+      "Prime",
+      "Samsung",
+      "Core"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10868,7 +11903,14 @@
     }
   },
   {
-    "itemName": "Galaxy Note 3 Neo",
+    "itemName": "Samsung Galaxy Note 3 Neo",
+    "tags": [
+      "Galaxy",
+      "3",
+      "Note",
+      "Neo",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10933,7 +11975,13 @@
     }
   },
   {
-    "itemName": "Galaxy Grand Neo",
+    "itemName": "Samsung Galaxy Grand Neo",
+    "tags": [
+      "Galaxy",
+      "Grand",
+      "Neo",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -10995,7 +12043,14 @@
     }
   },
   {
-    "itemName": "Galaxy S III Neo+ ",
+    "itemName": "Samsung Galaxy S III Neo+ ",
+    "tags": [
+      "Galaxy",
+      "S",
+      "Neo+",
+      "III",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11058,7 +12113,13 @@
     }
   },
   {
-    "itemName": "Galaxy Core Advance",
+    "itemName": "Samsung Galaxy Core Advance",
+    "tags": [
+      "Galaxy",
+      "Advance",
+      "Samsung",
+      "Core"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11119,7 +12180,13 @@
     }
   },
   {
-    "itemName": "Galaxy Win Pro",
+    "itemName": "Samsung Galaxy Win Pro",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "Pro",
+      "Win"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11180,7 +12247,14 @@
     }
   },
   {
-    "itemName": "Galaxy S Duos 2",
+    "itemName": "Samsung Galaxy S Duos 2",
+    "tags": [
+      "Galaxy",
+      "2",
+      "S",
+      "Duos",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11243,7 +12317,13 @@
     }
   },
   {
-    "itemName": "Galaxy Grand 2",
+    "itemName": "Samsung Galaxy Grand 2",
+    "tags": [
+      "Galaxy",
+      "Grand",
+      "2",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11308,7 +12388,13 @@
     }
   },
   {
-    "itemName": "Galaxy Core Plus",
+    "itemName": "Samsung Galaxy Core Plus",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "Plus",
+      "Core"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11370,7 +12456,11 @@
     }
   },
   {
-    "itemName": "W2014",
+    "itemName": "Samsung W2014",
+    "tags": [
+      "W2014",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11432,7 +12522,13 @@
     }
   },
   {
-    "itemName": "Galaxy Express 2",
+    "itemName": "Samsung Galaxy Express 2",
+    "tags": [
+      "Galaxy",
+      "2",
+      "Express",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11493,7 +12589,13 @@
     }
   },
   {
-    "itemName": "Galaxy Trend Lite",
+    "itemName": "Samsung Galaxy Trend Lite",
+    "tags": [
+      "Galaxy",
+      "Trend",
+      "Lite",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11553,7 +12655,13 @@
     }
   },
   {
-    "itemName": "Galaxy Fame Lite",
+    "itemName": "Samsung Galaxy Fame Lite",
+    "tags": [
+      "Galaxy",
+      "Fame",
+      "Lite",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11608,7 +12716,12 @@
     }
   },
   {
-    "itemName": "Galaxy J",
+    "itemName": "Samsung Galaxy J",
+    "tags": [
+      "Galaxy",
+      "J",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11671,7 +12784,12 @@
     }
   },
   {
-    "itemName": "Galaxy Round",
+    "itemName": "Samsung Galaxy Round",
+    "tags": [
+      "Galaxy",
+      "Round",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11734,7 +12852,13 @@
     }
   },
   {
-    "itemName": "Galaxy Star Pro",
+    "itemName": "Samsung Galaxy Star Pro",
+    "tags": [
+      "Galaxy",
+      "Star",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11797,7 +12921,13 @@
     }
   },
   {
-    "itemName": "Galaxy Trend 3",
+    "itemName": "Samsung Galaxy Trend 3",
+    "tags": [
+      "Galaxy",
+      "3",
+      "Trend",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11860,7 +12990,12 @@
     }
   },
   {
-    "itemName": "Galaxy Trend",
+    "itemName": "Samsung Galaxy Trend",
+    "tags": [
+      "Galaxy",
+      "Trend",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11922,7 +13057,13 @@
     }
   },
   {
-    "itemName": "Galaxy Note 3",
+    "itemName": "Samsung Galaxy Note 3",
+    "tags": [
+      "Galaxy",
+      "3",
+      "Note",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -11984,7 +13125,12 @@
     }
   },
   {
-    "itemName": "Galaxy Golden",
+    "itemName": "Samsung Galaxy Golden",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "Golden"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12045,7 +13191,11 @@
     }
   },
   {
-    "itemName": "W789",
+    "itemName": "Samsung W789",
+    "tags": [
+      "W789",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12103,7 +13253,13 @@
     }
   },
   {
-    "itemName": "Galaxy S4 Mini",
+    "itemName": "Samsung Galaxy S4 Mini",
+    "tags": [
+      "Galaxy",
+      "S4",
+      "Mini",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12168,7 +13324,13 @@
     }
   },
   {
-    "itemName": "Galaxy S4 Zoom",
+    "itemName": "Samsung Galaxy S4 Zoom",
+    "tags": [
+      "Galaxy",
+      "S4",
+      "Zoom",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12232,7 +13394,13 @@
     }
   },
   {
-    "itemName": "Galaxy Ace 3",
+    "itemName": "Samsung Galaxy Ace 3",
+    "tags": [
+      "Galaxy",
+      "Ace",
+      "3",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12295,7 +13463,13 @@
     }
   },
   {
-    "itemName": "Galaxy S4 Active",
+    "itemName": "Samsung Galaxy S4 Active",
+    "tags": [
+      "Galaxy",
+      "S4",
+      "Active",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12358,7 +13532,13 @@
     }
   },
   {
-    "itemName": "Galaxy Mega 6.3",
+    "itemName": "Samsung Galaxy Mega 6.3",
+    "tags": [
+      "Galaxy",
+      "Mega",
+      "6.3",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12420,7 +13600,13 @@
     }
   },
   {
-    "itemName": "Galaxy Mega 5.8",
+    "itemName": "Samsung Galaxy Mega 5.8",
+    "tags": [
+      "Galaxy",
+      "Mega",
+      "Samsung",
+      "5.8"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12482,7 +13668,13 @@
     }
   },
   {
-    "itemName": "Galaxy Grand Quattro",
+    "itemName": "Samsung Galaxy Grand Quattro",
+    "tags": [
+      "Galaxy",
+      "Grand",
+      "Quattro",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12545,7 +13737,12 @@
     }
   },
   {
-    "itemName": "Galaxy Core",
+    "itemName": "Samsung Galaxy Core",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "Core"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12608,7 +13805,12 @@
     }
   },
   {
-    "itemName": "Galaxy Young",
+    "itemName": "Samsung Galaxy Young",
+    "tags": [
+      "Galaxy",
+      "Young",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12671,7 +13873,13 @@
     }
   },
   {
-    "itemName": "Galaxy Y Plus",
+    "itemName": "Samsung Galaxy Y Plus",
+    "tags": [
+      "Galaxy",
+      "Y",
+      "Samsung",
+      "Plus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12732,7 +13940,13 @@
     }
   },
   {
-    "itemName": "Galaxy Win Duos",
+    "itemName": "Samsung Galaxy Win Duos",
+    "tags": [
+      "Galaxy",
+      "Duos",
+      "Samsung",
+      "Win"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12795,7 +14009,12 @@
     }
   },
   {
-    "itemName": "Galaxy Win",
+    "itemName": "Samsung Galaxy Win",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "Win"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12858,7 +14077,12 @@
     }
   },
   {
-    "itemName": "Galaxy Star",
+    "itemName": "Samsung Galaxy Star",
+    "tags": [
+      "Galaxy",
+      "Star",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12922,7 +14146,12 @@
     }
   },
   {
-    "itemName": "Galaxy S4",
+    "itemName": "Samsung Galaxy S4",
+    "tags": [
+      "Galaxy",
+      "S4",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -12986,7 +14215,13 @@
     }
   },
   {
-    "itemName": "Galaxy Pocket Neo",
+    "itemName": "Samsung Galaxy Pocket Neo",
+    "tags": [
+      "Galaxy",
+      "Pocket",
+      "Neo",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13049,7 +14284,12 @@
     }
   },
   {
-    "itemName": "Galaxy Fame",
+    "itemName": "Samsung Galaxy Fame",
+    "tags": [
+      "Galaxy",
+      "Fame",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13112,7 +14352,12 @@
     }
   },
   {
-    "itemName": "Metro 2252",
+    "itemName": "Samsung Metro 2252",
+    "tags": [
+      "Metro",
+      "2252",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -13171,7 +14416,11 @@
     }
   },
   {
-    "itemName": "E1282T",
+    "itemName": "Samsung E1282T",
+    "tags": [
+      "Samsung",
+      "E1282T"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13224,7 +14473,12 @@
     }
   },
   {
-    "itemName": "Rex 90",
+    "itemName": "Samsung Rex 90",
+    "tags": [
+      "Rex",
+      "90",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13283,7 +14537,12 @@
     }
   },
   {
-    "itemName": "Rex 80",
+    "itemName": "Samsung Rex 80",
+    "tags": [
+      "Rex",
+      "80",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13342,7 +14601,12 @@
     }
   },
   {
-    "itemName": "Rex 70",
+    "itemName": "Samsung Rex 70",
+    "tags": [
+      "Rex",
+      "70",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13402,7 +14666,12 @@
     }
   },
   {
-    "itemName": "Rex 60",
+    "itemName": "Samsung Rex 60",
+    "tags": [
+      "Rex",
+      "60",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13461,7 +14730,11 @@
     }
   },
   {
-    "itemName": "GT-E2202",
+    "itemName": "Samsung GT-E2202",
+    "tags": [
+      "GT-E2202",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -13514,7 +14787,14 @@
     }
   },
   {
-    "itemName": "Galaxy S II Plus",
+    "itemName": "Samsung Galaxy S II Plus",
+    "tags": [
+      "II",
+      "Galaxy",
+      "S",
+      "Samsung",
+      "Plus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13577,7 +14857,13 @@
     }
   },
   {
-    "itemName": "Galaxy Grand Duos",
+    "itemName": "Samsung Galaxy Grand Duos",
+    "tags": [
+      "Galaxy",
+      "Grand",
+      "Duos",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13642,7 +14928,13 @@
     }
   },
   {
-    "itemName": "Galaxy S Duos",
+    "itemName": "Samsung Galaxy S Duos",
+    "tags": [
+      "Galaxy",
+      "S",
+      "Duos",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13706,7 +14998,13 @@
     }
   },
   {
-    "itemName": "Galaxy Note II",
+    "itemName": "Samsung Galaxy Note II",
+    "tags": [
+      "II",
+      "Galaxy",
+      "Note",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13770,7 +15068,11 @@
     }
   },
   {
-    "itemName": "E1207T",
+    "itemName": "Samsung E1207T",
+    "tags": [
+      "Samsung",
+      "E1207T"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13821,7 +15123,12 @@
     }
   },
   {
-    "itemName": "Galaxy Music",
+    "itemName": "Samsung Galaxy Music",
+    "tags": [
+      "Galaxy",
+      "Music",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13884,7 +15191,12 @@
     }
   },
   {
-    "itemName": "Guru 1200",
+    "itemName": "Samsung Guru 1200",
+    "tags": [
+      "Guru",
+      "1200",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -13935,7 +15247,13 @@
     }
   },
   {
-    "itemName": "Champ Neo Duos",
+    "itemName": "Samsung Champ Neo Duos",
+    "tags": [
+      "Duos",
+      "Neo",
+      "Samsung",
+      "Champ"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -13997,7 +15315,14 @@
     }
   },
   {
-    "itemName": "Galaxy Y Duos Lite",
+    "itemName": "Samsung Galaxy Y Duos Lite",
+    "tags": [
+      "Galaxy",
+      "Duos",
+      "Y",
+      "Lite",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -14058,7 +15383,12 @@
     }
   },
   {
-    "itemName": "Galaxy Ch@t",
+    "itemName": "Samsung Galaxy Ch@t",
+    "tags": [
+      "Galaxy",
+      "Ch@t",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14116,7 +15446,12 @@
     }
   },
   {
-    "itemName": "Omnia M",
+    "itemName": "Samsung Omnia M",
+    "tags": [
+      "Omnia",
+      "Samsung",
+      "M"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14176,7 +15511,13 @@
     }
   },
   {
-    "itemName": "Galaxy Ace Duos",
+    "itemName": "Samsung Galaxy Ace Duos",
+    "tags": [
+      "Galaxy",
+      "Ace",
+      "Duos",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14240,7 +15581,12 @@
     }
   },
   {
-    "itemName": "Guru 1205",
+    "itemName": "Samsung Guru 1205",
+    "tags": [
+      "1205",
+      "Guru",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14290,7 +15636,13 @@
     }
   },
   {
-    "itemName": "Galaxy S III",
+    "itemName": "Samsung Galaxy S III",
+    "tags": [
+      "Galaxy",
+      "S",
+      "III",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14354,7 +15706,13 @@
     }
   },
   {
-    "itemName": "Galaxy Y CDMA",
+    "itemName": "Samsung Galaxy Y CDMA",
+    "tags": [
+      "Galaxy",
+      "Y",
+      "CDMA",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14411,7 +15769,12 @@
     }
   },
   {
-    "itemName": "Galaxy Pocket",
+    "itemName": "Samsung Galaxy Pocket",
+    "tags": [
+      "Galaxy",
+      "Pocket",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14472,7 +15835,13 @@
     }
   },
   {
-    "itemName": "Champ Deluxe Duos",
+    "itemName": "Samsung Champ Deluxe Duos",
+    "tags": [
+      "Duos",
+      "Samsung",
+      "Deluxe",
+      "Champ"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14529,7 +15898,13 @@
     }
   },
   {
-    "itemName": "Galaxy Y Duos",
+    "itemName": "Samsung Galaxy Y Duos",
+    "tags": [
+      "Galaxy",
+      "Duos",
+      "Y",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14593,7 +15968,12 @@
     }
   },
   {
-    "itemName": "Galaxy Beam",
+    "itemName": "Samsung Galaxy Beam",
+    "tags": [
+      "Beam",
+      "Galaxy",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14655,7 +16035,13 @@
     }
   },
   {
-    "itemName": "Galaxy Ace Plus",
+    "itemName": "Samsung Galaxy Ace Plus",
+    "tags": [
+      "Galaxy",
+      "Ace",
+      "Samsung",
+      "Plus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14717,7 +16103,13 @@
     }
   },
   {
-    "itemName": "Star 3 Duos",
+    "itemName": "Samsung Star 3 Duos",
+    "tags": [
+      "3",
+      "Star",
+      "Duos",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14778,7 +16170,13 @@
     }
   },
   {
-    "itemName": "Galaxy S Advance",
+    "itemName": "Samsung Galaxy S Advance",
+    "tags": [
+      "Galaxy",
+      "S",
+      "Advance",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14841,7 +16239,11 @@
     }
   },
   {
-    "itemName": "B229",
+    "itemName": "Samsung B229",
+    "tags": [
+      "B229",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14892,7 +16294,12 @@
     }
   },
   {
-    "itemName": "Wave M",
+    "itemName": "Samsung Wave M",
+    "tags": [
+      "Wave",
+      "Samsung",
+      "M"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -14954,7 +16361,14 @@
     }
   },
   {
-    "itemName": "Galaxy Y Pro Duos",
+    "itemName": "Samsung Galaxy Y Pro Duos",
+    "tags": [
+      "Galaxy",
+      "Duos",
+      "Y",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -15017,7 +16431,12 @@
     }
   },
   {
-    "itemName": "Wave Y",
+    "itemName": "Samsung Wave Y",
+    "tags": [
+      "Wave",
+      "Y",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -15079,7 +16498,12 @@
     }
   },
   {
-    "itemName": "Galaxy Note",
+    "itemName": "Samsung Galaxy Note",
+    "tags": [
+      "Galaxy",
+      "Note",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -15141,7 +16565,12 @@
     }
   },
   {
-    "itemName": "Champ 2",
+    "itemName": "Samsung Champ 2",
+    "tags": [
+      "2",
+      "Samsung",
+      "Champ"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -15200,7 +16629,12 @@
     }
   },
   {
-    "itemName": "Wave 3",
+    "itemName": "Samsung Wave 3",
+    "tags": [
+      "Wave",
+      "3",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -15262,7 +16696,12 @@
     }
   },
   {
-    "itemName": "Galaxy Y",
+    "itemName": "Samsung Galaxy Y",
+    "tags": [
+      "Galaxy",
+      "Y",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -15323,7 +16762,12 @@
     }
   },
   {
-    "itemName": "Primo Duos",
+    "itemName": "Samsung Primo Duos",
+    "tags": [
+      "Primo",
+      "Duos",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -15382,7 +16826,11 @@
     }
   },
   {
-    "itemName": "Primo",
+    "itemName": "Samsung Primo",
+    "tags": [
+      "Primo",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -15441,7 +16889,12 @@
     }
   },
   {
-    "itemName": "Metro Duos",
+    "itemName": "Samsung Metro Duos",
+    "tags": [
+      "Metro",
+      "Duos",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -15498,7 +16951,13 @@
     }
   },
   {
-    "itemName": "Galaxy S II",
+    "itemName": "Samsung Galaxy S II",
+    "tags": [
+      "II",
+      "Galaxy",
+      "S",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -15558,7 +17017,13 @@
     }
   },
   {
-    "itemName": "Hero Plus B159",
+    "itemName": "Samsung Hero Plus B159",
+    "tags": [
+      "Hero",
+      "Samsung",
+      "Plus",
+      "B159"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -15614,7 +17079,11 @@
     }
   },
   {
-    "itemName": "B209",
+    "itemName": "Samsung B209",
+    "tags": [
+      "B209",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -15667,7 +17136,11 @@
     }
   },
   {
-    "itemName": "Hero",
+    "itemName": "Samsung Hero",
+    "tags": [
+      "Hero",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -15720,7 +17193,12 @@
     }
   },
   {
-    "itemName": "Galaxy Ace ",
+    "itemName": "Samsung Galaxy Ace ",
+    "tags": [
+      "Galaxy",
+      "Ace",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -15779,7 +17257,11 @@
     }
   },
   {
-    "itemName": "Chat ",
+    "itemName": "Samsung Chat ",
+    "tags": [
+      "Chat",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -15837,7 +17319,13 @@
     }
   },
   {
-    "itemName": "Mpower TV S239",
+    "itemName": "Samsung Mpower TV S239",
+    "tags": [
+      "TV",
+      "S239",
+      "Mpower",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -15891,7 +17379,13 @@
     }
   },
   {
-    "itemName": "Mpower Muzik 219",
+    "itemName": "Samsung Mpower Muzik 219",
+    "tags": [
+      "Muzik",
+      "219",
+      "Mpower",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -15945,7 +17439,12 @@
     }
   },
   {
-    "itemName": "Galaxy S",
+    "itemName": "Samsung Galaxy S",
+    "tags": [
+      "Galaxy",
+      "S",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -16007,7 +17506,12 @@
     }
   },
   {
-    "itemName": "Galaxy i7500",
+    "itemName": "Samsung Galaxy i7500",
+    "tags": [
+      "Galaxy",
+      "i7500",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -16068,7 +17572,13 @@
     }
   },
   {
-    "itemName": "Galaxy S8 Active",
+    "itemName": "Samsung Galaxy S8 Active",
+    "tags": [
+      "Galaxy",
+      "Active",
+      "S8",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -16129,7 +17639,13 @@
     }
   },
   {
-    "itemName": "Galaxy J2 Pro",
+    "itemName": "Samsung Galaxy J2 Pro",
+    "tags": [
+      "Galaxy",
+      "J2",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -16190,7 +17706,12 @@
     }
   },
   {
-    "itemName": "Galaxy C7",
+    "itemName": "Samsung Galaxy C7",
+    "tags": [
+      "Galaxy",
+      "C7",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -16252,7 +17773,12 @@
     }
   },
   {
-    "itemName": "Galaxy C5",
+    "itemName": "Samsung Galaxy C5",
+    "tags": [
+      "Galaxy",
+      "C5",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -16314,7 +17840,13 @@
     }
   },
   {
-    "itemName": "Galaxy Amp Prime",
+    "itemName": "Samsung Galaxy Amp Prime",
+    "tags": [
+      "Galaxy",
+      "Prime",
+      "Amp",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -16361,7 +17893,13 @@
     }
   },
   {
-    "itemName": "Galaxy Young 2",
+    "itemName": "Samsung Galaxy Young 2",
+    "tags": [
+      "Galaxy",
+      "Young",
+      "2",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",

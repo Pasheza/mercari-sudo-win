@@ -1,6 +1,14 @@
 [
   {
-    "itemName": "Galaxy Tab A 10.5 (LTE)",
+    "itemName": "Samsung Galaxy Tab A 10.5 (LTE)",
+    "tags": [
+      "Galaxy",
+      "A",
+      "10.5",
+      "(LTE)",
+      "Tab",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -50,7 +58,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab A 10.5 (Wi-Fi)",
+    "itemName": "Samsung Galaxy Tab A 10.5 (Wi-Fi)",
+    "tags": [
+      "Galaxy",
+      "A",
+      "10.5",
+      "Tab",
+      "Samsung",
+      "(Wi-Fi)"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -100,7 +116,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab S4 (LTE)",
+    "itemName": "Samsung Galaxy Tab S4 (LTE)",
+    "tags": [
+      "Galaxy",
+      "S4",
+      "(LTE)",
+      "Tab",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -157,7 +180,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab S4 (Wi-Fi)",
+    "itemName": "Samsung Galaxy Tab S4 (Wi-Fi)",
+    "tags": [
+      "Galaxy",
+      "S4",
+      "Tab",
+      "Samsung",
+      "(Wi-Fi)"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -207,7 +237,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab A 7.0 (2018)",
+    "itemName": "Samsung Galaxy Tab A 7.0 (2018)",
+    "tags": [
+      "Galaxy",
+      "A",
+      "Tab",
+      "(2018)",
+      "7.0",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -254,7 +292,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab Active 2",
+    "itemName": "Samsung Galaxy Tab Active 2",
+    "tags": [
+      "Galaxy",
+      "Active",
+      "2",
+      "Tab",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -305,7 +350,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab A 8.0 (2017)",
+    "itemName": "Samsung Galaxy Tab A 8.0 (2017)",
+    "tags": [
+      "Galaxy",
+      "A",
+      "Tab",
+      "(2017)",
+      "8.0",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -367,7 +420,14 @@
     }
   },
   {
-    "itemName": "Galaxy Book 12 (LTE)",
+    "itemName": "Samsung Galaxy Book 12 (LTE)",
+    "tags": [
+      "Galaxy",
+      "12",
+      "(LTE)",
+      "Book",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -418,7 +478,14 @@
     }
   },
   {
-    "itemName": "Galaxy Book 12 (Wi-Fi)",
+    "itemName": "Samsung Galaxy Book 12 (Wi-Fi)",
+    "tags": [
+      "Galaxy",
+      "12",
+      "Book",
+      "Samsung",
+      "(Wi-Fi)"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -470,7 +537,14 @@
     }
   },
   {
-    "itemName": "Galaxy Book 10.6 (LTE)",
+    "itemName": "Samsung Galaxy Book 10.6 (LTE)",
+    "tags": [
+      "10.6",
+      "Galaxy",
+      "(LTE)",
+      "Book",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -521,7 +595,14 @@
     }
   },
   {
-    "itemName": "Galaxy Book 10.6 (Wi-Fi)",
+    "itemName": "Samsung Galaxy Book 10.6 (Wi-Fi)",
+    "tags": [
+      "10.6",
+      "Galaxy",
+      "Book",
+      "Samsung",
+      "(Wi-Fi)"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -572,7 +653,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab S3 (LTE)",
+    "itemName": "Samsung Galaxy Tab S3 (LTE)",
+    "tags": [
+      "S3",
+      "Galaxy",
+      "(LTE)",
+      "Tab",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -631,7 +719,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab S3 (Wi-Fi)",
+    "itemName": "Samsung Galaxy Tab S3 (Wi-Fi)",
+    "tags": [
+      "S3",
+      "Galaxy",
+      "Tab",
+      "Samsung",
+      "(Wi-Fi)"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -684,7 +779,15 @@
     }
   },
   {
-    "itemName": "Galaxy TabPro S Gold Edition",
+    "itemName": "Samsung Galaxy TabPro S Gold Edition",
+    "tags": [
+      "Galaxy",
+      "Gold",
+      "TabPro",
+      "S",
+      "Samsung",
+      "Edition"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -735,7 +838,18 @@
     }
   },
   {
-    "itemName": "Galaxy Tab A 10.1 (2016) with S Pen",
+    "itemName": "Samsung Galaxy Tab A 10.1 (2016) with S Pen",
+    "tags": [
+      "Galaxy",
+      "A",
+      "with",
+      "S",
+      "Tab",
+      "10.1",
+      "(2016)",
+      "Pen",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -796,7 +910,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab A Nook",
+    "itemName": "Samsung Galaxy Tab A Nook",
+    "tags": [
+      "Galaxy",
+      "A",
+      "Tab",
+      "Nook",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -848,7 +969,13 @@
     }
   },
   {
-    "itemName": "Galaxy J Max",
+    "itemName": "Samsung Galaxy J Max",
+    "tags": [
+      "Galaxy",
+      "Max",
+      "J",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -908,7 +1035,13 @@
     }
   },
   {
-    "itemName": "Galaxy Tab Iris",
+    "itemName": "Samsung Galaxy Tab Iris",
+    "tags": [
+      "Galaxy",
+      "Iris",
+      "Tab",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -967,7 +1100,16 @@
     }
   },
   {
-    "itemName": "Galaxy Tab A 10.1 (2016) LTE",
+    "itemName": "Samsung Galaxy Tab A 10.1 (2016) LTE",
+    "tags": [
+      "Galaxy",
+      "A",
+      "Tab",
+      "10.1",
+      "(2016)",
+      "Samsung",
+      "LTE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1029,7 +1171,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab A 10.1 (2016)",
+    "itemName": "Samsung Galaxy Tab A 10.1 (2016)",
+    "tags": [
+      "Galaxy",
+      "A",
+      "Tab",
+      "10.1",
+      "(2016)",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1083,7 +1233,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab A (2016)",
+    "itemName": "Samsung Galaxy Tab A (2016)",
+    "tags": [
+      "Galaxy",
+      "A",
+      "Tab",
+      "(2016)",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1136,7 +1293,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab E 8.0",
+    "itemName": "Samsung Galaxy Tab E 8.0",
+    "tags": [
+      "Galaxy",
+      "Tab",
+      "E",
+      "8.0",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1178,7 +1342,13 @@
     }
   },
   {
-    "itemName": "Galaxy TabPro S",
+    "itemName": "Samsung Galaxy TabPro S",
+    "tags": [
+      "Galaxy",
+      "TabPro",
+      "S",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1228,7 +1398,14 @@
     }
   },
   {
-    "itemName": "Galaxy TabPro S LTE",
+    "itemName": "Samsung Galaxy TabPro S LTE",
+    "tags": [
+      "Galaxy",
+      "TabPro",
+      "S",
+      "Samsung",
+      "LTE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1284,7 +1461,12 @@
     }
   },
   {
-    "itemName": "Galaxy View",
+    "itemName": "Samsung Galaxy View",
+    "tags": [
+      "Galaxy",
+      "Samsung",
+      "View"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1343,7 +1525,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab E Nook 9.6",
+    "itemName": "Samsung Galaxy Tab E Nook 9.6",
+    "tags": [
+      "Galaxy",
+      "9.6",
+      "Tab",
+      "E",
+      "Nook",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1397,7 +1587,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab S2 Nook",
+    "itemName": "Samsung Galaxy Tab S2 Nook",
+    "tags": [
+      "Galaxy",
+      "Tab",
+      "Nook",
+      "Samsung",
+      "S2"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1449,7 +1646,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab A 9.7",
+    "itemName": "Samsung Galaxy Tab A 9.7",
+    "tags": [
+      "Galaxy",
+      "A",
+      "9.7",
+      "Tab",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1502,7 +1706,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab S2 9.7 LTE",
+    "itemName": "Samsung Galaxy Tab S2 9.7 LTE",
+    "tags": [
+      "Galaxy",
+      "9.7",
+      "Tab",
+      "Samsung",
+      "LTE",
+      "S2"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1567,7 +1779,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab S2 9.7",
+    "itemName": "Samsung Galaxy Tab S2 9.7",
+    "tags": [
+      "Galaxy",
+      "9.7",
+      "Tab",
+      "Samsung",
+      "S2"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1625,7 +1844,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab S2 8 LTE",
+    "itemName": "Samsung Galaxy Tab S2 8 LTE",
+    "tags": [
+      "Galaxy",
+      "Tab",
+      "8",
+      "Samsung",
+      "LTE",
+      "S2"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1684,7 +1911,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab S2 8",
+    "itemName": "Samsung Galaxy Tab S2 8",
+    "tags": [
+      "Galaxy",
+      "Tab",
+      "8",
+      "Samsung",
+      "S2"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1736,7 +1970,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab 3 V",
+    "itemName": "Samsung Galaxy Tab 3 V",
+    "tags": [
+      "Galaxy",
+      "3",
+      "Tab",
+      "V",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1796,7 +2037,13 @@
     }
   },
   {
-    "itemName": "Galaxy Tab A",
+    "itemName": "Samsung Galaxy Tab A",
+    "tags": [
+      "Galaxy",
+      "A",
+      "Tab",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1857,7 +2104,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab E 3G",
+    "itemName": "Samsung Galaxy Tab E 3G",
+    "tags": [
+      "Galaxy",
+      "Tab",
+      "3G",
+      "E",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1916,7 +2170,13 @@
     }
   },
   {
-    "itemName": "Galaxy Tab E",
+    "itemName": "Samsung Galaxy Tab E",
+    "tags": [
+      "Galaxy",
+      "Tab",
+      "E",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1968,7 +2228,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab A 8 LTE",
+    "itemName": "Samsung Galaxy Tab A 8 LTE",
+    "tags": [
+      "Galaxy",
+      "A",
+      "Tab",
+      "8",
+      "Samsung",
+      "LTE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2027,7 +2295,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab A 8",
+    "itemName": "Samsung Galaxy Tab A 8",
+    "tags": [
+      "Galaxy",
+      "A",
+      "Tab",
+      "8",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2084,7 +2359,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab 4 Nook 10.1",
+    "itemName": "Samsung Galaxy Tab 4 Nook 10.1",
+    "tags": [
+      "Galaxy",
+      "Tab",
+      "4",
+      "10.1",
+      "Nook",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2132,7 +2415,13 @@
     }
   },
   {
-    "itemName": "Galaxy Tab Active",
+    "itemName": "Samsung Galaxy Tab Active",
+    "tags": [
+      "Galaxy",
+      "Active",
+      "Tab",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2182,7 +2471,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab 4 Nook",
+    "itemName": "Samsung Galaxy Tab 4 Nook",
+    "tags": [
+      "Galaxy",
+      "Tab",
+      "4",
+      "Nook",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2236,7 +2532,12 @@
     }
   },
   {
-    "itemName": "Galaxy TabQ",
+    "itemName": "Samsung Galaxy TabQ",
+    "tags": [
+      "Galaxy",
+      "TabQ",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2295,7 +2596,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab S 8.4 LTE",
+    "itemName": "Samsung Galaxy Tab S 8.4 LTE",
+    "tags": [
+      "Galaxy",
+      "S",
+      "Tab",
+      "Samsung",
+      "LTE",
+      "8.4"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2356,7 +2665,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab S 10.5 LTE",
+    "itemName": "Samsung Galaxy Tab S 10.5 LTE",
+    "tags": [
+      "Galaxy",
+      "10.5",
+      "S",
+      "Tab",
+      "Samsung",
+      "LTE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2416,7 +2733,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab S 10.5",
+    "itemName": "Samsung Galaxy Tab S 10.5",
+    "tags": [
+      "Galaxy",
+      "10.5",
+      "S",
+      "Tab",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2471,7 +2795,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab S 8.4",
+    "itemName": "Samsung Galaxy Tab S 8.4",
+    "tags": [
+      "Galaxy",
+      "S",
+      "Tab",
+      "Samsung",
+      "8.4"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2532,7 +2863,12 @@
     }
   },
   {
-    "itemName": "Galaxy W",
+    "itemName": "Samsung Galaxy W",
+    "tags": [
+      "Galaxy",
+      "W",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2588,7 +2924,13 @@
     }
   },
   {
-    "itemName": "Galaxy Tab4 10.1",
+    "itemName": "Samsung Galaxy Tab4 10.1",
+    "tags": [
+      "Galaxy",
+      "10.1",
+      "Tab4",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2640,7 +2982,13 @@
     }
   },
   {
-    "itemName": "Galaxy Tab4 8.0",
+    "itemName": "Samsung Galaxy Tab4 8.0",
+    "tags": [
+      "Galaxy",
+      "Tab4",
+      "8.0",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2695,7 +3043,13 @@
     }
   },
   {
-    "itemName": "Galaxy Tab4 7.0",
+    "itemName": "Samsung Galaxy Tab4 7.0",
+    "tags": [
+      "Galaxy",
+      "Tab4",
+      "7.0",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2749,7 +3103,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab 3 10.1 LTE",
+    "itemName": "Samsung Galaxy Tab 3 10.1 LTE",
+    "tags": [
+      "Galaxy",
+      "3",
+      "Tab",
+      "10.1",
+      "Samsung",
+      "LTE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2809,7 +3171,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab 3 10.1",
+    "itemName": "Samsung Galaxy Tab 3 10.1",
+    "tags": [
+      "Galaxy",
+      "3",
+      "Tab",
+      "10.1",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2861,7 +3230,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab4 7.0 LTE",
+    "itemName": "Samsung Galaxy Tab4 7.0 LTE",
+    "tags": [
+      "Galaxy",
+      "Tab4",
+      "7.0",
+      "Samsung",
+      "LTE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2920,7 +3296,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab4 8.0 LTE",
+    "itemName": "Samsung Galaxy Tab4 8.0 LTE",
+    "tags": [
+      "Galaxy",
+      "Tab4",
+      "8.0",
+      "Samsung",
+      "LTE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2981,7 +3364,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab4 10.1 LTE",
+    "itemName": "Samsung Galaxy Tab4 10.1 LTE",
+    "tags": [
+      "Galaxy",
+      "10.1",
+      "Tab4",
+      "Samsung",
+      "LTE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3042,7 +3432,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab4 7.0 3G",
+    "itemName": "Samsung Galaxy Tab4 7.0 3G",
+    "tags": [
+      "Galaxy",
+      "3G",
+      "Tab4",
+      "7.0",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3102,7 +3499,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab4 8.0 3G",
+    "itemName": "Samsung Galaxy Tab4 8.0 3G",
+    "tags": [
+      "Galaxy",
+      "3G",
+      "Tab4",
+      "8.0",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3163,7 +3567,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab4 10.1 3G",
+    "itemName": "Samsung Galaxy Tab4 10.1 3G",
+    "tags": [
+      "Galaxy",
+      "3G",
+      "10.1",
+      "Tab4",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3223,7 +3634,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab3 Neo 3G",
+    "itemName": "Samsung Galaxy Tab3 Neo 3G",
+    "tags": [
+      "Galaxy",
+      "3G",
+      "Tab3",
+      "Neo",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3282,7 +3700,13 @@
     }
   },
   {
-    "itemName": "Galaxy Tab3 Neo",
+    "itemName": "Samsung Galaxy Tab3 Neo",
+    "tags": [
+      "Galaxy",
+      "Tab3",
+      "Neo",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3334,7 +3758,15 @@
     }
   },
   {
-    "itemName": "Galaxy Tab Pro 12.2 LTE",
+    "itemName": "Samsung Galaxy Tab Pro 12.2 LTE",
+    "tags": [
+      "Galaxy",
+      "12.2",
+      "Tab",
+      "Samsung",
+      "Pro",
+      "LTE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3392,7 +3824,16 @@
     }
   },
   {
-    "itemName": "Galaxy Note Pro 12.2 3G/ LTE",
+    "itemName": "Samsung Galaxy Note Pro 12.2 3G/ LTE",
+    "tags": [
+      "Galaxy",
+      "12.2",
+      "Note",
+      "3G/",
+      "Samsung",
+      "Pro",
+      "LTE"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3450,7 +3891,14 @@
     }
   },
   {
-    "itemName": "Galaxy Tab Pro 12.2",
+    "itemName": "Samsung Galaxy Tab Pro 12.2",
+    "tags": [
+      "Galaxy",
+      "12.2",
+      "Tab",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3501,7 +3949,14 @@
     }
   },
   {
-    "itemName": "Galaxy Note Pro 12.2",
+    "itemName": "Samsung Galaxy Note Pro 12.2",
+    "tags": [
+      "Galaxy",
+      "12.2",
+      "Note",
+      "Samsung",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3557,7 +4012,15 @@
     }
   },
   {
-    "itemName": "Galaxy Note 10.1 (2014 Edition)",
+    "itemName": "Samsung Galaxy Note 10.1 (2014 Edition)",
+    "tags": [
+      "Galaxy",
+      "(2014",
+      "10.1",
+      "Note",
+      "Edition)",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3608,7 +4071,13 @@
     }
   },
   {
-    "itemName": "Galaxy Tab3 311",
+    "itemName": "Samsung Galaxy Tab3 311",
+    "tags": [
+      "Galaxy",
+      "311",
+      "Tab3",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3667,7 +4136,13 @@
     }
   },
   {
-    "itemName": "Galaxy Tab3 310",
+    "itemName": "Samsung Galaxy Tab3 310",
+    "tags": [
+      "Galaxy",
+      "310",
+      "Tab3",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3718,7 +4193,13 @@
     }
   },
   {
-    "itemName": "Galaxy Tab3 211",
+    "itemName": "Samsung Galaxy Tab3 211",
+    "tags": [
+      "Galaxy",
+      "211",
+      "Tab3",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3777,7 +4258,13 @@
     }
   },
   {
-    "itemName": "Galaxy Tab3 210",
+    "itemName": "Samsung Galaxy Tab3 210",
+    "tags": [
+      "Galaxy",
+      "210",
+      "Tab3",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3829,7 +4316,13 @@
     }
   },
   {
-    "itemName": "Google Nexus 10",
+    "itemName": "Samsung Google Nexus 10",
+    "tags": [
+      "Google",
+      "Nexus",
+      "Samsung",
+      "10"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -3883,7 +4376,13 @@
     }
   },
   {
-    "itemName": "Galaxy Note 800 ",
+    "itemName": "Samsung Galaxy Note 800 ",
+    "tags": [
+      "Galaxy",
+      "Note",
+      "800",
+      "Samsung"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",

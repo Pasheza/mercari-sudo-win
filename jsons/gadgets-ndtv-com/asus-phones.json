@@ -1,6 +1,13 @@
 [
   {
-    "itemName": "ZenFone Lite L1 (ZA551KL)",
+    "itemName": "Asus ZenFone Lite L1 (ZA551KL)",
+    "tags": [
+      "L1",
+      "(ZA551KL)",
+      "ZenFone",
+      "Lite",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -62,7 +69,14 @@
     }
   },
   {
-    "itemName": "ZenFone Max M1 (ZB556KL)",
+    "itemName": "Asus ZenFone Max M1 (ZB556KL)",
+    "tags": [
+      "M1",
+      "Max",
+      "(ZB556KL)",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -124,7 +138,15 @@
     }
   },
   {
-    "itemName": "ZenFone Max Pro M1 (6GB)",
+    "itemName": "Asus ZenFone Max Pro M1 (6GB)",
+    "tags": [
+      "M1",
+      "Max",
+      "ZenFone",
+      "Pro",
+      "(6GB)",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -185,7 +207,12 @@
     }
   },
   {
-    "itemName": "ZenFone Ares",
+    "itemName": "Asus ZenFone Ares",
+    "tags": [
+      "Ares",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -243,7 +270,12 @@
     }
   },
   {
-    "itemName": "ROG Phone",
+    "itemName": "Asus ROG Phone",
+    "tags": [
+      "Phone",
+      "ROG",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -298,7 +330,13 @@
     }
   },
   {
-    "itemName": "ZenFone Live L1",
+    "itemName": "Asus ZenFone Live L1",
+    "tags": [
+      "L1",
+      "Live",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -344,7 +382,14 @@
     }
   },
   {
-    "itemName": "ZenFone Max Pro M1",
+    "itemName": "Asus ZenFone Max Pro M1",
+    "tags": [
+      "M1",
+      "Max",
+      "ZenFone",
+      "Pro",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -406,7 +451,14 @@
     }
   },
   {
-    "itemName": "ZenFone Max (M1) (ZB555KL)",
+    "itemName": "Asus ZenFone Max (M1) (ZB555KL)",
+    "tags": [
+      "Max",
+      "(ZB555KL)",
+      "ZenFone",
+      "(M1)",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -455,7 +507,13 @@
     }
   },
   {
-    "itemName": "ZenFone 5 Lite",
+    "itemName": "Asus ZenFone 5 Lite",
+    "tags": [
+      "5",
+      "ZenFone",
+      "Lite",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -507,7 +565,13 @@
     }
   },
   {
-    "itemName": "ZenFone 5 (ZE620KL)",
+    "itemName": "Asus ZenFone 5 (ZE620KL)",
+    "tags": [
+      "(ZE620KL)",
+      "5",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -568,7 +632,13 @@
     }
   },
   {
-    "itemName": "ZenFone 5Z (ZS620KL)",
+    "itemName": "Asus ZenFone 5Z (ZS620KL)",
+    "tags": [
+      "5Z",
+      "(ZS620KL)",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -630,7 +700,14 @@
     }
   },
   {
-    "itemName": "ZenFone Max Plus (M1)",
+    "itemName": "Asus ZenFone Max Plus (M1)",
+    "tags": [
+      "Max",
+      "ZenFone",
+      "Plus",
+      "(M1)",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -688,7 +765,14 @@
     }
   },
   {
-    "itemName": "ZenFone 4 Selfie Lite",
+    "itemName": "Asus ZenFone 4 Selfie Lite",
+    "tags": [
+      "4",
+      "ZenFone",
+      "Lite",
+      "Selfie",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -754,7 +838,12 @@
     }
   },
   {
-    "itemName": "ZenFone V",
+    "itemName": "Asus ZenFone V",
+    "tags": [
+      "V",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -819,7 +908,14 @@
     }
   },
   {
-    "itemName": "ZenFone 4 Selfie Pro",
+    "itemName": "Asus ZenFone 4 Selfie Pro",
+    "tags": [
+      "4",
+      "ZenFone",
+      "Selfie",
+      "Pro",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -886,7 +982,14 @@
     }
   },
   {
-    "itemName": "ZenFone 4 Selfie (ZB553KL)",
+    "itemName": "Asus ZenFone 4 Selfie (ZB553KL)",
+    "tags": [
+      "4",
+      "ZenFone",
+      "Selfie",
+      "(ZB553KL)",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -952,7 +1055,13 @@
     }
   },
   {
-    "itemName": "ZenFone 4 Pro",
+    "itemName": "Asus ZenFone 4 Pro",
+    "tags": [
+      "4",
+      "ZenFone",
+      "Pro",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1016,7 +1125,12 @@
     }
   },
   {
-    "itemName": "ZenFone 4",
+    "itemName": "Asus ZenFone 4",
+    "tags": [
+      "4",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1080,7 +1194,15 @@
     }
   },
   {
-    "itemName": "ZenFone 4 Selfie DC (ZD553KL)",
+    "itemName": "Asus ZenFone 4 Selfie DC (ZD553KL)",
+    "tags": [
+      "(ZD553KL)",
+      "4",
+      "ZenFone",
+      "Selfie",
+      "DC",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1146,7 +1268,13 @@
     }
   },
   {
-    "itemName": "ZenFone Zoom S",
+    "itemName": "Asus ZenFone Zoom S",
+    "tags": [
+      "S",
+      "Zoom",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1213,7 +1341,13 @@
     }
   },
   {
-    "itemName": "ZenFone 4 Max",
+    "itemName": "Asus ZenFone 4 Max",
+    "tags": [
+      "4",
+      "Max",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1278,7 +1412,14 @@
     }
   },
   {
-    "itemName": "ZenFone Go 5.5 (ZB552KL)",
+    "itemName": "Asus ZenFone Go 5.5 (ZB552KL)",
+    "tags": [
+      "Go",
+      "ZenFone",
+      "5.5",
+      "(ZB552KL)",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1341,7 +1482,12 @@
     }
   },
   {
-    "itemName": "ZenFone Live",
+    "itemName": "Asus ZenFone Live",
+    "tags": [
+      "Live",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1408,7 +1554,15 @@
     }
   },
   {
-    "itemName": "ZenFone Go 5.0 LTE (ZB500KL)",
+    "itemName": "Asus ZenFone Go 5.0 LTE (ZB500KL)",
+    "tags": [
+      "(ZB500KL)",
+      "5.0",
+      "Go",
+      "ZenFone",
+      "LTE",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1472,7 +1626,13 @@
     }
   },
   {
-    "itemName": "ZenFone 3 Zoom",
+    "itemName": "Asus ZenFone 3 Zoom",
+    "tags": [
+      "3",
+      "Zoom",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1538,7 +1698,13 @@
     }
   },
   {
-    "itemName": "ZenFone 4 Selfie",
+    "itemName": "Asus ZenFone 4 Selfie",
+    "tags": [
+      "4",
+      "ZenFone",
+      "Selfie",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1592,7 +1758,13 @@
     }
   },
   {
-    "itemName": "ZenFone 3S Max",
+    "itemName": "Asus ZenFone 3S Max",
+    "tags": [
+      "3S",
+      "Max",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1656,7 +1828,12 @@
     }
   },
   {
-    "itemName": "Zenfone Peg3S ",
+    "itemName": "Asus Zenfone Peg3S ",
+    "tags": [
+      "Peg3S",
+      "Zenfone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1716,7 +1893,14 @@
     }
   },
   {
-    "itemName": "ZenFone 3 Max (ZC553KL)",
+    "itemName": "Asus ZenFone 3 Max (ZC553KL)",
+    "tags": [
+      "3",
+      "Max",
+      "(ZC553KL)",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1782,7 +1966,13 @@
     }
   },
   {
-    "itemName": "ZenFone Go (ZB450KL)",
+    "itemName": "Asus ZenFone Go (ZB450KL)",
+    "tags": [
+      "Go",
+      "ZenFone",
+      "(ZB450KL)",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1848,7 +2038,13 @@
     }
   },
   {
-    "itemName": "ZenFone 3 (ZE520KL)",
+    "itemName": "Asus ZenFone 3 (ZE520KL)",
+    "tags": [
+      "3",
+      "(ZE520KL)",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1913,7 +2109,14 @@
     }
   },
   {
-    "itemName": "ZenFone 3 Max (ZC520TL)",
+    "itemName": "Asus ZenFone 3 Max (ZC520TL)",
+    "tags": [
+      "3",
+      "Max",
+      "ZenFone",
+      "(ZC520TL)",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1978,7 +2181,13 @@
     }
   },
   {
-    "itemName": "ZenFone 3 Laser",
+    "itemName": "Asus ZenFone 3 Laser",
+    "tags": [
+      "3",
+      "Laser",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2044,7 +2253,12 @@
     }
   },
   {
-    "itemName": "Zenfone Peg3",
+    "itemName": "Asus Zenfone Peg3",
+    "tags": [
+      "Peg3",
+      "Zenfone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2107,7 +2321,14 @@
     }
   },
   {
-    "itemName": "ZenFone 3 Ultra (ZU680KL)",
+    "itemName": "Asus ZenFone 3 Ultra (ZU680KL)",
+    "tags": [
+      "3",
+      "(ZU680KL)",
+      "ZenFone",
+      "Ultra",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2170,7 +2391,14 @@
     }
   },
   {
-    "itemName": "ZenFone 3 Deluxe (ZS570KL)",
+    "itemName": "Asus ZenFone 3 Deluxe (ZS570KL)",
+    "tags": [
+      "3",
+      "(ZS570KL)",
+      "ZenFone",
+      "Deluxe",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2237,7 +2465,13 @@
     }
   },
   {
-    "itemName": "ZenFone 3 (ZE552KL)",
+    "itemName": "Asus ZenFone 3 (ZE552KL)",
+    "tags": [
+      "3",
+      "(ZE552KL)",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2303,7 +2537,13 @@
     }
   },
   {
-    "itemName": "ZenFone Max (2016)",
+    "itemName": "Asus ZenFone Max (2016)",
+    "tags": [
+      "Max",
+      "(2016)",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2370,7 +2610,14 @@
     }
   },
   {
-    "itemName": "ZenFone Go 4.5 (ZB452KG)",
+    "itemName": "Asus ZenFone Go 4.5 (ZB452KG)",
+    "tags": [
+      "Go",
+      "(ZB452KG)",
+      "ZenFone",
+      "4.5",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2433,7 +2680,14 @@
     }
   },
   {
-    "itemName": "Zenfone Go 5.0 LTE",
+    "itemName": "Asus Zenfone Go 5.0 LTE",
+    "tags": [
+      "5.0",
+      "Go",
+      "Zenfone",
+      "LTE",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2499,7 +2753,11 @@
     }
   },
   {
-    "itemName": "Peg5000",
+    "itemName": "Asus Peg5000",
+    "tags": [
+      "Peg5000",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2560,7 +2818,11 @@
     }
   },
   {
-    "itemName": "Live",
+    "itemName": "Asus Live",
+    "tags": [
+      "Live",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2626,7 +2888,12 @@
     }
   },
   {
-    "itemName": "ZenFone Zoom",
+    "itemName": "Asus ZenFone Zoom",
+    "tags": [
+      "Zoom",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2694,7 +2961,13 @@
     }
   },
   {
-    "itemName": "ZenFone Go 4.5",
+    "itemName": "Asus ZenFone Go 4.5",
+    "tags": [
+      "Go",
+      "ZenFone",
+      "4.5",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2760,7 +3033,14 @@
     }
   },
   {
-    "itemName": "ZenPad C 7.0 (Z170MG)",
+    "itemName": "Asus ZenPad C 7.0 (Z170MG)",
+    "tags": [
+      "C",
+      "ZenPad",
+      "7.0",
+      "(Z170MG)",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -2824,7 +3104,12 @@
     }
   },
   {
-    "itemName": "ZenFone Go",
+    "itemName": "Asus ZenFone Go",
+    "tags": [
+      "Go",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2889,7 +3174,14 @@
     }
   },
   {
-    "itemName": "ZenFone 2 Laser (ZE601KL)",
+    "itemName": "Asus ZenFone 2 Laser (ZE601KL)",
+    "tags": [
+      "2",
+      "Laser",
+      "ZenFone",
+      "(ZE601KL)",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -2953,7 +3245,12 @@
     }
   },
   {
-    "itemName": "ZenFone Max",
+    "itemName": "Asus ZenFone Max",
+    "tags": [
+      "Max",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3020,7 +3317,13 @@
     }
   },
   {
-    "itemName": "ZenFone 2 Deluxe",
+    "itemName": "Asus ZenFone 2 Deluxe",
+    "tags": [
+      "2",
+      "ZenFone",
+      "Deluxe",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3088,7 +3391,14 @@
     }
   },
   {
-    "itemName": "ZenFone 2 Laser (ZE550KL)",
+    "itemName": "Asus ZenFone 2 Laser (ZE550KL)",
+    "tags": [
+      "(ZE550KL)",
+      "2",
+      "Laser",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3155,7 +3465,14 @@
     }
   },
   {
-    "itemName": "ZenFone 2 Laser (ZE500KL)",
+    "itemName": "Asus ZenFone 2 Laser (ZE500KL)",
+    "tags": [
+      "2",
+      "(ZE500KL)",
+      "Laser",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3218,7 +3535,12 @@
     }
   },
   {
-    "itemName": "Peg2 Plus",
+    "itemName": "Asus Peg2 Plus",
+    "tags": [
+      "Peg2",
+      "Plus",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3276,7 +3598,13 @@
     }
   },
   {
-    "itemName": "ZenFone 2 ZE600KL",
+    "itemName": "Asus ZenFone 2 ZE600KL",
+    "tags": [
+      "2",
+      "ZE600KL",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3334,7 +3662,12 @@
     }
   },
   {
-    "itemName": "ZenFone Selfie",
+    "itemName": "Asus ZenFone Selfie",
+    "tags": [
+      "ZenFone",
+      "Selfie",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3403,7 +3736,13 @@
     }
   },
   {
-    "itemName": "ZenFone 2 ZE500CL",
+    "itemName": "Asus ZenFone 2 ZE500CL",
+    "tags": [
+      "2",
+      "ZE500CL",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3468,7 +3807,13 @@
     }
   },
   {
-    "itemName": "ZenFone 2 ZE550ML",
+    "itemName": "Asus ZenFone 2 ZE550ML",
+    "tags": [
+      "2",
+      "ZE550ML",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3533,7 +3878,13 @@
     }
   },
   {
-    "itemName": "ZenFone C (ZC451CG)",
+    "itemName": "Asus ZenFone C (ZC451CG)",
+    "tags": [
+      "C",
+      "ZenFone",
+      "(ZC451CG)",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3598,7 +3949,13 @@
     }
   },
   {
-    "itemName": "ZenFone 5 (A501CG-2A508WWE)",
+    "itemName": "Asus ZenFone 5 (A501CG-2A508WWE)",
+    "tags": [
+      "5",
+      "ZenFone",
+      "(A501CG-2A508WWE)",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3662,7 +4019,12 @@
     }
   },
   {
-    "itemName": "ZenFone 2",
+    "itemName": "Asus ZenFone 2",
+    "tags": [
+      "2",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3730,7 +4092,11 @@
     }
   },
   {
-    "itemName": "PegX002",
+    "itemName": "Asus PegX002",
+    "tags": [
+      "PegX002",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3789,7 +4155,13 @@
     }
   },
   {
-    "itemName": "ZenFone 5 (A502CG)",
+    "itemName": "Asus ZenFone 5 (A502CG)",
+    "tags": [
+      "5",
+      "(A502CG)",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3853,7 +4225,13 @@
     }
   },
   {
-    "itemName": "ZenFone 5 LTE",
+    "itemName": "Asus ZenFone 5 LTE",
+    "tags": [
+      "5",
+      "ZenFone",
+      "LTE",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3918,7 +4296,13 @@
     }
   },
   {
-    "itemName": "ZenFone 4 A450CG",
+    "itemName": "Asus ZenFone 4 A450CG",
+    "tags": [
+      "A450CG",
+      "4",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -3982,7 +4366,12 @@
     }
   },
   {
-    "itemName": "PadFone S",
+    "itemName": "Asus PadFone S",
+    "tags": [
+      "S",
+      "PadFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4045,7 +4434,13 @@
     }
   },
   {
-    "itemName": "PadFone Infinity Lite",
+    "itemName": "Asus PadFone Infinity Lite",
+    "tags": [
+      "Infinity",
+      "PadFone",
+      "Lite",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4107,7 +4502,12 @@
     }
   },
   {
-    "itemName": "PadFone X",
+    "itemName": "Asus PadFone X",
+    "tags": [
+      "PadFone",
+      "X",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4162,7 +4562,12 @@
     }
   },
   {
-    "itemName": "PadFone mini",
+    "itemName": "Asus PadFone mini",
+    "tags": [
+      "mini",
+      "PadFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4225,7 +4630,13 @@
     }
   },
   {
-    "itemName": "ZenFone 4 A400CG",
+    "itemName": "Asus ZenFone 4 A400CG",
+    "tags": [
+      "4",
+      "A400CG",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4289,7 +4700,12 @@
     }
   },
   {
-    "itemName": "ZenFone 6",
+    "itemName": "Asus ZenFone 6",
+    "tags": [
+      "6",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4356,7 +4772,12 @@
     }
   },
   {
-    "itemName": "ZenFone 5",
+    "itemName": "Asus ZenFone 5",
+    "tags": [
+      "5",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4422,7 +4843,13 @@
     }
   },
   {
-    "itemName": "Padfone mini 4.3",
+    "itemName": "Asus Padfone mini 4.3",
+    "tags": [
+      "mini",
+      "4.3",
+      "Padfone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4484,7 +4911,14 @@
     }
   },
   {
-    "itemName": "PadFone Infinity (second gen)",
+    "itemName": "Asus PadFone Infinity (second gen)",
+    "tags": [
+      "Infinity",
+      "PadFone",
+      "(second",
+      "gen)",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4546,7 +4980,13 @@
     }
   },
   {
-    "itemName": "FonePad Note FHD6",
+    "itemName": "Asus FonePad Note FHD6",
+    "tags": [
+      "FHD6",
+      "Note",
+      "FonePad",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4600,7 +5040,12 @@
     }
   },
   {
-    "itemName": "PadFone Infinity",
+    "itemName": "Asus PadFone Infinity",
+    "tags": [
+      "Infinity",
+      "PadFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4661,7 +5106,11 @@
     }
   },
   {
-    "itemName": "Peg4S",
+    "itemName": "Asus Peg4S",
+    "tags": [
+      "Peg4S",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -4722,7 +5171,12 @@
     }
   },
   {
-    "itemName": "ZenFone AR",
+    "itemName": "Asus ZenFone AR",
+    "tags": [
+      "AR",
+      "ZenFone",
+      "Asus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",

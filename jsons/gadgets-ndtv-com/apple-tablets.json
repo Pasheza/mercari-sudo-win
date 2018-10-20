@@ -1,6 +1,14 @@
 [
   {
-    "itemName": "iPad (2018) Wi-Fi + Cellular",
+    "itemName": "Apple iPad (2018) Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "Wi-Fi",
+      "(2018)",
+      "iPad",
+      "+"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -53,7 +61,13 @@
     }
   },
   {
-    "itemName": "iPad (2018) Wi-Fi",
+    "itemName": "Apple iPad (2018) Wi-Fi",
+    "tags": [
+      "Apple",
+      "Wi-Fi",
+      "(2018)",
+      "iPad"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -106,7 +120,17 @@
     }
   },
   {
-    "itemName": "iPad Pro (12.9-inch) 2017 Wi-Fi + Cellular",
+    "itemName": "Apple iPad Pro (12.9-inch) 2017 Wi-Fi + Cellular",
+    "tags": [
+      "(12.9-inch)",
+      "Cellular",
+      "Apple",
+      "2017",
+      "Wi-Fi",
+      "iPad",
+      "+",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -164,7 +188,15 @@
     }
   },
   {
-    "itemName": "iPad Pro (12.9-inch) 2017 Wi-Fi",
+    "itemName": "Apple iPad Pro (12.9-inch) 2017 Wi-Fi",
+    "tags": [
+      "(12.9-inch)",
+      "Apple",
+      "2017",
+      "Wi-Fi",
+      "iPad",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -216,7 +248,16 @@
     }
   },
   {
-    "itemName": "iPad Pro (10.5-inch) Wi-Fi + Cellular",
+    "itemName": "Apple iPad Pro (10.5-inch) Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "(10.5-inch)",
+      "Wi-Fi",
+      "iPad",
+      "+",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -274,7 +315,14 @@
     }
   },
   {
-    "itemName": "iPad Pro (10.5-inch) Wi-Fi",
+    "itemName": "Apple iPad Pro (10.5-inch) Wi-Fi",
+    "tags": [
+      "Apple",
+      "(10.5-inch)",
+      "Wi-Fi",
+      "iPad",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -326,7 +374,15 @@
     }
   },
   {
-    "itemName": "iPad (2017) Wi-Fi + Cellular",
+    "itemName": "Apple iPad (2017) Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "(2017)",
+      "Wi-Fi",
+      "iPad",
+      "+"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -385,7 +441,13 @@
     }
   },
   {
-    "itemName": "iPad (2017) Wi-Fi",
+    "itemName": "Apple iPad (2017) Wi-Fi",
+    "tags": [
+      "Apple",
+      "(2017)",
+      "Wi-Fi",
+      "iPad"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -437,7 +499,16 @@
     }
   },
   {
-    "itemName": "iPad Pro (9.7-inch) Wi-Fi + Cellular",
+    "itemName": "Apple iPad Pro (9.7-inch) Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "(9.7-inch)",
+      "Wi-Fi",
+      "iPad",
+      "+",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -496,7 +567,14 @@
     }
   },
   {
-    "itemName": "iPad Pro (9.7-inch) Wi-Fi",
+    "itemName": "Apple iPad Pro (9.7-inch) Wi-Fi",
+    "tags": [
+      "Apple",
+      "(9.7-inch)",
+      "Wi-Fi",
+      "iPad",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -548,7 +626,16 @@
     }
   },
   {
-    "itemName": "iPad mini 4 Wi-Fi + Cellular",
+    "itemName": "Apple iPad mini 4 Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "mini",
+      "4",
+      "Wi-Fi",
+      "iPad",
+      "+"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -600,7 +687,14 @@
     }
   },
   {
-    "itemName": "iPad mini 4 Wi-Fi",
+    "itemName": "Apple iPad mini 4 Wi-Fi",
+    "tags": [
+      "Apple",
+      "mini",
+      "4",
+      "Wi-Fi",
+      "iPad"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -652,7 +746,15 @@
     }
   },
   {
-    "itemName": "iPad Pro Wi-Fi + Cellular",
+    "itemName": "Apple iPad Pro Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "+",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -704,7 +806,13 @@
     }
   },
   {
-    "itemName": "iPad Pro Wi-Fi",
+    "itemName": "Apple iPad Pro Wi-Fi",
+    "tags": [
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "Pro"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -756,7 +864,16 @@
     }
   },
   {
-    "itemName": "iPad mini 3 Wi-Fi + Cellular",
+    "itemName": "Apple iPad mini 3 Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "3",
+      "mini",
+      "Wi-Fi",
+      "iPad",
+      "+"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -815,7 +932,14 @@
     }
   },
   {
-    "itemName": "iPad mini 3 Wi-Fi",
+    "itemName": "Apple iPad mini 3 Wi-Fi",
+    "tags": [
+      "Apple",
+      "3",
+      "mini",
+      "Wi-Fi",
+      "iPad"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -867,7 +991,16 @@
     }
   },
   {
-    "itemName": "iPad Air 2 Wi-Fi + Cellular",
+    "itemName": "Apple iPad Air 2 Wi-Fi + Cellular",
+    "tags": [
+      "2",
+      "Cellular",
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "Air",
+      "+"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -926,7 +1059,14 @@
     }
   },
   {
-    "itemName": "iPad Air 2 Wi-Fi",
+    "itemName": "Apple iPad Air 2 Wi-Fi",
+    "tags": [
+      "2",
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "Air"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -981,7 +1121,18 @@
     }
   },
   {
-    "itemName": "iPad mini with Retina display Wi-Fi + Cellular",
+    "itemName": "Apple iPad mini with Retina display Wi-Fi + Cellular",
+    "tags": [
+      "with",
+      "Cellular",
+      "Apple",
+      "mini",
+      "Wi-Fi",
+      "display",
+      "Retina",
+      "iPad",
+      "+"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1039,7 +1190,16 @@
     }
   },
   {
-    "itemName": "iPad mini with Retina display Wi-Fi",
+    "itemName": "Apple iPad mini with Retina display Wi-Fi",
+    "tags": [
+      "with",
+      "Apple",
+      "mini",
+      "Wi-Fi",
+      "display",
+      "Retina",
+      "iPad"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1093,7 +1253,15 @@
     }
   },
   {
-    "itemName": "iPad Air Wi-Fi + Cellular",
+    "itemName": "Apple iPad Air Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "Air",
+      "+"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1152,7 +1320,13 @@
     }
   },
   {
-    "itemName": "iPad Air Wi-Fi",
+    "itemName": "Apple iPad Air Wi-Fi",
+    "tags": [
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "Air"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1209,7 +1383,15 @@
     }
   },
   {
-    "itemName": "iPad mini Wi-Fi + Cellular",
+    "itemName": "Apple iPad mini Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "mini",
+      "Wi-Fi",
+      "iPad",
+      "+"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1266,7 +1448,13 @@
     }
   },
   {
-    "itemName": "iPad mini Wi-Fi",
+    "itemName": "Apple iPad mini Wi-Fi",
+    "tags": [
+      "Apple",
+      "mini",
+      "Wi-Fi",
+      "iPad"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1316,7 +1504,16 @@
     }
   },
   {
-    "itemName": "iPad 4th generation Wi-Fi + Cellular",
+    "itemName": "Apple iPad 4th generation Wi-Fi + Cellular",
+    "tags": [
+      "generation",
+      "Cellular",
+      "Apple",
+      "Wi-Fi",
+      "4th",
+      "iPad",
+      "+"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1375,7 +1572,14 @@
     }
   },
   {
-    "itemName": "iPad 4th generation Wi-Fi",
+    "itemName": "Apple iPad 4th generation Wi-Fi",
+    "tags": [
+      "generation",
+      "Apple",
+      "Wi-Fi",
+      "4th",
+      "iPad"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1427,7 +1631,16 @@
     }
   },
   {
-    "itemName": "iPad 3rd generation Wi-Fi + Cellular",
+    "itemName": "Apple iPad 3rd generation Wi-Fi + Cellular",
+    "tags": [
+      "generation",
+      "Cellular",
+      "Apple",
+      "Wi-Fi",
+      "3rd",
+      "iPad",
+      "+"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1486,7 +1699,14 @@
     }
   },
   {
-    "itemName": "iPad 3rd generation Wi-Fi",
+    "itemName": "Apple iPad 3rd generation Wi-Fi",
+    "tags": [
+      "generation",
+      "Apple",
+      "Wi-Fi",
+      "3rd",
+      "iPad"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1538,7 +1758,15 @@
     }
   },
   {
-    "itemName": "iPad 2 Wi-Fi + 3G",
+    "itemName": "Apple iPad 2 Wi-Fi + 3G",
+    "tags": [
+      "2",
+      "Apple",
+      "Wi-Fi",
+      "3G",
+      "iPad",
+      "+"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1595,7 +1823,13 @@
     }
   },
   {
-    "itemName": "iPad 2 Wi-Fi",
+    "itemName": "Apple iPad 2 Wi-Fi",
+    "tags": [
+      "2",
+      "Apple",
+      "Wi-Fi",
+      "iPad"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1646,7 +1880,13 @@
     }
   },
   {
-    "itemName": "iPad Wi-Fi +3G",
+    "itemName": "Apple iPad Wi-Fi +3G",
+    "tags": [
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "+3G"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",
@@ -1703,7 +1943,12 @@
     }
   },
   {
-    "itemName": "iPad Wi-Fi",
+    "itemName": "Apple iPad Wi-Fi",
+    "tags": [
+      "Apple",
+      "Wi-Fi",
+      "iPad"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",

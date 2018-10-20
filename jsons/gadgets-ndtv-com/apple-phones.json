@@ -1,6 +1,11 @@
 [
   {
-    "itemName": "iPhone XR",
+    "itemName": "Apple iPhone XR",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "XR"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -65,7 +70,13 @@
     }
   },
   {
-    "itemName": "iPhone XS Max",
+    "itemName": "Apple iPhone XS Max",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "Max",
+      "XS"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -130,7 +141,12 @@
     }
   },
   {
-    "itemName": "iPhone XS",
+    "itemName": "Apple iPhone XS",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "XS"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -195,7 +211,12 @@
     }
   },
   {
-    "itemName": "iPhone 8",
+    "itemName": "Apple iPhone 8",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "8"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -256,7 +277,13 @@
     }
   },
   {
-    "itemName": "iPhone 8 Plus",
+    "itemName": "Apple iPhone 8 Plus",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "8",
+      "Plus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -317,7 +344,12 @@
     }
   },
   {
-    "itemName": "iPhone X",
+    "itemName": "Apple iPhone X",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "X"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -376,7 +408,13 @@
     }
   },
   {
-    "itemName": "iPhone 7 Plus",
+    "itemName": "Apple iPhone 7 Plus",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "7",
+      "Plus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -437,7 +475,12 @@
     }
   },
   {
-    "itemName": "iPhone 7",
+    "itemName": "Apple iPhone 7",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "7"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -498,7 +541,12 @@
     }
   },
   {
-    "itemName": "iPhone SE",
+    "itemName": "Apple iPhone SE",
+    "tags": [
+      "iPhone",
+      "SE",
+      "Apple"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -557,7 +605,13 @@
     }
   },
   {
-    "itemName": "iPhone 6s Plus",
+    "itemName": "Apple iPhone 6s Plus",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "Plus",
+      "6s"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -618,7 +672,12 @@
     }
   },
   {
-    "itemName": "iPhone 6s",
+    "itemName": "Apple iPhone 6s",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "6s"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -679,7 +738,13 @@
     }
   },
   {
-    "itemName": "iPhone 6 Plus",
+    "itemName": "Apple iPhone 6 Plus",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "6",
+      "Plus"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -740,7 +805,12 @@
     }
   },
   {
-    "itemName": "iPhone 6",
+    "itemName": "Apple iPhone 6",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "6"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -801,7 +871,12 @@
     }
   },
   {
-    "itemName": "iPhone 5s",
+    "itemName": "Apple iPhone 5s",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "5s"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -869,7 +944,12 @@
     }
   },
   {
-    "itemName": "iPhone 5c",
+    "itemName": "Apple iPhone 5c",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "5c"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -931,7 +1011,12 @@
     }
   },
   {
-    "itemName": "iPhone 5",
+    "itemName": "Apple iPhone 5",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "5"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -992,7 +1077,12 @@
     }
   },
   {
-    "itemName": "iPhone 4S",
+    "itemName": "Apple iPhone 4S",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "4S"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1051,7 +1141,12 @@
     }
   },
   {
-    "itemName": "iPhone 4",
+    "itemName": "Apple iPhone 4",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "4"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1110,7 +1205,12 @@
     }
   },
   {
-    "itemName": "iPhone 3GS",
+    "itemName": "Apple iPhone 3GS",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "3GS"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1167,7 +1267,12 @@
     }
   },
   {
-    "itemName": "iPhone 3G",
+    "itemName": "Apple iPhone 3G",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "3G"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "Yes",
@@ -1223,7 +1328,11 @@
     }
   },
   {
-    "itemName": "iPhone",
+    "itemName": "Apple iPhone",
+    "tags": [
+      "iPhone",
+      "Apple"
+    ],
     "specs": {
       "DISPLAY": {
         "Touchscreen": "No",

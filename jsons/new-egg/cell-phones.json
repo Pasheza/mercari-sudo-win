@@ -1,6 +1,19 @@
 [
   {
     "itemName": "Razer Phone 2 LTE Unlocked Gaming Phone 5.7\" 64 GB 8 GB RAM",
+    "tags": [
+      "Unlocked",
+      "Razer",
+      "2",
+      "Phone",
+      "8",
+      "GB",
+      "LTE",
+      "5.7\"",
+      "Gaming",
+      "64",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -60,6 +73,26 @@
   },
   {
     "itemName": "Huawei Mate 10 Pro Unlocked Smartphone with Dual Camera (6\" Titanium Gray, 128GB Storage 6GB RAM) US Warranty",
+    "tags": [
+      "Mate",
+      "Warranty",
+      "Unlocked",
+      "Pro",
+      "RAM)",
+      "with",
+      "6GB",
+      "Storage",
+      "(6\"",
+      "Gray,",
+      "Titanium",
+      "128GB",
+      "Camera",
+      "Huawei",
+      "Dual",
+      "Smartphone",
+      "US",
+      "10"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -125,6 +158,21 @@
   },
   {
     "itemName": "Honor View 10 4G LTE Unlocked Cell Phone (5.99\" Blue ,128GB 6GB RAM)",
+    "tags": [
+      "Honor",
+      "(5.99\"",
+      "Unlocked",
+      "Blue",
+      "View",
+      "RAM)",
+      "6GB",
+      "4G",
+      "Phone",
+      ",128GB",
+      "LTE",
+      "Cell",
+      "10"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -200,6 +248,21 @@
   },
   {
     "itemName": "Honor View 10 4G LTE Unlocked Cell Phone (5.99\" Black ,128GB 6GB RAM)",
+    "tags": [
+      "Honor",
+      "(5.99\"",
+      "Unlocked",
+      "Black",
+      "View",
+      "RAM)",
+      "6GB",
+      "4G",
+      "Phone",
+      ",128GB",
+      "LTE",
+      "Cell",
+      "10"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -271,6 +334,23 @@
   },
   {
     "itemName": "Honor 7X Unlocked Smartphone with Dual Camera (5.93\" Black, 32GB Storage 3GB RAM) US Warranty",
+    "tags": [
+      "Honor",
+      "7X",
+      "Warranty",
+      "Unlocked",
+      "(5.93\"",
+      "32GB",
+      "RAM)",
+      "3GB",
+      "with",
+      "Black,",
+      "Storage",
+      "Camera",
+      "Dual",
+      "Smartphone",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -345,6 +425,23 @@
   },
   {
     "itemName": "Honor 7X Unlocked Smartphone with Dual Camera (5.93\" Blue, 32GB Storage 3GB RAM) US Warranty",
+    "tags": [
+      "Honor",
+      "7X",
+      "Warranty",
+      "Unlocked",
+      "(5.93\"",
+      "Blue,",
+      "32GB",
+      "RAM)",
+      "3GB",
+      "with",
+      "Storage",
+      "Camera",
+      "Dual",
+      "Smartphone",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -419,6 +516,31 @@
   },
   {
     "itemName": "Moto X4 (4th Gen), 5.2 Inches, FHD LTPS, 3GB RAM, 32GB Storage, Dual Rear Camera, Unlocked Cell Phone, US Warranty, Super Black (PA8S0006US)",
+    "tags": [
+      "Rear",
+      "FHD",
+      "Storage,",
+      "Unlocked",
+      "RAM,",
+      "Gen),",
+      "Inches,",
+      "Black",
+      "32GB",
+      "3GB",
+      "Phone,",
+      "Camera,",
+      "(4th",
+      "Super",
+      "LTPS,",
+      "Moto",
+      "5.2",
+      "(PA8S0006US)",
+      "X4",
+      "Dual",
+      "Cell",
+      "Warranty,",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -487,6 +609,31 @@
   },
   {
     "itemName": "Moto X4 (4th Gen), 5.2 Inches, FHD LTPS, 3GB RAM, 32GB Storage, Dual Rear Camera, Unlocked Cell Phone, US Warranty, Sterling blue (PA8S0007US)",
+    "tags": [
+      "Rear",
+      "FHD",
+      "Storage,",
+      "Sterling",
+      "Unlocked",
+      "RAM,",
+      "Gen),",
+      "Inches,",
+      "32GB",
+      "3GB",
+      "Phone,",
+      "Camera,",
+      "(4th",
+      "blue",
+      "LTPS,",
+      "Moto",
+      "5.2",
+      "(PA8S0007US)",
+      "X4",
+      "Dual",
+      "Cell",
+      "Warranty,",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -555,6 +702,22 @@
   },
   {
     "itemName": "Samsung Galaxy S8 G950F 64GB Unlocked GSM Phone w/ 12MP Camera - Midnight Black",
+    "tags": [
+      "64GB",
+      "GSM",
+      "Galaxy",
+      "Unlocked",
+      "S8",
+      "Black",
+      "-",
+      "12MP",
+      "Phone",
+      "w/",
+      "G950F",
+      "Samsung",
+      "Camera",
+      "Midnight"
+    ],
     "specs": {
       "Design": {
         "Color": "Black"
@@ -603,6 +766,19 @@
   },
   {
     "itemName": "Razer Phone 2 LTE Unlocked Gaming Phone 5.7\" 64 GB 8 GB RAM",
+    "tags": [
+      "Unlocked",
+      "Razer",
+      "2",
+      "Phone",
+      "8",
+      "GB",
+      "LTE",
+      "5.7\"",
+      "Gaming",
+      "64",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -662,6 +838,23 @@
   },
   {
     "itemName": "Nubia N1 Lite 4G LTE Dual SIM Unlocked Smartphone 5.5\" 2GB RAM Black/Gold, US Warranty",
+    "tags": [
+      "N1",
+      "Black/Gold,",
+      "Warranty",
+      "Unlocked",
+      "Lite",
+      "2GB",
+      "Nubia",
+      "4G",
+      "SIM",
+      "LTE",
+      "Dual",
+      "Smartphone",
+      "5.5\"",
+      "US",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -736,6 +929,26 @@
   },
   {
     "itemName": "Moto G5s Plus (Special Edition) Unlocked Smartphone Dual Camera (5.5\" Lunar Gray, 32GB Storage 3GB RAM) US Warranty",
+    "tags": [
+      "(Special",
+      "(5.5\"",
+      "Warranty",
+      "G5s",
+      "Unlocked",
+      "Edition)",
+      "32GB",
+      "RAM)",
+      "3GB",
+      "Lunar",
+      "Storage",
+      "Gray,",
+      "Moto",
+      "Camera",
+      "Plus",
+      "Dual",
+      "Smartphone",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -810,6 +1023,26 @@
   },
   {
     "itemName": "Moto G5s Plus (Special Edition) Unlocked Smartphone Dual Camera (5.5\" Blush Gold, 32GB Storage 3GB RAM) US Warranty",
+    "tags": [
+      "(Special",
+      "(5.5\"",
+      "Warranty",
+      "G5s",
+      "Unlocked",
+      "Edition)",
+      "32GB",
+      "RAM)",
+      "3GB",
+      "Gold,",
+      "Storage",
+      "Blush",
+      "Moto",
+      "Camera",
+      "Plus",
+      "Dual",
+      "Smartphone",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -882,6 +1115,24 @@
   },
   {
     "itemName": "Nokia 6 TA-1025 Unlocked Smartphone with Dual Camera (5.5\" Silver, 32GB Storage 3GB RAM) US Warranty",
+    "tags": [
+      "(5.5\"",
+      "Warranty",
+      "Unlocked",
+      "Silver,",
+      "TA-1025",
+      "32GB",
+      "RAM)",
+      "3GB",
+      "with",
+      "Storage",
+      "6",
+      "Camera",
+      "Dual",
+      "Nokia",
+      "Smartphone",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -955,6 +1206,20 @@
   },
   {
     "itemName": "Moto G5 Plus XT1687 32GB Smartphone (Unlocked, Fine Gold) - US Warranty",
+    "tags": [
+      "XT1687",
+      "(Unlocked,",
+      "Warranty",
+      "32GB",
+      "-",
+      "G5",
+      "Gold)",
+      "Moto",
+      "Fine",
+      "Plus",
+      "Smartphone",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1022,6 +1287,23 @@
   },
   {
     "itemName": "Asus ZenFone 3 Deluxe 4G LTE Unlocked Cell Phone 5.5\" Glacier Silver 64GB 4GB RAM",
+    "tags": [
+      "64GB",
+      "Unlocked",
+      "Glacier",
+      "Asus",
+      "4GB",
+      "Silver",
+      "3",
+      "4G",
+      "Phone",
+      "ZenFone",
+      "Deluxe",
+      "LTE",
+      "Cell",
+      "5.5\"",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1098,6 +1380,32 @@
   },
   {
     "itemName": "Samsung Galaxy S8+ (Plus) G955FD Dual SIM GSM Unlocked Smart Phone, 6.2\" AMOLED Display, Maple Gold Color, 64GB Storage International Version - No Warranty",
+    "tags": [
+      "64GB",
+      "Galaxy",
+      "Unlocked",
+      "S8+",
+      "Display,",
+      "G955FD",
+      "Version",
+      "(Plus)",
+      "Maple",
+      "International",
+      "GSM",
+      "Gold",
+      "No",
+      "Warranty",
+      "AMOLED",
+      "Color,",
+      "Smart",
+      "-",
+      "Phone,",
+      "6.2\"",
+      "Storage",
+      "SIM",
+      "Samsung",
+      "Dual"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1165,6 +1473,19 @@
   },
   {
     "itemName": "Moto Z Play Unlocked 32 GB Black Unlocked Smartphone - US Warranty",
+    "tags": [
+      "Warranty",
+      "Unlocked",
+      "Black",
+      "-",
+      "Play",
+      "Moto",
+      "Z",
+      "GB",
+      "Smartphone",
+      "US",
+      "32"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1232,6 +1553,27 @@
   },
   {
     "itemName": "Nubia Z11 Mini, 5.0-Inch, 3GB RAM, 32GB Storage, FHD, IPS, Dual SIM, Unlocked Cell Phone, US Warranty, Black (NX529J)",
+    "tags": [
+      "5.0-Inch,",
+      "IPS,",
+      "Storage,",
+      "Unlocked",
+      "RAM,",
+      "(NX529J)",
+      "FHD,",
+      "Black",
+      "32GB",
+      "3GB",
+      "Phone,",
+      "Nubia",
+      "SIM,",
+      "Z11",
+      "Mini,",
+      "Dual",
+      "Cell",
+      "Warranty,",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1311,6 +1653,25 @@
   },
   {
     "itemName": "Motorola Moto E4 (4th Gen) Plus 4G LTE Unlocked Cell Phone (5.5\" 16GB 2GB RAM) Fine Gold",
+    "tags": [
+      "Gold",
+      "(5.5\"",
+      "Unlocked",
+      "2GB",
+      "RAM)",
+      "E4",
+      "(4th",
+      "4G",
+      "Phone",
+      "16GB",
+      "Gen)",
+      "Moto",
+      "Fine",
+      "Plus",
+      "LTE",
+      "Motorola",
+      "Cell"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1378,6 +1739,22 @@
   },
   {
     "itemName": "Acer Liquid Zest Plus Unlocked Cell Phone (5.5\" Blue 16GB 2GB RAM) LTE CAT4",
+    "tags": [
+      "CAT4",
+      "(5.5\"",
+      "Unlocked",
+      "Blue",
+      "Zest",
+      "2GB",
+      "RAM)",
+      "Acer",
+      "Liquid",
+      "Phone",
+      "16GB",
+      "Plus",
+      "LTE",
+      "Cell"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1452,6 +1829,23 @@
   },
   {
     "itemName": "Motorola Moto G6 4G LTE Unlocked Cell Phone US Version (5.7\" Black, 32GB 3GB RAM)",
+    "tags": [
+      "(5.7\"",
+      "Unlocked",
+      "32GB",
+      "RAM)",
+      "3GB",
+      "G6",
+      "Black,",
+      "4G",
+      "Version",
+      "Phone",
+      "Moto",
+      "LTE",
+      "Motorola",
+      "Cell",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1519,6 +1913,23 @@
   },
   {
     "itemName": "Honor 7X Unlocked Smartphone with Dual Camera (5.93\" Red, 32GB Storage 3GB RAM) US Warranty",
+    "tags": [
+      "Honor",
+      "7X",
+      "Warranty",
+      "Unlocked",
+      "(5.93\"",
+      "32GB",
+      "RAM)",
+      "3GB",
+      "with",
+      "Storage",
+      "Camera",
+      "Dual",
+      "Smartphone",
+      "Red,",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1593,6 +2004,29 @@
   },
   {
     "itemName": "Samsung Galaxy S9 G9600 64GB Single SIM Unlocked GSM 4G LTE Phone w/ 12 MP Camera - Midnight Black (International Version)",
+    "tags": [
+      "64GB",
+      "GSM",
+      "Galaxy",
+      "12",
+      "MP",
+      "Unlocked",
+      "S9",
+      "G9600",
+      "Black",
+      "-",
+      "4G",
+      "Single",
+      "SIM",
+      "Phone",
+      "w/",
+      "Version)",
+      "Samsung",
+      "Camera",
+      "LTE",
+      "Midnight",
+      "(International"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1666,6 +2100,25 @@
   },
   {
     "itemName": "Motorola Moto G6 Play 4G LTE Unlocked Cell Phone US Version (5.7\" Deep Indigo, 32GB 3GB RAM)",
+    "tags": [
+      "(5.7\"",
+      "Unlocked",
+      "Deep",
+      "32GB",
+      "RAM)",
+      "3GB",
+      "G6",
+      "Play",
+      "4G",
+      "Indigo,",
+      "Version",
+      "Phone",
+      "Moto",
+      "LTE",
+      "Motorola",
+      "Cell",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones"
@@ -1710,6 +2163,25 @@
   },
   {
     "itemName": "Samsung Galaxy S8+ G955F 64GB Unlocked GSM Phone (International Version) w/ 12 MP Camera - Midnight Black",
+    "tags": [
+      "64GB",
+      "GSM",
+      "Galaxy",
+      "12",
+      "MP",
+      "Unlocked",
+      "S8+",
+      "Black",
+      "-",
+      "Phone",
+      "G955F",
+      "w/",
+      "Version)",
+      "Samsung",
+      "Camera",
+      "Midnight",
+      "(International"
+    ],
     "specs": {
       "": {
         "": ""
@@ -1718,6 +2190,27 @@
   },
   {
     "itemName": "Google Pixel 2 XL 64GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2 MP Camera - Black \u0026 White",
+    "tags": [
+      "64GB",
+      "Google",
+      "MP",
+      "Unlocked",
+      "\u0026",
+      "Black",
+      "-",
+      "Octa-Core",
+      "GSM/CDMA",
+      "2",
+      "12.2",
+      "4G",
+      "White",
+      "XL",
+      "Phone",
+      "w/",
+      "Camera",
+      "LTE",
+      "Pixel"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1776,6 +2269,25 @@
   },
   {
     "itemName": "Samsung Galaxy S9 4G LTE Dual SIM Unlocked Cell Phone International Version (5.8\" Black, 64GB 4GB RAM)",
+    "tags": [
+      "64GB",
+      "Galaxy",
+      "Unlocked",
+      "S9",
+      "(5.8\"",
+      "RAM)",
+      "4GB",
+      "Black,",
+      "4G",
+      "Version",
+      "SIM",
+      "Phone",
+      "Samsung",
+      "LTE",
+      "Dual",
+      "Cell",
+      "International"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1845,6 +2357,27 @@
   },
   {
     "itemName": "Xiaomi’s new Pocophone F1 with 6.18 inch Screen 6GB ROM 64GB RAM IR Face Unlock \u0026 Back Fingerprint Identification",
+    "tags": [
+      "64GB",
+      "new",
+      "Fingerprint",
+      "6.18",
+      "Screen",
+      "\u0026",
+      "Unlock",
+      "IR",
+      "Identification",
+      "F1",
+      "Pocophone",
+      "with",
+      "6GB",
+      "ROM",
+      "Back",
+      "Xiaomi’s",
+      "inch",
+      "Face",
+      "RAM"
+    ],
     "specs": {
       "": {
         "": ""
@@ -1853,6 +2386,24 @@
   },
   {
     "itemName": "Nokia 6 TA-1025 Unlocked Smartphone with Dual Camera (5.5\" Black, 32GB Storage 3GB RAM) US Warranty",
+    "tags": [
+      "(5.5\"",
+      "Warranty",
+      "Unlocked",
+      "TA-1025",
+      "32GB",
+      "RAM)",
+      "3GB",
+      "with",
+      "Black,",
+      "Storage",
+      "6",
+      "Camera",
+      "Dual",
+      "Nokia",
+      "Smartphone",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1925,6 +2476,26 @@
   },
   {
     "itemName": "Huawei Mate 10 Pro Unlocked Smartphone with Dual Camera (6\" Midnight Blue, 128GB Storage 6GB RAM) US Warranty",
+    "tags": [
+      "Mate",
+      "Warranty",
+      "Unlocked",
+      "Blue,",
+      "Pro",
+      "RAM)",
+      "with",
+      "6GB",
+      "Storage",
+      "(6\"",
+      "128GB",
+      "Camera",
+      "Huawei",
+      "Dual",
+      "Midnight",
+      "Smartphone",
+      "US",
+      "10"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -1989,6 +2560,13 @@
   },
   {
     "itemName": "Apple iPhone 8 64gb Unlocked",
+    "tags": [
+      "iPhone",
+      "64gb",
+      "Apple",
+      "Unlocked",
+      "8"
+    ],
     "specs": {
       "Design": {
         "Dual SIM": "No",
@@ -2021,6 +2599,17 @@
   },
   {
     "itemName": "Apple - iPhone XS 256GB - Space Gray - Unlocked - MT972LL/A",
+    "tags": [
+      "iPhone",
+      "Space",
+      "Gray",
+      "Unlocked",
+      "MT972LL/A",
+      "-",
+      "Apple",
+      "256GB",
+      "XS"
+    ],
     "specs": {
       "Configuration": {
         "Built-in Storage": "256GB",
@@ -2037,6 +2626,15 @@
   },
   {
     "itemName": "Apple iPhone 7 32GB Black Unlocked Smartphone",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "Unlocked",
+      "7",
+      "Black",
+      "32GB",
+      "Smartphone"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -2111,6 +2709,29 @@
   },
   {
     "itemName": "Samsung Galaxy S9 G9600 64GB Single SIM Unlocked GSM 4G LTE Phone w/ 12 MP Camera - Titanium Gray (International Version)",
+    "tags": [
+      "64GB",
+      "GSM",
+      "Galaxy",
+      "12",
+      "Gray",
+      "MP",
+      "Unlocked",
+      "S9",
+      "G9600",
+      "-",
+      "4G",
+      "Single",
+      "SIM",
+      "Phone",
+      "w/",
+      "Titanium",
+      "Version)",
+      "Samsung",
+      "Camera",
+      "LTE",
+      "(International"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -2188,6 +2809,29 @@
   },
   {
     "itemName": "Samsung Galaxy S9+ G9650 64GB Single SIM Unlocked GSM 4G LTE Phone w/ 12 MP Camera - Midnight Black (International Version)",
+    "tags": [
+      "64GB",
+      "GSM",
+      "Galaxy",
+      "12",
+      "MP",
+      "S9+",
+      "Unlocked",
+      "Black",
+      "-",
+      "4G",
+      "Single",
+      "SIM",
+      "Phone",
+      "w/",
+      "Version)",
+      "Samsung",
+      "Camera",
+      "G9650",
+      "LTE",
+      "Midnight",
+      "(International"
+    ],
     "specs": {
       "": {
         "": ""
@@ -2196,6 +2840,18 @@
   },
   {
     "itemName": "Apple - iPhone XS Max 64GB - Space Gray - Unlocked - MT592LL/A",
+    "tags": [
+      "iPhone",
+      "64GB",
+      "Space",
+      "Gray",
+      "Unlocked",
+      "Max",
+      "-",
+      "Apple",
+      "MT592LL/A",
+      "XS"
+    ],
     "specs": {
       "": {
         "": ""
@@ -2204,6 +2860,19 @@
   },
   {
     "itemName": "Razer Phone 2 LTE Unlocked Gaming Phone 5.7\" 64 GB 8 GB RAM",
+    "tags": [
+      "Unlocked",
+      "Razer",
+      "2",
+      "Phone",
+      "8",
+      "GB",
+      "LTE",
+      "5.7\"",
+      "Gaming",
+      "64",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -2263,6 +2932,23 @@
   },
   {
     "itemName": "Huawei P20 Lite ANE-LX3 32GB Unlocked GSM Phone w/ Dual 16MP|2MP Camera - Midnight Black",
+    "tags": [
+      "GSM",
+      "ANE-LX3",
+      "Unlocked",
+      "Lite",
+      "Black",
+      "32GB",
+      "-",
+      "16MP|2MP",
+      "P20",
+      "Phone",
+      "w/",
+      "Camera",
+      "Huawei",
+      "Dual",
+      "Midnight"
+    ],
     "specs": {
       "Configuration": {
         "Built-in Storage": "32GB",
@@ -2279,6 +2965,17 @@
   },
   {
     "itemName": "Apple - iPhone XS Max 64GB - Silver - Unlocked - MT5A2LL/A",
+    "tags": [
+      "iPhone",
+      "64GB",
+      "MT5A2LL/A",
+      "Unlocked",
+      "Max",
+      "-",
+      "Silver",
+      "Apple",
+      "XS"
+    ],
     "specs": {
       "": {
         "": ""
@@ -2287,6 +2984,18 @@
   },
   {
     "itemName": "Apple iPhone 6s 16GB Factory GSM Unlocked - Space Gray",
+    "tags": [
+      "iPhone",
+      "GSM",
+      "Space",
+      "Apple",
+      "Gray",
+      "Unlocked",
+      "16GB",
+      "Factory",
+      "6s",
+      "-"
+    ],
     "specs": {
       "Design": {
         "Color": "Space Gray"
@@ -2312,6 +3021,16 @@
   },
   {
     "itemName": "Apple iPhone SE A1662 64GB GSM Unlocked Smartphone",
+    "tags": [
+      "iPhone",
+      "64GB",
+      "GSM",
+      "Apple",
+      "SE",
+      "Unlocked",
+      "A1662",
+      "Smartphone"
+    ],
     "specs": {
       "Design": {
         "Color": "Rose Gold"
@@ -2334,6 +3053,28 @@
   },
   {
     "itemName": "Samsung Galaxy J2 Prime G532M 4G LTE Unlocked GSM Quad-Core Phone w/ 8 MP Camera 5\" Black 16GB 1.5GB RAM",
+    "tags": [
+      "GSM",
+      "Galaxy",
+      "G532M",
+      "Prime",
+      "MP",
+      "Unlocked",
+      "J2",
+      "Black",
+      "5\"",
+      "Quad-Core",
+      "4G",
+      "Phone",
+      "16GB",
+      "w/",
+      "8",
+      "Samsung",
+      "Camera",
+      "1.5GB",
+      "LTE",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -2398,6 +3139,15 @@
   },
   {
     "itemName": "Apple iPhone X A1865 64GB Factory Unlocked",
+    "tags": [
+      "iPhone",
+      "64GB",
+      "Apple",
+      "Unlocked",
+      "X",
+      "Factory",
+      "A1865"
+    ],
     "specs": {
       "Design": {
         "Color": "Space Gray"
@@ -2420,6 +3170,32 @@
   },
   {
     "itemName": "Samsung Galaxy S8+ (Plus) G955FD Dual SIM GSM Unlocked Smart Phone, 6.2\" AMOLED Display, Midnight Black Color, 64GB Storage International Version - No Warranty",
+    "tags": [
+      "64GB",
+      "Galaxy",
+      "Unlocked",
+      "S8+",
+      "Black",
+      "Display,",
+      "G955FD",
+      "Version",
+      "(Plus)",
+      "International",
+      "GSM",
+      "No",
+      "Warranty",
+      "AMOLED",
+      "Color,",
+      "Smart",
+      "-",
+      "Phone,",
+      "6.2\"",
+      "Storage",
+      "SIM",
+      "Samsung",
+      "Dual",
+      "Midnight"
+    ],
     "specs": {
       "": {
         "": ""
@@ -2428,6 +3204,16 @@
   },
   {
     "itemName": "Apple iPhone SE 32GB - Space Grey - Unlocked",
+    "tags": [
+      "iPhone",
+      "Space",
+      "Apple",
+      "SE",
+      "Unlocked",
+      "32GB",
+      "-",
+      "Grey"
+    ],
     "specs": {
       "Configuration": {
         "Operating System": "iOS"
@@ -2445,6 +3231,20 @@
   },
   {
     "itemName": "Samsung Galaxy Note 9 N960F/DS GSM Unlocked International Version 512GB Ocean Blue",
+    "tags": [
+      "GSM",
+      "Galaxy",
+      "Unlocked",
+      "Blue",
+      "512GB",
+      "N960F/DS",
+      "Version",
+      "Note",
+      "9",
+      "Ocean",
+      "Samsung",
+      "International"
+    ],
     "specs": {
       "Configuration": {
         "Built-in Storage": "512GB",
@@ -2461,6 +3261,27 @@
   },
   {
     "itemName": "Xiaomi’s new Pocophone F1 with 6.18 inch Screen 6GB ROM 64GB RAM IR Face Unlock \u0026 Back Fingerprint Identification",
+    "tags": [
+      "64GB",
+      "new",
+      "Fingerprint",
+      "6.18",
+      "Screen",
+      "\u0026",
+      "Unlock",
+      "IR",
+      "Identification",
+      "F1",
+      "Pocophone",
+      "with",
+      "6GB",
+      "ROM",
+      "Back",
+      "Xiaomi’s",
+      "inch",
+      "Face",
+      "RAM"
+    ],
     "specs": {
       "": {
         "": ""
@@ -2469,6 +3290,31 @@
   },
   {
     "itemName": "Samsung Galaxy S8 G950FD Dual SIM GSM Unlocked Smart Phone, 5.8\" AMOLED Display, Midnight Black Color, 64GB Storage International Version - No Warranty",
+    "tags": [
+      "GSM",
+      "64GB",
+      "Galaxy",
+      "No",
+      "Warranty",
+      "Unlocked",
+      "S8",
+      "AMOLED",
+      "Color,",
+      "Black",
+      "Smart",
+      "-",
+      "G950FD",
+      "Phone,",
+      "Display,",
+      "Storage",
+      "Version",
+      "SIM",
+      "Samsung",
+      "5.8\"",
+      "Dual",
+      "Midnight",
+      "International"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -2543,6 +3389,16 @@
   },
   {
     "itemName": "Apple iPhone 7 128GB Jet Black Unlocked Smartphone",
+    "tags": [
+      "iPhone",
+      "Apple",
+      "Unlocked",
+      "7",
+      "128GB",
+      "Jet",
+      "Black",
+      "Smartphone"
+    ],
     "specs": {
       "": {
         "": ""
@@ -2551,6 +3407,26 @@
   },
   {
     "itemName": "Samsung Galaxy Note 8 (N950FD) 64GB - Dual SIM Android 7.1.1, 6.3\" qHD Super AM-OLED, 12.0MP (Midnight Black)",
+    "tags": [
+      "64GB",
+      "Galaxy",
+      "(N950FD)",
+      "(Midnight",
+      "qHD",
+      "-",
+      "Android",
+      "Super",
+      "12.0MP",
+      "Black)",
+      "SIM",
+      "7.1.1,",
+      "Note",
+      "8",
+      "Samsung",
+      "Dual",
+      "AM-OLED,",
+      "6.3\""
+    ],
     "specs": {
       "": {
         "": ""
@@ -2559,6 +3435,27 @@
   },
   {
     "itemName": "Razer Phone - Unlocked, 120 Hz Ultra Motion Display, Dual Camera, Dual Front-Facing Speakers, Gaming Phone (5.7\" Black, 64GB, 8GB RAM)",
+    "tags": [
+      "(5.7\"",
+      "Motion",
+      "64GB,",
+      "Unlocked,",
+      "Razer",
+      "Ultra",
+      "-",
+      "RAM)",
+      "120",
+      "Camera,",
+      "Hz",
+      "Display,",
+      "Black,",
+      "8GB",
+      "Phone",
+      "Front-Facing",
+      "Speakers,",
+      "Dual",
+      "Gaming"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -2619,6 +3516,15 @@
   },
   {
     "itemName": "Apple - iPhone XS Max 256GB - Gold",
+    "tags": [
+      "iPhone",
+      "Gold",
+      "Apple",
+      "Max",
+      "256GB",
+      "XS",
+      "-"
+    ],
     "specs": {
       "Design": {
         "Color": "Gold"
@@ -2638,6 +3544,23 @@
   },
   {
     "itemName": "Apple iPhone 8 Plus 4G LTE Unlocked Cell Phone 5.5\" Space Gray 64GB 3GB RAM",
+    "tags": [
+      "iPhone",
+      "Space",
+      "64GB",
+      "Gray",
+      "Unlocked",
+      "3GB",
+      "Apple",
+      "4G",
+      "Phone",
+      "8",
+      "Plus",
+      "LTE",
+      "Cell",
+      "5.5\"",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -2711,6 +3634,18 @@
   },
   {
     "itemName": "Apple iPhone SE 32 GB Unlocked, Space Gray (GSM Only)",
+    "tags": [
+      "iPhone",
+      "Space",
+      "Only)",
+      "Apple",
+      "SE",
+      "Gray",
+      "Unlocked,",
+      "(GSM",
+      "GB",
+      "32"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -2782,6 +3717,16 @@
   },
   {
     "itemName": "Apple - iPhone XS 64GB - Gold - Unlocked - MT962LL/A",
+    "tags": [
+      "iPhone",
+      "64GB",
+      "Gold",
+      "Apple",
+      "Unlocked",
+      "MT962LL/A",
+      "XS",
+      "-"
+    ],
     "specs": {
       "Configuration": {
         "Built-in Storage": "64GB",
@@ -2798,6 +3743,22 @@
   },
   {
     "itemName": "Apple iPhone 6s 128GB 4G LTE Unlocked Cell Phone with 2GB RAM (Rose Gold)",
+    "tags": [
+      "iPhone",
+      "Unlocked",
+      "2GB",
+      "(Rose",
+      "with",
+      "Apple",
+      "4G",
+      "Gold)",
+      "Phone",
+      "128GB",
+      "LTE",
+      "6s",
+      "Cell",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Bar Phones",
@@ -2871,6 +3832,30 @@
   },
   {
     "itemName": "Apple Iphone SE 32GB MLLY2LL/A 4G LTE GSM Unlocked 4\" IPS LCD 2GB RAM 12MP Camera Phone - Space Gray - USA Warranty",
+    "tags": [
+      "GSM",
+      "Space",
+      "Gray",
+      "USA",
+      "Warranty",
+      "Unlocked",
+      "Iphone",
+      "LCD",
+      "32GB",
+      "IPS",
+      "2GB",
+      "-",
+      "4\"",
+      "Apple",
+      "SE",
+      "MLLY2LL/A",
+      "4G",
+      "12MP",
+      "Phone",
+      "Camera",
+      "LTE",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -2942,6 +3927,31 @@
   },
   {
     "itemName": "Samsung Galaxy S8 G950FD Dual SIM GSM Unlocked Smart Phone, 5.8\" AMOLED Display, Maple Gold Color, 64GB Storage International Version - No Warranty",
+    "tags": [
+      "GSM",
+      "64GB",
+      "Galaxy",
+      "Gold",
+      "No",
+      "Warranty",
+      "Unlocked",
+      "S8",
+      "AMOLED",
+      "Color,",
+      "Smart",
+      "-",
+      "G950FD",
+      "Phone,",
+      "Display,",
+      "Storage",
+      "Version",
+      "SIM",
+      "Samsung",
+      "5.8\"",
+      "Dual",
+      "Maple",
+      "International"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -3008,6 +4018,21 @@
   },
   {
     "itemName": "Apple iPhone 6s 128GB 4G LTE Unlocked Cell Phone with 2GB RAM (Gold)",
+    "tags": [
+      "iPhone",
+      "Unlocked",
+      "2GB",
+      "with",
+      "Apple",
+      "4G",
+      "Phone",
+      "128GB",
+      "LTE",
+      "6s",
+      "Cell",
+      "RAM",
+      "(Gold)"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -3081,6 +4106,24 @@
   },
   {
     "itemName": "Motorola Nexus 6 XT1100 64GB Unlocked GSM 4G LTE Phone w/ 13MP Camera - Midnight Blue",
+    "tags": [
+      "64GB",
+      "GSM",
+      "Unlocked",
+      "Nexus",
+      "Blue",
+      "-",
+      "13MP",
+      "4G",
+      "6",
+      "Phone",
+      "w/",
+      "Camera",
+      "LTE",
+      "Midnight",
+      "Motorola",
+      "XT1100"
+    ],
     "specs": {
       "Design": {
         "Color": "Blue"
@@ -3121,6 +4164,22 @@
   },
   {
     "itemName": "Asus Zenfone 5Q ZC600KL 4G LTE Unlocked Cell Phone 6\" Black 64GB 4GB RAM",
+    "tags": [
+      "64GB",
+      "Unlocked",
+      "Zenfone",
+      "Black",
+      "6\"",
+      "Asus",
+      "4GB",
+      "4G",
+      "Phone",
+      "ZC600KL",
+      "5Q",
+      "LTE",
+      "Cell",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -3202,6 +4261,32 @@
   },
   {
     "itemName": "OnePlus 6 128GB A6000 Dual SIM GSM Factory Unlocked 4G LTE 6.28\" Optic AMOLED Display 8GB RAM Dual 16MP + 20MP Smartphone - Mirror Black",
+    "tags": [
+      "Unlocked",
+      "Factory",
+      "Black",
+      "4G",
+      "8GB",
+      "A6000",
+      "128GB",
+      "16MP",
+      "GSM",
+      "Optic",
+      "AMOLED",
+      "6.28\"",
+      "+",
+      "-",
+      "OnePlus",
+      "6",
+      "SIM",
+      "20MP",
+      "Dual",
+      "LTE",
+      "Smartphone",
+      "Mirror",
+      "Display",
+      "RAM"
+    ],
     "specs": {
       "Configuration": {
         "Processor Core": "Octa-core",
@@ -3278,6 +4363,21 @@
   },
   {
     "itemName": "Xiaomi Redmi 6A 16GB Unlocked GSM Dual-SIM Phone w/ 13MP Camera - Blue",
+    "tags": [
+      "GSM",
+      "Xiaomi",
+      "Unlocked",
+      "Blue",
+      "6A",
+      "-",
+      "Dual-SIM",
+      "13MP",
+      "Phone",
+      "16GB",
+      "w/",
+      "Camera",
+      "Redmi"
+    ],
     "specs": {
       "Design": {
         "Color": "Blue"
@@ -3316,6 +4416,17 @@
   },
   {
     "itemName": "Apple iPhone 6s 64GB AT\u0026T Smartphone - Rose Gold",
+    "tags": [
+      "iPhone",
+      "64GB",
+      "Gold",
+      "Apple",
+      "Rose",
+      "6s",
+      "Smartphone",
+      "-",
+      "AT\u0026T"
+    ],
     "specs": {
       "Design": {
         "Color": "Rose Gold"
@@ -3341,6 +4452,20 @@
   },
   {
     "itemName": "Sony Xperia XA 5\" Unlocked Smartphone - 16GB - US Warranty (Graphite Black)",
+    "tags": [
+      "Sony",
+      "Warranty",
+      "Unlocked",
+      "XA",
+      "5\"",
+      "-",
+      "Black)",
+      "16GB",
+      "(Graphite",
+      "Xperia",
+      "Smartphone",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -3406,6 +4531,22 @@
   },
   {
     "itemName": "Motorola Moto E4 (4th Gen) Unlocked Cell Phone (5\", 16GB Storage 2GB RAM) Black",
+    "tags": [
+      "Unlocked",
+      "(5\",",
+      "Black",
+      "2GB",
+      "RAM)",
+      "E4",
+      "(4th",
+      "Storage",
+      "Phone",
+      "16GB",
+      "Gen)",
+      "Moto",
+      "Motorola",
+      "Cell"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -3465,6 +4606,20 @@
   },
   {
     "itemName": "Apple iPhone SE 64GB Unlocked GSM Phone w/ 12MP Camera - Gold",
+    "tags": [
+      "iPhone",
+      "64GB",
+      "GSM",
+      "Gold",
+      "Unlocked",
+      "-",
+      "Apple",
+      "SE",
+      "12MP",
+      "Phone",
+      "w/",
+      "Camera"
+    ],
     "specs": {
       "Design": {
         "Color": "Gold"
@@ -3503,6 +4658,22 @@
   },
   {
     "itemName": "Apple iPhone X 4G LTE Unlocked Cell Phone 5.8\" Space Gray 64GB 3GB RAM",
+    "tags": [
+      "iPhone",
+      "Space",
+      "64GB",
+      "Gray",
+      "Unlocked",
+      "3GB",
+      "Apple",
+      "4G",
+      "Phone",
+      "X",
+      "5.8\"",
+      "LTE",
+      "Cell",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -3575,6 +4746,24 @@
   },
   {
     "itemName": "Asus ZenFone 3 Deluxe ZS570KL 4G LTE Unlocked Cell Phone 5.7\" Glacier Silver 64GB 6GB RAM",
+    "tags": [
+      "64GB",
+      "ZS570KL",
+      "Unlocked",
+      "Glacier",
+      "Asus",
+      "Silver",
+      "6GB",
+      "3",
+      "4G",
+      "Phone",
+      "ZenFone",
+      "Deluxe",
+      "LTE",
+      "5.7\"",
+      "Cell",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -3652,6 +4841,22 @@
   },
   {
     "itemName": "Apple iPhone SE A1662 16GB 4G LTE  Unlocked  Smartphone 4.0\" 2GB RAM Gold",
+    "tags": [
+      "iPhone",
+      "",
+      "Gold",
+      "Unlocked",
+      "A1662",
+      "2GB",
+      "Apple",
+      "SE",
+      "4G",
+      "4.0\"",
+      "16GB",
+      "LTE",
+      "Smartphone",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -3726,6 +4931,17 @@
   },
   {
     "itemName": "Unlocked Apple iPhone 8 Plus A1897 64GB GSM Smartphone",
+    "tags": [
+      "iPhone",
+      "64GB",
+      "GSM",
+      "Apple",
+      "Unlocked",
+      "8",
+      "Plus",
+      "A1897",
+      "Smartphone"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Bar Phones",
@@ -3767,6 +4983,21 @@
   },
   {
     "itemName": "Apple iPhone 6s 128GB 4G LTE Unlocked Cell Phone with 2GB RAM (Silver)",
+    "tags": [
+      "iPhone",
+      "Unlocked",
+      "2GB",
+      "with",
+      "Apple",
+      "4G",
+      "Phone",
+      "128GB",
+      "LTE",
+      "6s",
+      "Cell",
+      "(Silver)",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Bar Phones",
@@ -3840,6 +5071,18 @@
   },
   {
     "itemName": "Moto Z 64GB Lunar Gray Unlocked Smartphone – US Warranty",
+    "tags": [
+      "64GB",
+      "Gray",
+      "Lunar",
+      "–",
+      "Warranty",
+      "Unlocked",
+      "Moto",
+      "Z",
+      "Smartphone",
+      "US"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -3910,6 +5153,19 @@
   },
   {
     "itemName": "Razer Phone 2 LTE Unlocked Gaming Phone 5.7\" 64 GB 8 GB RAM",
+    "tags": [
+      "Unlocked",
+      "Razer",
+      "2",
+      "Phone",
+      "8",
+      "GB",
+      "LTE",
+      "5.7\"",
+      "Gaming",
+      "64",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -3969,6 +5225,19 @@
   },
   {
     "itemName": "Huawei P20 Pro 128GB Dual-SIM Factory Unlocked 4G/LTE Smartphone (Midnight Blue)",
+    "tags": [
+      "Dual-SIM",
+      "Unlocked",
+      "(Midnight",
+      "128GB",
+      "Factory",
+      "4G/LTE",
+      "Blue)",
+      "Huawei",
+      "Pro",
+      "Smartphone",
+      "P20"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Touch Screen Phones",
@@ -4034,6 +5303,31 @@
   },
   {
     "itemName": "Samsung Galaxy S7 Edge Dual SIM Unlocked Smart Phone, Dual Edge 5.5\" AMOLED Display, Gold Color, 32GB Storage 4GB RAM International Version - No Warranty",
+    "tags": [
+      "Galaxy",
+      "S7",
+      "Unlocked",
+      "4GB",
+      "Display,",
+      "Version",
+      "International",
+      "Gold",
+      "No",
+      "Warranty",
+      "AMOLED",
+      "Color,",
+      "Smart",
+      "32GB",
+      "-",
+      "Phone,",
+      "Storage",
+      "SIM",
+      "Samsung",
+      "Dual",
+      "Edge",
+      "5.5\"",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -4110,6 +5404,32 @@
   },
   {
     "itemName": "OnePlus 6 128GB A6000 Dual SIM GSM Factory Unlocked 4G LTE 6.28\" Optic AMOLED Display 8GB RAM Dual 16MP + 20MP Smartphone - Silk White",
+    "tags": [
+      "Unlocked",
+      "Factory",
+      "Silk",
+      "4G",
+      "8GB",
+      "A6000",
+      "128GB",
+      "16MP",
+      "GSM",
+      "Optic",
+      "AMOLED",
+      "6.28\"",
+      "+",
+      "-",
+      "White",
+      "OnePlus",
+      "6",
+      "SIM",
+      "20MP",
+      "Dual",
+      "LTE",
+      "Smartphone",
+      "Display",
+      "RAM"
+    ],
     "specs": {
       "Configuration": {
         "Processor Core": "Octa-core",
@@ -4186,6 +5506,18 @@
   },
   {
     "itemName": "Huawei P20 Pro 128GB Dual-SIM Factory Unlocked 4G/LTE Smartphone (Black)",
+    "tags": [
+      "Dual-SIM",
+      "Unlocked",
+      "128GB",
+      "Factory",
+      "4G/LTE",
+      "(Black)",
+      "Huawei",
+      "Pro",
+      "Smartphone",
+      "P20"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Touch Screen Phones",
@@ -4251,6 +5583,25 @@
   },
   {
     "itemName": "Samsung Galaxy S9 4G LTE Dual SIM Unlocked Cell Phone International Version (5.8\" Gray, 64GB 4GB RAM)",
+    "tags": [
+      "64GB",
+      "Galaxy",
+      "Unlocked",
+      "S9",
+      "(5.8\"",
+      "RAM)",
+      "4GB",
+      "4G",
+      "Gray,",
+      "Version",
+      "SIM",
+      "Phone",
+      "Samsung",
+      "LTE",
+      "Dual",
+      "Cell",
+      "International"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -4320,6 +5671,38 @@
   },
   {
     "itemName": "OnePlus 6, 8GB+128GB, Dual Back Cameras, Face \u0026 Fingerprint Identification, 6.28 inch 2.5D H2OS 5.1 (Android 8.1) Qualcomm Snapdragon 845 Octa Core up to 2.8GHz, NFC, Bluetooth 5.0, Network: 4G",
+    "tags": [
+      "Bluetooth",
+      "Octa",
+      "Network:",
+      "5.0,",
+      "4G",
+      "8.1)",
+      "Back",
+      "up",
+      "Face",
+      "Core",
+      "Snapdragon",
+      "Fingerprint",
+      "2.8GHz,",
+      "Identification,",
+      "Qualcomm",
+      "NFC,",
+      "\u0026",
+      "6.28",
+      "(Android",
+      "Cameras,",
+      "8GB+128GB,",
+      "H2OS",
+      "OnePlus",
+      "6,",
+      "5.1",
+      "845",
+      "inch",
+      "to",
+      "Dual",
+      "2.5D"
+    ],
     "specs": {
       "Design": {
         "Dual SIM": "Yes",
@@ -4352,6 +5735,18 @@
   },
   {
     "itemName": "Apple - iPhone XS Max 256GB - Space Gray - Unlocked - MT5D2LL/A",
+    "tags": [
+      "iPhone",
+      "Space",
+      "Gray",
+      "Unlocked",
+      "Max",
+      "-",
+      "Apple",
+      "256GB",
+      "XS",
+      "MT5D2LL/A"
+    ],
     "specs": {
       "Design": {
         "Color": "Space Gray"
@@ -4371,6 +5766,22 @@
   },
   {
     "itemName": "Google Pixel XL 32GB Unlocked GSM Phone w/ 12.3 MP Camera - Quite Black",
+    "tags": [
+      "GSM",
+      "Google",
+      "MP",
+      "Unlocked",
+      "Black",
+      "32GB",
+      "-",
+      "12.3",
+      "XL",
+      "Phone",
+      "w/",
+      "Quite",
+      "Camera",
+      "Pixel"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -4443,6 +5854,14 @@
   },
   {
     "itemName": "Samsung Galaxy S7 32GB Black UNLOCKED",
+    "tags": [
+      "UNLOCKED",
+      "Galaxy",
+      "S7",
+      "Samsung",
+      "Black",
+      "32GB"
+    ],
     "specs": {
       "Design": {
         "Color": "Black"
@@ -4454,6 +5873,15 @@
   },
   {
     "itemName": "Apple iPhone 8 (AT\u0026T), 64GB, Gold, A1905",
+    "tags": [
+      "iPhone",
+      "Gold,",
+      "Apple",
+      "64GB,",
+      "A1905",
+      "8",
+      "(AT\u0026T),"
+    ],
     "specs": {
       "Design": {
         "Color": "Gold"
@@ -4486,6 +5914,34 @@
   },
   {
     "itemName": "Motorola Moto G6 Play 32GB XT1922-5 Dual Sim GSM Factory Unlocked 4G LTE 5.7\" IPS LCD Display 3GB RAM 13MP Smartphone - Deep Indigo - International Version",
+    "tags": [
+      "Unlocked",
+      "XT1922-5",
+      "Factory",
+      "IPS",
+      "3GB",
+      "G6",
+      "13MP",
+      "4G",
+      "Version",
+      "Moto",
+      "International",
+      "GSM",
+      "LCD",
+      "Deep",
+      "32GB",
+      "-",
+      "Play",
+      "Sim",
+      "Dual",
+      "LTE",
+      "5.7\"",
+      "Indigo",
+      "Motorola",
+      "Smartphone",
+      "Display",
+      "RAM"
+    ],
     "specs": {
       "Configuration": {
         "Processor Core": "Quad-Core",
@@ -4564,6 +6020,18 @@
   },
   {
     "itemName": "Apple iPhone SE 16GB Factory GSM Unlocked - Space Gray",
+    "tags": [
+      "iPhone",
+      "GSM",
+      "Space",
+      "Apple",
+      "SE",
+      "Gray",
+      "Unlocked",
+      "16GB",
+      "Factory",
+      "-"
+    ],
     "specs": {
       "Design": {
         "Color": "Space Gray"
@@ -4593,6 +6061,38 @@
   },
   {
     "itemName": "OnePlus 6, 8GB+128GB, Dual Back Cameras, Face \u0026 Fingerprint Identification, 6.28 inch 2.5D H2OS 5.1 (Android 8.1) Qualcomm Snapdragon 845 Octa Core up to 2.8GHz, NFC, Bluetooth 5.0, Network: 4G",
+    "tags": [
+      "Bluetooth",
+      "Octa",
+      "Network:",
+      "5.0,",
+      "4G",
+      "8.1)",
+      "Back",
+      "up",
+      "Face",
+      "Core",
+      "Snapdragon",
+      "Fingerprint",
+      "2.8GHz,",
+      "Identification,",
+      "Qualcomm",
+      "NFC,",
+      "\u0026",
+      "6.28",
+      "(Android",
+      "Cameras,",
+      "8GB+128GB,",
+      "H2OS",
+      "OnePlus",
+      "6,",
+      "5.1",
+      "845",
+      "inch",
+      "to",
+      "Dual",
+      "2.5D"
+    ],
     "specs": {
       "Design": {
         "Dual SIM": "Yes",
@@ -4625,6 +6125,23 @@
   },
   {
     "itemName": "Apple iPhone 8 Plus 4G LTE Unlocked Cell Phone 5.5\" Space Gray 256GB 3GB RAM",
+    "tags": [
+      "iPhone",
+      "Space",
+      "Gray",
+      "Unlocked",
+      "3GB",
+      "Apple",
+      "4G",
+      "Phone",
+      "256GB",
+      "8",
+      "Plus",
+      "LTE",
+      "Cell",
+      "5.5\"",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -4698,6 +6215,18 @@
   },
   {
     "itemName": "Apple - iPhone XS Max 512GB - Space Gray - Unlocked - MT5G2LL/A",
+    "tags": [
+      "iPhone",
+      "Space",
+      "Gray",
+      "Unlocked",
+      "Max",
+      "MT5G2LL/A",
+      "-",
+      "512GB",
+      "Apple",
+      "XS"
+    ],
     "specs": {
       "Design": {
         "Color": "Space Gray",
@@ -4724,6 +6253,27 @@
   },
   {
     "itemName": "iPhone 8 Plus 64GB (PRODUCT) Red FACTORY UNLOCKED (LIMITED EDITION) Works with all GSM Carriers in USA and Worldwide.",
+    "tags": [
+      "iPhone",
+      "64GB",
+      "all",
+      "GSM",
+      "(PRODUCT)",
+      "USA",
+      "Worldwide.",
+      "in",
+      "EDITION)",
+      "(LIMITED",
+      "Red",
+      "UNLOCKED",
+      "Carriers",
+      "with",
+      "and",
+      "8",
+      "Plus",
+      "FACTORY",
+      "Works"
+    ],
     "specs": {
       "Design": {
         "Color": "Red"
@@ -4743,6 +6293,22 @@
   },
   {
     "itemName": "Apple iPhone 8 Plus 4G LTE Unlocked Cell Phone 5.5\" Silver 256GB 3GB RAM",
+    "tags": [
+      "iPhone",
+      "Unlocked",
+      "3GB",
+      "Silver",
+      "Apple",
+      "4G",
+      "Phone",
+      "256GB",
+      "8",
+      "Plus",
+      "LTE",
+      "Cell",
+      "5.5\"",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -4816,6 +6382,30 @@
   },
   {
     "itemName": "Samsung Galaxy S8 G950FD Dual SIM Unlocked Smart Phone, 5.8\" AMOLED Display, Orchid Gray Color, 64GB Storage International Version - No Warranty",
+    "tags": [
+      "Orchid",
+      "64GB",
+      "Galaxy",
+      "No",
+      "Gray",
+      "Warranty",
+      "Unlocked",
+      "S8",
+      "AMOLED",
+      "Color,",
+      "Smart",
+      "-",
+      "G950FD",
+      "Phone,",
+      "Display,",
+      "Storage",
+      "Version",
+      "SIM",
+      "Samsung",
+      "5.8\"",
+      "Dual",
+      "International"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
@@ -4858,6 +6448,23 @@
   },
   {
     "itemName": "Apple iPhone 6s Plus 16GB 4G LTE Unlocked Cell Phone 5.5\" 2GB RAM (Space Gray)",
+    "tags": [
+      "iPhone",
+      "Unlocked",
+      "2GB",
+      "Apple",
+      "4G",
+      "Phone",
+      "16GB",
+      "(Space",
+      "Gray)",
+      "Plus",
+      "LTE",
+      "6s",
+      "Cell",
+      "5.5\"",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Bar Phones",
@@ -4933,6 +6540,23 @@
   },
   {
     "itemName": "Nokia 6.1 TA-1045 32GB Unlocked GSM 4G LTE Android Phone w/ 16MP Camera - Black",
+    "tags": [
+      "GSM",
+      "Unlocked",
+      "TA-1045",
+      "Black",
+      "32GB",
+      "-",
+      "Android",
+      "4G",
+      "Phone",
+      "w/",
+      "6.1",
+      "Camera",
+      "LTE",
+      "Nokia",
+      "16MP"
+    ],
     "specs": {
       "Configuration": {
         "Built-in Storage": "32GB",
@@ -4952,6 +6576,21 @@
   },
   {
     "itemName": "Huawei P20 Pro Dual SIM 6.1\" Octa Core 6GB RAM 40MP 6G/128G Twilight",
+    "tags": [
+      "Octa",
+      "40MP",
+      "Twilight",
+      "6G/128G",
+      "Pro",
+      "P20",
+      "6.1\"",
+      "6GB",
+      "SIM",
+      "Huawei",
+      "Dual",
+      "Core",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Color": "Purple"
@@ -4977,6 +6616,15 @@
   },
   {
     "itemName": "Apple iPhone SE 32 GB Unlocked, Silver",
+    "tags": [
+      "iPhone",
+      "Silver",
+      "Apple",
+      "SE",
+      "Unlocked,",
+      "GB",
+      "32"
+    ],
     "specs": {
       "Design": {
         "Color": "Silver"
@@ -4999,6 +6647,16 @@
   },
   {
     "itemName": "Apple iPhone SE A1662 16GB GSM Unlocked Smartphone",
+    "tags": [
+      "iPhone",
+      "GSM",
+      "Apple",
+      "SE",
+      "Unlocked",
+      "16GB",
+      "A1662",
+      "Smartphone"
+    ],
     "specs": {
       "Design": {
         "Color": "Rose Gold"
@@ -5021,6 +6679,20 @@
   },
   {
     "itemName": "BLACKVIEW BV9500 10000mAh 16MP Dual Camera NFC Wireless Charging 4GB+64GB Android 8.1",
+    "tags": [
+      "Wireless",
+      "Charging",
+      "BV9500",
+      "10000mAh",
+      "NFC",
+      "Android",
+      "BLACKVIEW",
+      "Camera",
+      "4GB+64GB",
+      "8.1",
+      "Dual",
+      "16MP"
+    ],
     "specs": {
       "Design": {
         "Color": "Black"
@@ -5057,6 +6729,24 @@
   },
   {
     "itemName": "Samsung Note 8 (64GB) N950F/DS 6.3\" Dual SIM GSM Unlocked International Model, No Warranty (Orchid Gray)",
+    "tags": [
+      "GSM",
+      "No",
+      "Warranty",
+      "Unlocked",
+      "N950F/DS",
+      "Model,",
+      "SIM",
+      "(Orchid",
+      "Note",
+      "8",
+      "Samsung",
+      "(64GB)",
+      "Gray)",
+      "Dual",
+      "6.3\"",
+      "International"
+    ],
     "specs": {
       "Design": {
         "Color": "Grey"
@@ -5083,6 +6773,20 @@
   },
   {
     "itemName": "OnePlus 6 64GB Mirror Black A6000 (FACTORY UNLOCKED) 6.28\" 16MP 6GB RAM",
+    "tags": [
+      "64GB",
+      "(FACTORY",
+      "6.28\"",
+      "Black",
+      "6GB",
+      "OnePlus",
+      "6",
+      "A6000",
+      "UNLOCKED)",
+      "Mirror",
+      "16MP",
+      "RAM"
+    ],
     "specs": {
       "Configuration": {
         "Processor Core": "Octa-core",
@@ -5158,6 +6862,32 @@
   },
   {
     "itemName": "Samsung Galaxy S8 Plus (S8+) (SM-G955FD) 4GB RAM / 64GB ROM 6.2-Inch 12MP 4G LTE Dual SIM FACTORY UNLOCKED - International Stock (Coral Blue)",
+    "tags": [
+      "64GB",
+      "Galaxy",
+      "S8",
+      "4GB",
+      "(Coral",
+      "6.2-Inch",
+      "(S8+)",
+      "12MP",
+      "4G",
+      "Plus",
+      "FACTORY",
+      "International",
+      "-",
+      "/",
+      "UNLOCKED",
+      "ROM",
+      "(SM-G955FD)",
+      "SIM",
+      "Samsung",
+      "Blue)",
+      "LTE",
+      "Dual",
+      "Stock",
+      "RAM"
+    ],
     "specs": {
       "Design": {
         "Color": "Blue"
@@ -5180,6 +6910,23 @@
   },
   {
     "itemName": "Samsung Galaxy Note 8 Dual SIM Unlocked Smartphone with LED Dual Camera (6.3\" Black, 6GB RAM)",
+    "tags": [
+      "Galaxy",
+      "(6.3\"",
+      "Unlocked",
+      "LED",
+      "RAM)",
+      "with",
+      "6GB",
+      "Black,",
+      "SIM",
+      "Note",
+      "8",
+      "Samsung",
+      "Camera",
+      "Dual",
+      "Smartphone"
+    ],
     "specs": {
       "Design": {
         "Form Factor": "Smart Phones",
