@@ -1,0 +1,1279 @@
+[
+  {
+    "itemName": "iPhone XR",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "326",
+        "Protection type": "Other",
+        "Screen size (inches)": "6.10",
+        "Resolution": "828x1792 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "64GB",
+        "Expandable storage": "No",
+        "Processor": "hexa-core",
+        "Processor make": "Apple A12 Bionic"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 5.00",
+        "Wi-Fi": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "Lightning",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Lightning": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "Active 4G on both SIM cards": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "eSIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel (f/1.8)",
+        "Front camera": "7-megapixel (f/2.2)",
+        "Rear autofocus": "Yes",
+        "Rear flash": "Yes"
+      },
+      "GENERAL": {
+        "Release date": "September 2018",
+        "Wireless charging": "Yes",
+        "Colours": "Black, Blue, Coral, White, Yellow, and PRODUCT (RED)",
+        "IP rating": "IP67",
+        "Removable battery": "No",
+        "Dimensions (mm)": "150.90 x 75.70 x 8.30",
+        "Weight (g)": "194.00"
+      },
+      "SENSORS": {
+        "Fingerprint sensor": "No",
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "3D face recognition": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Face unlock": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 12"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone XS Max",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "458",
+        "Protection type": "Other",
+        "Screen size (inches)": "6.50",
+        "Resolution": "1242x2688 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "64GB",
+        "Expandable storage": "No",
+        "Processor": "hexa-core",
+        "Processor make": "Apple A12 Bionic"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 5.00",
+        "Wi-Fi": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "Lightning",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Lightning": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "Active 4G on both SIM cards": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "eSIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel (f/1.8, 1.4-micron) + 12-megapixel (f/2.4)",
+        "Front camera": "7-megapixel (f/2.2)",
+        "Rear autofocus": "Yes",
+        "Rear flash": "Yes"
+      },
+      "GENERAL": {
+        "Release date": "September 2018",
+        "Wireless charging": "Yes",
+        "Colours": "Space Grey, Silver, Gold",
+        "IP rating": "IP68",
+        "Removable battery": "No",
+        "Dimensions (mm)": "157.50 x 77.40 x 7.70",
+        "Weight (g)": "208.00"
+      },
+      "SENSORS": {
+        "Fingerprint sensor": "No",
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "3D face recognition": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Face unlock": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 12"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone XS",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "458",
+        "Protection type": "Other",
+        "Screen size (inches)": "5.80",
+        "Resolution": "1125x2436 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "64GB",
+        "Expandable storage": "No",
+        "Processor": "hexa-core",
+        "Processor make": "Apple A12 Bionic"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 5.00",
+        "Wi-Fi": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "Lightning",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Lightning": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "Active 4G on both SIM cards": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "eSIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel (f/1.8, 1.4-micron) + 12-megapixel (f/2.4)",
+        "Front camera": "7-megapixel (f/2.2)",
+        "Rear autofocus": "Yes",
+        "Rear flash": "Yes"
+      },
+      "GENERAL": {
+        "Release date": "September 2018",
+        "Wireless charging": "Yes",
+        "Colours": "Space Grey, Silver, Gold",
+        "IP rating": "IP68",
+        "Removable battery": "No",
+        "Dimensions (mm)": "143.60 x 70.90 x 7.70",
+        "Weight (g)": "177.00"
+      },
+      "SENSORS": {
+        "Fingerprint sensor": "No",
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "3D face recognition": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Face unlock": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 12"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 8",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "4.70",
+        "Resolution": "750x1334 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "64GB",
+        "Expandable storage": "No",
+        "Processor": "hexa-core",
+        "Processor make": "Apple A11 Bionic",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 5.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Front camera": "7-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "September 2017",
+        "Battery capacity (mAh)": "1821",
+        "Colours": "Silver, Space Gray, Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "138.40 x 67.30 x 7.30",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "148.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 11"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 8 Plus",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "64GB",
+        "Expandable storage": "No",
+        "Processor": "hexa-core",
+        "Processor make": "Apple A11 Bionic",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 5.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Front flash": "Yes",
+        "Front camera": "7-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "September 2017",
+        "Battery capacity (mAh)": "2691",
+        "Colours": "Silver, Space Gray, Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "158.40 x 78.10 x 7.50",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "202.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 11"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone X",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.80",
+        "Resolution": "1125x2436 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "64GB",
+        "Expandable storage": "No",
+        "Processor": "hexa-core",
+        "Processor make": "Apple A11 Bionic",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 5.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Front camera": "7-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "September 2017",
+        "Battery capacity (mAh)": "2716",
+        "Removable battery": "No",
+        "Dimensions (mm)": "143.60 x 70.90 x 7.70",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "174.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 11"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 7 Plus",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "401",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Processor": "quad-core",
+        "Processor make": "Apple A10 Fusion",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Front camera": "7-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "September 2016",
+        "Battery capacity (mAh)": "2900",
+        "Colours": "Red, Rose Gold, Gold, Silver, Black, Jet Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "158.20 x 77.90 x 7.30",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "188.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 10"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 7",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "4.70",
+        "Resolution": "750x1334 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Processor": "quad-core",
+        "Processor make": "Apple A10 Fusion",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Front camera": "7-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "September 2016",
+        "Battery capacity (mAh)": "1960",
+        "Colours": "Red, Rose Gold, Gold, Silver, Black, Jet Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "138.30 x 67.10 x 7.10",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "138.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 10"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone SE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "4.00",
+        "Resolution": "640x1136 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor make": "A9",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Front camera": "1.2-megapixel",
+        "Rear flash": "Yes"
+      },
+      "GENERAL": {
+        "Release date": "March 2016",
+        "Colours": "Silver, Gold, Space Grey, Rose Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "123.80 x 58.60 x 7.66",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "113.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 9.3"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 6s Plus",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "401",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor make": "A9",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Front camera": "5-megapixel",
+        "Rear flash": "Yes"
+      },
+      "GENERAL": {
+        "Release date": "September 2015",
+        "Battery capacity (mAh)": "2750",
+        "Colours": "Silver, Gold, Space Gray, Rose Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "158.20 x 77.90 x 7.30",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "192.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 9"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 6s",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "4.70",
+        "Resolution": "750x1334 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor make": "A9",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Front camera": "5-megapixel",
+        "Rear flash": "Yes"
+      },
+      "GENERAL": {
+        "Release date": "September 2015",
+        "Battery capacity (mAh)": "1715",
+        "Colours": "Silver, Gold, Space Grey, Rose Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "138.30 x 67.10 x 7.10",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "143.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 9"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 6 Plus",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "401",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A8",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "1.2-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "September 2014",
+        "Battery capacity (mAh)": "2915",
+        "Colours": "Silver, Gold, Space Gray",
+        "Removable battery": "No",
+        "Dimensions (mm)": "158.10 x 77.80 x 7.10",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "172.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 8.0"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 6",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "4.70",
+        "Resolution": "750x1334 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A8",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "1.2-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "September 2014",
+        "Battery capacity (mAh)": "1810",
+        "Colours": "Silver, Gold, Space Gray",
+        "Removable battery": "No",
+        "Dimensions (mm)": "138.10 x 67.00 x 6.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "129.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 8.0"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 5s",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "4.00",
+        "Aspect ratio": "16:9",
+        "Resolution": "640x1136 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor": "1.3GHz dual-core",
+        "Processor make": "Apple A7 (64-bit ARMv8)",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Lightning": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel (f/2.2, 1.5-micron)",
+        "Front camera": "1.2-megapixel (f/2.4)",
+        "Rear autofocus": "Yes",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "September 2013",
+        "Body type": "Metal",
+        "Battery capacity (mAh)": "1570",
+        "Colours": "Space Gray, Gold, Silver",
+        "Launched in India": "Yes",
+        "Removable battery": "No",
+        "Dimensions (mm)": "123.80 x 58.60 x 7.60",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "112.00"
+      },
+      "SENSORS": {
+        "Fingerprint sensor": "Yes",
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 7"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 5c",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "4.00",
+        "Resolution": "640x1136 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor": "1.3GHz dual-core",
+        "Processor make": "Apple A6",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "September 2013",
+        "Battery capacity (mAh)": "1507",
+        "Colours": "White, Pink, Yellow, Blue, Green",
+        "Removable battery": "No",
+        "Dimensions (mm)": "124.40 x 59.20 x 8.97",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "132.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 7"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 5",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "4.00",
+        "Resolution": "640x1136 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor": "1.3GHz dual-core",
+        "Processor make": "Apple A6",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "1.2-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "November 2012",
+        "Battery capacity (mAh)": "1440",
+        "Colours": "White, Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "123.80 x 58.60 x 7.60",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "112.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 6.1.4"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 4S",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "3.50",
+        "Resolution": "640x960 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor": "800 MHz dual-core",
+        "RAM": "512MB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "0.3-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "October 2011",
+        "Battery capacity (mAh)": "1430",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "115.20 x 58.66 x 9.30",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "140.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 6.1.3"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 4",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "3.50",
+        "Resolution": "640x960 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "8GB",
+        "Expandable storage": "No",
+        "RAM": "512MB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 2.10",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "0.3-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "June 2010",
+        "Battery capacity (mAh)": "1420",
+        "Colours": "Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "115.20 x 59.00 x 9.30",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "137.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 6.1.3"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 3GS",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "165",
+        "Resolution": "320x480 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "8GB",
+        "Expandable storage": "No",
+        "Processor": "600 MHz",
+        "RAM": "256MB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 2.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Regular",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "3.15-megapixel",
+        "Front camera": "No"
+      },
+      "GENERAL": {
+        "Release date": "June 2009",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "115.50 x 62.10 x 12.30",
+        "Form factor": "Bar",
+        "Weight (g)": "135.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 6.1.3"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone 3G",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "165",
+        "Resolution": "320x480 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "8GB",
+        "Expandable storage": "No",
+        "Processor": "412 MHz",
+        "RAM": "128MB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 2.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Regular",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "2-megapixel",
+        "Front camera": "Yes"
+      },
+      "GENERAL": {
+        "Release date": "July 2008",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "115.50 x 62.10 x 12.30",
+        "Form factor": "Bar"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS"
+      }
+    }
+  },
+  {
+    "itemName": "iPhone",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "3.50",
+        "Resolution": "320x480 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "4GB",
+        "Expandable storage": "No",
+        "Processor": "412 MHz",
+        "RAM": "128MB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "No",
+        "4G/ LTE": "No",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "SIM 1": "",
+        "SIM Type": "Regular",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "2-megapixel",
+        "Front camera": "No"
+      },
+      "GENERAL": {
+        "Release date": "June 2007",
+        "Removable battery": "No",
+        "Dimensions (mm)": "115.00 x 61.00 x 11.60",
+        "Form factor": "Bar"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 3"
+      }
+    }
+  }
+]

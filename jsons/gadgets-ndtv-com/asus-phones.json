@@ -1,0 +1,4788 @@
+[
+  {
+    "itemName": "ZenFone Lite L1 (ZA551KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.45",
+        "Resolution": "720x1440 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "quad-core",
+        "Processor make": "Qualcomm Snapdragon 430",
+        "Dedicated microSD slot": "Yes",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "Bluetooth": "Yes, v 4.00",
+        "Wi-Fi": "Yes",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "4G/ LTE": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel (f/2.0, 1.12-micron)",
+        "Front flash": "LED",
+        "Front camera": "5-megapixel (f/2.2, 1.12-micron)",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "October 2018",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Black, Gold",
+        "Launched in India": "Yes",
+        "Removable battery": "No",
+        "Dimensions (mm)": "147.26 x 71.77 x 8.15",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "140.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Face unlock": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 5.0",
+        "Operating system": "Android 8.1 Oreo"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Max M1 (ZB556KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.45",
+        "Resolution": "720x1440 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "quad-core",
+        "Processor make": "Qualcomm Snapdragon 430",
+        "Dedicated microSD slot": "Yes",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "Bluetooth": "Yes, v 4.00",
+        "Wi-Fi": "Yes",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "4G/ LTE": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel (f/2.0, 1.12-micron)",
+        "Front flash": "LED",
+        "Front camera": "8-megapixel (f/2.2, 1.12-micron)",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "October 2018",
+        "Battery capacity (mAh)": "4000",
+        "Colours": "Black, Gold",
+        "Launched in India": "Yes",
+        "Removable battery": "No",
+        "Dimensions (mm)": "147.30 x 70.90 x 8.70",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "150.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Face unlock": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 5.0",
+        "Operating system": "Android 8.1 Oreo"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Max Pro M1 (6GB)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.99",
+        "Aspect ratio": "18:9",
+        "Resolution": "1080x2160 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2000",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "octa-core",
+        "Processor make": "Qualcomm Snapdragon 636",
+        "RAM": "6GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 5.00",
+        "Wi-Fi": "Yes",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "16-megapixel (f/2.0)",
+        "Front camera": "16-megapixel (f/2.0)",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "July 2018",
+        "Battery capacity (mAh)": "5000",
+        "Colours": "Grey, Midnight Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "159.00 x 76.00 x 8.46",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "180.00"
+      },
+      "SENSORS": {
+        "Fingerprint sensor": "Yes",
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "Android 8.1 Oreo"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Ares",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.70",
+        "Aspect ratio": "16:9",
+        "Resolution": "1440x2560 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2000",
+        "Internal storage": "128GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "quad-core",
+        "Processor make": "Qualcomm Snapdragon 821",
+        "RAM": "8GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "Wi-Fi": "Yes",
+        "Number of SIMs": "2",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "23-megapixel",
+        "Front camera": "8-megapixel",
+        "Rear flash": "Yes"
+      },
+      "GENERAL": {
+        "Release date": "June 2018",
+        "Battery capacity (mAh)": "3300",
+        "Fast charging": "Quick Charge 3.0",
+        "Dimensions (mm)": "158.67 x 77.40 x 7.99",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "170.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 7.0"
+      }
+    }
+  },
+  {
+    "itemName": "ROG Phone",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Protection type": "Gorilla Glass",
+        "Screen size (inches)": "6.00",
+        "Aspect ratio": "18:9",
+        "Resolution": "1080x2160 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "512GB",
+        "Expandable storage": "No",
+        "Processor": "2.96GHz octa-core (4x2.96GHz + 4x1.7GHz)",
+        "Processor make": "Qualcomm Snapdragon 845",
+        "RAM": "8GB"
+      },
+      "CONNECTIVITY": {
+        "USB Type-C": "Yes",
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes, v 5.00",
+        "Wi-Fi": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "Yes",
+        "NFC": "Yes",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel (f/1.8, 1.4-micron) + 8-megapixel",
+        "Front camera": "8-megapixel (f/2.0)",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "June 2018",
+        "Battery capacity (mAh)": "4000",
+        "Colours": "Black",
+        "Fast charging": "Quick Charge 4+",
+        "Dimensions (mm)": "158.80 x 76.20 x 8.60",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "200.00"
+      },
+      "SENSORS": {
+        "Fingerprint sensor": "Yes",
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ROG Gaming UI",
+        "Operating system": "Android 8.1"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Live L1",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.45",
+        "Resolution": "720x1440 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.4GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 425",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "GSM/CDMA": "GSM",
+        "Bluetooth": "Yes",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "3G": "Yes",
+        "Number of SIMs": "2",
+        "SIM 2": "",
+        "GPS": "Yes",
+        "SIM 1": "",
+        "4G/ LTE": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "May 2018",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Rose Pink, Midnight Black, White, Blue",
+        "Form factor": "Touchscreen"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 8.1",
+        "Skin": "ZenUI 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Max Pro M1",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "404",
+        "Screen size (inches)": "5.99",
+        "Aspect ratio": "18:9",
+        "Resolution": "1080x2160 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2000",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.8GHz octa-core",
+        "Processor make": "Snapdragon 636",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "Wi-Fi": "Yes",
+        "Number of SIMs": "2",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel (f/2.2, 1.12-micron) + 5-megapixel (f/2.4, 1.12-micron)",
+        "Front flash": "LED",
+        "Front camera": "8-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "April 2018",
+        "Battery capacity (mAh)": "5000",
+        "Colours": "Midnight Black, Grey",
+        "Launched in India": "Yes",
+        "Dimensions (mm)": "159.00 x 76.00 x 8.64",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "180.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Face unlock": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "Android 8.1 Oreo"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Max (M1) (ZB555KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "720x1440 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.4GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 425",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes, v 4.00",
+        "Wi-Fi": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "NFC": "Yes",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "Dual LED",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2018",
+        "Battery capacity (mAh)": "4000",
+        "Colours": "Deepsea Black, Ruby Red, Sunlight Gold",
+        "Dimensions (mm)": "147.30 x 70.90 x 8.70",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "150.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 8.0",
+        "Skin": "ZenUI 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 5 Lite",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "6.00",
+        "Resolution": "1080x2160 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2000",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "octa-core",
+        "Processor make": "Qualcomm Snapdragon 430",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "FM": "Yes",
+        "NFC": "Yes",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "16-megapixel",
+        "Rear Flash": "Dual LED",
+        "Front camera": "20-megapixel",
+        "Front Flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "February 2018",
+        "Battery capacity (mAh)": "3300",
+        "Colours": "Midnight Black, Moonlight White, Rouge Red",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "168.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 8.0",
+        "Skin": "ZenUI 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 5 (ZE620KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "6.20",
+        "Resolution": "1080x2246 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2000",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "octa-core",
+        "Processor make": "Qualcomm Snapdragon 636",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 5.00",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Rear Flash": "Dual LED",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2018",
+        "Battery capacity (mAh)": "3300",
+        "Colours": "Midnight Blue, Meteor Silver",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "155.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 8.0",
+        "Skin": "ZenUI 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 5Z (ZS620KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "6.20",
+        "Resolution": "1080x2246 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2000",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "octa-core",
+        "Processor make": "Qualcomm Snapdragon 845",
+        "RAM": "6GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 5.00",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Front camera": "8-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "February 2018",
+        "Battery capacity (mAh)": "3300",
+        "Colours": "Midnight Blue, Meteor Silver",
+        "Dimensions (mm)": "153.00 x 75.65 x 7.70",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "165.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 5.0",
+        "Operating system": "Android 8.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Max Plus (M1)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.70",
+        "Resolution": "1080x2160 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "octa-core",
+        "Processor make": "MediaTek MT6750",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "Bluetooth": "Yes, v 4.00",
+        "Wi-Fi": "Yes",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "4G/ LTE": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "16-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "November 2017",
+        "Battery capacity (mAh)": "4130",
+        "Colours": "Black Wave, Azure Silvery, and Sunny Golden",
+        "Removable battery": "No",
+        "Dimensions (mm)": "152.60 x 73.00 x 8.80",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "160.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 7.0",
+        "Skin": "ZenUI"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 4 Selfie Lite",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "200",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "quad-core",
+        "Processor make": "Qualcomm Snapdragon 425",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "Yes",
+        "Front camera": "13-megapixel",
+        "Front Flash": "Yes"
+      },
+      "GENERAL": {
+        "Release date": "October 2017",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Deepsea Black, Mint Green, Rose Pink, Sunlight Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "155.66 x 75.90 x 7.85",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "144.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 7.0",
+        "Skin": "ZenUI 4.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone V",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.20",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2.2GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 820",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "23-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "September 2017",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Sapphire Black",
+        "Alternate names": "(V520KL)",
+        "Removable battery": "No",
+        "Dimensions (mm)": "146.50 x 72.60 x 7.60",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "147.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 7.0",
+        "Skin": "ZenUI 3.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 4 Selfie Pro",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2GHz octa-core",
+        "Processor make": "Snapdragon 625",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "16-megapixel",
+        "Rear Flash": "Dual LED",
+        "Front camera": "12-megapixel",
+        "Front Flash": "Yes"
+      },
+      "GENERAL": {
+        "Release date": "September 2017",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Sunlight Gold, Deepsea Black",
+        "SAR value": "1.39",
+        "Removable battery": "No",
+        "Dimensions (mm)": "154.02 x 74.83 x 7.00",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "145.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 7.1.1",
+        "Skin": "ZenUI 4.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 4 Selfie (ZB553KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.4GHz octa-core",
+        "Processor make": "Snapdragon 430",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front flash": "Yes",
+        "Front camera": "13-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "August 2017",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Sunlight Gold, Rose Pink, Deepsea Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "155.66 x 75.90 x 7.85",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "144.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 4.0",
+        "Operating system": "Android 7.1.1"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 4 Pro",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "200",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor make": "Qualcomm Snapdragon 835",
+        "RAM": "6GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 5.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "Yes",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "August 2017",
+        "Battery capacity (mAh)": "3600",
+        "Colours": "Moonlight White, Pure Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "156.90 x 75.60 x 7.60",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "175.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 7.1.1",
+        "Skin": "ZenUI 4.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 4",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "200",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor make": "Qualcomm Snapdragon 630",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 5.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "Yes",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "August 2017",
+        "Battery capacity (mAh)": "3300",
+        "Colours": "Moonlight White, Mint Green, Midnight Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "155.40 x 75.20 x 7.50",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "165.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 7.0",
+        "Skin": "ZenUI 4.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 4 Selfie DC (ZD553KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.4GHz octa-core",
+        "Processor make": "Snapdragon 430",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "16-megapixel",
+        "Front flash": "Yes",
+        "Front camera": "20-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "August 2017",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Sunlight Gold, Rouge Red, Deepsea Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "155.66 x 75.90 x 7.85",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "144.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 4.0",
+        "Operating system": "Android 7.1.1"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Zoom S",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2000",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 625",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Rear Flash": "Dual LED",
+        "Front camera": "13-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "August 2017",
+        "Battery capacity (mAh)": "5000",
+        "Colours": "Navy Black, Glacier Silver",
+        "SAR value": "1.16",
+        "Alternate names": "ZE553KL",
+        "Removable battery": "No",
+        "Dimensions (mm)": "154.30 x 77.00 x 7.99",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "170.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 7.1.1",
+        "Skin": "ZenUI 3.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 4 Max",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "quad-core",
+        "Processor make": "Qualcomm Snapdragon 425",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2017",
+        "Battery capacity (mAh)": "5000",
+        "Colours": "Black, Gold, Pink",
+        "Alternate names": "ZC554KL",
+        "Removable battery": "No",
+        "Dimensions (mm)": "154.00 x 76.90 x 8.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "181.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 7.0",
+        "Skin": "ZenUI"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Go 5.5 (ZB552KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Processor": "quad-core",
+        "Processor make": "Qualcomm Snapdragon 410",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "Dual LED",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "May 2017",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Charcoal Black, Sheer Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "153.40 x 76.44 x 10.95",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "168.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 6.0",
+        "Skin": "ZenUI 3.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Live",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "quad-core",
+        "Processor make": "Qualcomm Snapdragon 400",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front flash": "LED",
+        "Front camera": "5-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "February 2017",
+        "Battery capacity (mAh)": "2650",
+        "Colours": "Shimmer Gold, Rose Pink, Navy Black",
+        "SAR value": "0.51",
+        "Alternate names": "(ZB501KL)",
+        "Removable battery": "No",
+        "Dimensions (mm)": "141.10 x 71.70 x 7.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "120.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 3.5",
+        "Operating system": "Android 6.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Go 5.0 LTE (ZB500KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 410 MSM8916",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front camera": "5-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "February 2017",
+        "Battery capacity (mAh)": "2600",
+        "Colours": "Black, Red, Gold, Silver, Blue",
+        "Removable battery": "No",
+        "Dimensions (mm)": "143.70 x 70.80 x 11.20",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "150.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 6.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 3 Zoom",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2000",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 625",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Rear Flash": "Dual LED",
+        "Front camera": "13-megapixel"
+      },
+      "GENERAL": {
+        "Thickness": "7.99",
+        "Release date": "February 2017",
+        "Battery capacity (mAh)": "5000",
+        "Colours": "Navy Black, Glacier Silver",
+        "Alternate names": "ZE553KL",
+        "Removable battery": "No",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "170.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 6.0",
+        "Skin": "ZenUI 3.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 4 Selfie",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Processor": "quad-core",
+        "Processor make": "Qualcomm Snapdragon 625",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "Yes",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 1": "",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "16-megapixel",
+        "Front camera": "12-megapixel"
+      },
+      "GENERAL": {
+        "Removable battery": "No",
+        "Form factor": "Touchscreen"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 7.1.1"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 3S Max",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.20",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2000",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1GHz octa-core",
+        "Processor make": "MediaTek MT6750",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "No",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front camera": "8-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "January 2017",
+        "Battery capacity (mAh)": "5000",
+        "Colours": "Black, Sand Gold",
+        "Alternate names": "ZC521TL",
+        "Removable battery": "No",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "175.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 3.0",
+        "Operating system": "Android 7.0"
+      }
+    }
+  },
+  {
+    "itemName": "Zenfone Peg3S ",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.20"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "octa-core",
+        "Processor make": "MediaTek MT6750",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "Yes",
+        "Wi-Fi": "No",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "No",
+        "4G/ LTE": "Yes",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "January 2017",
+        "Battery capacity (mAh)": "5000",
+        "Removable battery": "No",
+        "Form factor": "Touchscreen"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 7.0",
+        "Skin": "Zen UI 3.1"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 3 Max (ZC553KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "SD card",
+        "Processor": "1.4GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 430",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "16-megapixel",
+        "Front camera": "8-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "November 2016",
+        "Battery capacity (mAh)": "4100",
+        "Colours": "Titanium Gray, Glacier Silver, Sand Gold",
+        "SAR value": "0.42",
+        "Removable battery": "No",
+        "Dimensions (mm)": "151.40 x 76.24 x 8.30",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "175.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 3.0",
+        "Operating system": "Android 6.0.1"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Go (ZB450KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "4.50",
+        "Resolution": "480x854 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 410",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "August 2016",
+        "Battery capacity (mAh)": "2070",
+        "Colours": "Glamour Red, Silver Blue, Gold, Silver",
+        "Alternate names": "ZenFone Go 4.5 LTE",
+        "Removable battery": "Yes",
+        "Dimensions (mm)": "136.50 x 66.70 x 11.20",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "135.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 2.0",
+        "Operating system": "Android 6.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 3 (ZE520KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.20",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 625",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "Yes",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "16-megapixel",
+        "Front camera": "8-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "August 2016",
+        "Battery capacity (mAh)": "2650",
+        "Colours": "Sapphire Black, Moonlight White, Shimmer Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "146.87 x 73.98 x 7.69",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "144.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 3",
+        "Operating system": "Android 6.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 3 Max (ZC520TL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.20",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "32",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.25GHz quad-core",
+        "Processor make": "MediaTek MT6737T",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front camera": "5-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "July 2016",
+        "Battery capacity (mAh)": "4100",
+        "Colours": "Titanium Grey, Glacier Silver, Sand Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "149.50 x 73.70 x 8.55",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "148.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 3.0",
+        "Operating system": "Android 6.0.1"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 3 Laser",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.4GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 430",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "Dual LED",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2016",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Glacier Silver, Sand Gold",
+        "Alternate names": "(ZC551KL)",
+        "Removable battery": "No",
+        "Dimensions (mm)": "149.00 x 76.00 x 7.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "150.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 6.0",
+        "Skin": "ZenUI 3"
+      }
+    }
+  },
+  {
+    "itemName": "Zenfone Peg3",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "282",
+        "Screen size (inches)": "5.20",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz quad-core",
+        "Processor make": "MediaTek MT6737",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "June 2016",
+        "Battery capacity (mAh)": "4100",
+        "Colours": "Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "149.50 x 73.70 x 8.50",
+        "Form factor": "Touchscreen"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 6.0",
+        "Skin": "ZenUI 3.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 3 Ultra (ZU680KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "6.80",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "octa-core",
+        "Processor make": "Qualcomm Snapdragon 652",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "23-megapixel",
+        "Rear Flash": "Dual LED",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "May 2016",
+        "Battery capacity (mAh)": "4600",
+        "Colours": "Grey, Silver, Pink",
+        "Removable battery": "No",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "233.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android",
+        "Skin": "ZenUI"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 3 Deluxe (ZS570KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.70",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "246",
+        "Internal storage": "256GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.6GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 821",
+        "RAM": "6GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "23-megapixel",
+        "Front flash": "No",
+        "Front camera": "8-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "May 2016",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Gold, Silver, Grey",
+        "SAR value": "1.35",
+        "Removable battery": "No",
+        "Dimensions (mm)": "156.00 x 77.00 x 7.50",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "172.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 3.0",
+        "Operating system": "Android 6.0.1"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 3 (ZE552KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "480",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 625",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "16-megapixel",
+        "Front camera": "8-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "May 2016",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Gold, Blue, Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "152.50 x 77.30 x 7.60",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "155.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 3.0",
+        "Operating system": "Android 6.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Max (2016)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "267",
+        "Screen size (inches)": "5.50",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.5GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 615",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front camera": "5-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "May 2016",
+        "Battery capacity (mAh)": "5000",
+        "Colours": "Black, White, Blue, Orange",
+        "Alternate names": "ZC550KL",
+        "Removable battery": "No",
+        "Dimensions (mm)": "156.00 x 77.50 x 10.55",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "202.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 6.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Go 4.5 (ZB452KG)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "4.50",
+        "Resolution": "480x854 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "0.3-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "April 2016",
+        "Battery capacity (mAh)": "2070",
+        "Colours": "Glamour Red, Ceramic White, Yellow, Silver Blue, Gold, Silver",
+        "Removable battery": "Yes",
+        "Dimensions (mm)": "136.50 x 67.00 x 11.00",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "125.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 5.1"
+      }
+    }
+  },
+  {
+    "itemName": "Zenfone Go 5.0 LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "32",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "Processor make": "Qualcomm MSM8916",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "5-megapixel",
+        "Rear flash": "Yes"
+      },
+      "GENERAL": {
+        "Release date": "March 2016",
+        "Battery capacity (mAh)": "2500",
+        "Colours": "Charcoal Black, Pearl White",
+        "Alternate names": "T500",
+        "Removable battery": "Yes",
+        "Dimensions (mm)": "146.00 x 73.00 x 5.40",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "153.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "Asus ZenUI",
+        "Operating system": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Peg5000",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "32",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz octa-core",
+        "Processor make": "MediaTek MT6753",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "January 2016",
+        "Battery capacity (mAh)": "4850",
+        "Colours": "White, Gold",
+        "Removable battery": "Yes",
+        "Form factor": "Touchscreen"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.1",
+        "Skin": "ZenUI"
+      }
+    }
+  },
+  {
+    "itemName": "Live",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz quad-core",
+        "Processor make": "MediaTek MT6580",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Regular",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "January 2016",
+        "Battery capacity (mAh)": "2070",
+        "Colours": "Blue, Yellow, Red",
+        "Alternate names": "G500TG",
+        "Removable battery": "No",
+        "Dimensions (mm)": "144.50 x 71.00 x 9.98",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "140.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.1",
+        "Skin": "ZenUI"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Zoom",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "403",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "128GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2.5GHz quad-core",
+        "Processor make": "Intel Atom Z3580",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front flash": "No",
+        "Front camera": "5-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "January 2016",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Meteorite black, Glacier white",
+        "SAR value": "0.38",
+        "Alternate names": "ZX550",
+        "Removable battery": "No",
+        "Dimensions (mm)": "158.90 x 78.84 x 11.95",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "185.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 2.0",
+        "Operating system": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Go 4.5",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "4.50",
+        "Resolution": "480x854 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz quad-core",
+        "Processor make": "MediaTek MT6580M",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Regular",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "0.3-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "December 2015",
+        "Battery capacity (mAh)": "1600",
+        "Colours": "Black",
+        "Alternate names": "ZC451TG",
+        "Removable battery": "Yes",
+        "Dimensions (mm)": "135.00 x 67.00 x 10.70",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "133.50"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 2.0",
+        "Operating system": "Android 5.1"
+      }
+    }
+  },
+  {
+    "itemName": "ZenPad C 7.0 (Z170MG)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "7.00",
+        "Resolution": "1024x600 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz quad-core",
+        "Processor make": "MediaTek (MT8382V/W)",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "0.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "December 2015",
+        "Battery capacity (mAh)": "3450",
+        "Colours": "Black, White, Red, Aurora Metallic",
+        "Removable battery": "No",
+        "Dimensions (mm)": "189.00 x 108.00 x 8.40",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "265.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.0",
+        "Skin": "Zen UI"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Go",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz quad-core",
+        "Processor make": "MediaTek MT6580",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "August 2015",
+        "Battery capacity (mAh)": "2070",
+        "Colours": "Black, White, Red",
+        "Alternate names": "ZC500TG",
+        "Removable battery": "Yes",
+        "Dimensions (mm)": "144.50 x 71.00 x 9.98",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "135.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 5.1"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 2 Laser (ZE601KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "6.00",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 616",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front camera": "5-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "August 2015",
+        "Battery capacity (mAh)": "3000",
+        "Removable battery": "Yes",
+        "Dimensions (mm)": "164.50 x 84.00 x 10.50",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "190.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Max",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "267",
+        "Screen size (inches)": "5.50",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 410",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "Dual LED",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "August 2015",
+        "Battery capacity (mAh)": "5000",
+        "Colours": "Black, White",
+        "SAR value": "0.45",
+        "Removable battery": "No",
+        "Dimensions (mm)": "156.00 x 77.50 x 10.55",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "202.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.0",
+        "Skin": "ZenUI"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 2 Deluxe",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "401",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2.3GHz quad-core",
+        "Processor make": "Intel Atom Z3580",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front camera": "5-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "August 2015",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "White, Purple",
+        "SAR value": "0.35",
+        "Alternate names": "ZE551ML",
+        "Removable battery": "No",
+        "Dimensions (mm)": "152.50 x 77.20 x 10.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "170.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 2 Laser (ZE550KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "267",
+        "Screen size (inches)": "5.50",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 410",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front camera": "5-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "August 2015",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Charcoal Black, Ceramic White and Glamour Red",
+        "SAR value": "0.36",
+        "Removable battery": "Yes",
+        "Dimensions (mm)": "152.50 x 77.20 x 10.80",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "170.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 2 Laser (ZE500KL)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.4GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 410",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front camera": "5-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "August 2015",
+        "Battery capacity (mAh)": "2070",
+        "Colours": "Charcoal Black, Ceramic White and Glamour Red",
+        "Removable battery": "No",
+        "Dimensions (mm)": "143.70 x 71.50 x 10.50",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "140.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "Peg2 Plus",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage": "No",
+        "Processor": "octa-core",
+        "Processor make": "Qualcomm Snapdragon 615",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2015",
+        "Battery capacity (mAh)": "3030",
+        "Removable battery": "No",
+        "Form factor": "Touchscreen"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.1.1",
+        "Skin": "ZenUI"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 2 ZE600KL",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "6.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "octa-core",
+        "Processor make": "Qualcomm Snapdragon 615",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "Dual LED",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "June 2015",
+        "Battery capacity (mAh)": "3000",
+        "Removable battery": "No",
+        "Form factor": "Bar"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone Selfie",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "403",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.7GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 615",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front flash": "Yes",
+        "Front camera": "13-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "June 2015",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "White, Pink, Aqua Blue",
+        "SAR value": "0.65",
+        "Alternate names": "ZD551KL",
+        "Removable battery": "Yes",
+        "Dimensions (mm)": "156.50 x 77.20 x 10.80",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "170.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 2 ZE500CL",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "294",
+        "Screen size (inches)": "5.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.6GHz dual-core",
+        "Processor make": "Intel Atom Z2560",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "March 2015",
+        "Battery capacity (mAh)": "2500",
+        "Colours": "Red, Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "148.10 x 71.50 x 10.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "155.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.0",
+        "Skin": "ZenUI"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 2 ZE550ML",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "267",
+        "Screen size (inches)": "5.50",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.8GHz quad-core",
+        "Processor make": "Intel Atom Z3560",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front camera": "5-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "March 2015",
+        "Battery capacity (mAh)": "3000",
+        "Removable battery": "No",
+        "Dimensions (mm)": "152.50 x 77.20 x 10.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "170.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone C (ZC451CG)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "4.50",
+        "Resolution": "480x854 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "32",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz dual-core",
+        "Processor make": "Intel Atom Z2520",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "No",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "0.3-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "February 2015",
+        "Battery capacity (mAh)": "2100",
+        "Colours": "Red, White, Black",
+        "Removable battery": "Yes",
+        "Dimensions (mm)": "136.50 x 67.00 x 10.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "149.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 5 (A501CG-2A508WWE)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz dual-core",
+        "Processor make": "Intel Atom Z2520",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "January 2015",
+        "Battery capacity (mAh)": "2110",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "148.20 x 72.80 x 10.34",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "145.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "Android 4.3"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 2",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "403",
+        "Screen size (inches)": "5.50",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2.3GHz quad-core",
+        "Processor make": "Intel Atom Z3580",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front camera": "5-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Release date": "January 2015",
+        "Battery capacity (mAh)": "3000",
+        "Colours": "Glacier Grey, Osmium Black, Glamour Red, Ceramic White, Sheer Gold",
+        "SAR value": "0.35",
+        "Alternate names": "ZE551ML",
+        "Removable battery": "No",
+        "Dimensions (mm)": "152.50 x 77.20 x 10.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "170.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "PegX002",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.5GHz quad-core",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "SIM 2": "",
+        "SIM 1": "",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "December 2014",
+        "Battery capacity (mAh)": "2500",
+        "Removable battery": "Yes",
+        "Form factor": "Touchscreen"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4",
+        "Skin": "Zen UI"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 5 (A502CG)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "540x960 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz dual-core",
+        "Processor make": "Intel Atom Z2520",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "0.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "November 2014",
+        "Battery capacity (mAh)": "2500",
+        "Colours": "Deep Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "148.20 x 72.80 x 10.80",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "160.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4",
+        "Skin": "ZenUI"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 5 LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 400",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2014",
+        "Battery capacity (mAh)": "2110",
+        "Colours": "Black, White",
+        "Alternate names": "A500KL",
+        "Removable battery": "No",
+        "Dimensions (mm)": "148.20 x 72.80 x 10.34",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "145.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4",
+        "Skin": "ZenUI"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 4 A450CG",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "4.50",
+        "Resolution": "480x854 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz dual-core",
+        "Processor make": "Intel Atom Z2520",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "0.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2014",
+        "Battery capacity (mAh)": "1750",
+        "Removable battery": "No",
+        "Dimensions (mm)": "136.80 x 67.90 x 11.30",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "133.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4",
+        "Skin": "ZenUI"
+      }
+    }
+  },
+  {
+    "itemName": "PadFone S",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "32",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2.3GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 801 MSM8974AB",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "June 2014",
+        "Battery capacity (mAh)": "2300",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "143.93 x 72.46 x 9.98",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "150.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4",
+        "Skin": "ZenUI"
+      }
+    }
+  },
+  {
+    "itemName": "PadFone Infinity Lite",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "441",
+        "Screen size (inches)": "5.00",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32MB",
+        "Expandable storage": "No",
+        "Processor": "1.7GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 600",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Regular",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2014",
+        "Battery capacity (mAh)": "2400",
+        "Colours": "Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "143.50 x 72.80 x 8.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "145.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.1"
+      }
+    }
+  },
+  {
+    "itemName": "PadFone X",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor": "quad-core",
+        "Processor make": "Qualcomm Snapdragon 800",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "No",
+        "USB OTG": "No",
+        "Wi-Fi": "No",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "No",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "No"
+      },
+      "GENERAL": {
+        "Release date": "January 2014",
+        "Removable battery": "No",
+        "Form factor": "Touchscreen"
+      },
+      "SENSORS": {
+        "Accelerometer": "No",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "PadFone mini",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "256",
+        "Screen size (inches)": "4.30",
+        "Resolution": "540x960 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.4GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "No",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "January 2014",
+        "Removable battery": "No",
+        "Dimensions (mm)": "129.30 x 65.60 x 8.70",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "105.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "Android 4.3"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 4 A400CG",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "4.00",
+        "Resolution": "480x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz dual-core",
+        "Processor make": "Intel Atom Z2520",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "0.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "January 2014",
+        "Battery capacity (mAh)": "1600",
+        "Colours": "Black, White, Red, Gold, Blue",
+        "Removable battery": "No",
+        "Dimensions (mm)": "124.42 x 61.44 x 11.15",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "115.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 4.3"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 6",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "245",
+        "Screen size (inches)": "6.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2GHz dual-core",
+        "Processor make": "Intel Atom Z2580",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front camera": "2-megapixel",
+        "Rear flash": "LED"
+      },
+      "GENERAL": {
+        "Release date": "January 2014",
+        "Battery capacity (mAh)": "3300",
+        "Colours": "Black, White, Red, Gold",
+        "SAR value": "0.53",
+        "Removable battery": "No",
+        "Dimensions (mm)": "166.90 x 72.80 x 9.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "196.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI",
+        "Operating system": "Android 4.3"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone 5",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.6GHz dual-core",
+        "Processor make": "Intel Atom Z2560",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "January 2014",
+        "Battery capacity (mAh)": "2110",
+        "Colours": "Black, White, Red, Purple, Gold",
+        "Alternate names": "A501CG",
+        "Removable battery": "No",
+        "Dimensions (mm)": "148.20 x 72.80 x 10.34",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "145.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.3",
+        "Skin": "ZenUI"
+      }
+    }
+  },
+  {
+    "itemName": "Padfone mini 4.3",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "4.30",
+        "Resolution": "540x960 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.4GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 400",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "Yes",
+        "Front camera": "No"
+      },
+      "GENERAL": {
+        "Release date": "December 2013",
+        "Battery capacity (mAh)": "1500",
+        "Removable battery": "No",
+        "Dimensions (mm)": "129.27 x 65.59 x 8.68",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "105.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "No",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.3"
+      }
+    }
+  },
+  {
+    "itemName": "PadFone Infinity (second gen)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.00",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2.2GHz quad-core",
+        "Processor make": "Snapdragon 800",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Regular",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "September 2013",
+        "Battery capacity (mAh)": "2400",
+        "Colours": "Titanium Black, Platinum White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "143.50 x 72.80 x 8.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "145.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "No",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.2"
+      }
+    }
+  },
+  {
+    "itemName": "FonePad Note FHD6",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "6.00"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1.6GHz dual-core",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "No",
+        "USB OTG": "No",
+        "Wi-Fi": "No",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "No",
+        "4G/ LTE": "No",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "SIM 1": "",
+        "SIM Type": "Regular",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Thickness": "9.4",
+        "Release date": "June 2013",
+        "Removable battery": "Yes",
+        "Form factor": "Bar"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.2"
+      }
+    }
+  },
+  {
+    "itemName": "PadFone Infinity",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "441",
+        "Screen size (inches)": "5.00",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Processor": "1.7GHz quad-core",
+        "Processor make": "Qualcomm APQ8064T Snapdragon 600",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2013",
+        "Battery capacity (mAh)": "2400",
+        "Removable battery": "No",
+        "Dimensions (mm)": "143.50 x 72.80 x 8.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "141.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.1"
+      }
+    }
+  },
+  {
+    "itemName": "Peg4S",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.70",
+        "Resolution": "720x1440 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.5GHz octa-core",
+        "Processor make": "MediaTek MT6750T",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "16-megapixel",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Battery capacity (mAh)": "4030",
+        "Colours": "Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "152.60 x 72.70 x 8.80",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "160.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 7.0"
+      }
+    }
+  },
+  {
+    "itemName": "ZenFone AR",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "5.70",
+        "Resolution": "1440x2560 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2000",
+        "Internal storage": "128GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "quad-core",
+        "Processor make": "Qualcomm Snapdragon 821",
+        "RAM": "8GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "2",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "23-megapixel",
+        "Front camera": "8-megapixel",
+        "Rear flash": "Dual LED"
+      },
+      "GENERAL": {
+        "Battery capacity (mAh)": "3300",
+        "Colours": "Black",
+        "Alternate names": "ZS571",
+        "Removable battery": "No",
+        "Dimensions (mm)": "158.70 x 77.40 x 8.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "170.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "ZenUI 3.0",
+        "Operating system": "Android 7.0"
+      }
+    }
+  }
+]

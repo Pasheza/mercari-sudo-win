@@ -1,0 +1,3936 @@
+[
+  {
+    "itemName": "Galaxy Tab A 10.5 (LTE)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "10.50",
+        "Resolution": "1920x1200 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "400",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.8GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 450",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "Wi-Fi": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "GPS": "Yes",
+        "Bluetooth version": "4.20"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "August 2018",
+        "Battery capacity (mAh)": "7300",
+        "Colours": "Black, Blue, Grey",
+        "Dimensions (mm)": "260.00 x 161.10 x 8.00",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "534.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 8.1",
+        "Skin": "Samsung Experience UX"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab A 10.5 (Wi-Fi)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "10.50",
+        "Resolution": "1920x1200 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "400",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.8GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 450",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "Wi-Fi": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "GPS": "Yes",
+        "Bluetooth version": "4.20"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "August 2018",
+        "Battery capacity (mAh)": "7300",
+        "Colours": "Black, Blue, Grey",
+        "Dimensions (mm)": "260.00 x 161.10 x 8.00",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "529.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 8.1",
+        "Skin": "Samsung Experience UX"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab S4 (LTE)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "287",
+        "Screen size (inches)": "10.50",
+        "Resolution": "2560x1600 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2000",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2.35GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 835",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "GSM/CDMA": "GSM",
+        "Bluetooth": "Yes",
+        "Wi-Fi": "Yes",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "Number of SIMs": "1",
+        "GPS": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "4G/ LTE": "Yes",
+        "Bluetooth version": "5.00",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "August 2018",
+        "Battery capacity (mAh)": "7300",
+        "Dimensions (mm)": "249.30 x 164.30 x 7.10",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "483.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 8.1",
+        "Skin": "Samsung Experience UX"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab S4 (Wi-Fi)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Pixels per inch (PPI)": "287",
+        "Screen size (inches)": "10.50",
+        "Resolution": "2560x1600 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "2000",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2.35GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 835",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "Wi-Fi": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "GPS": "Yes",
+        "Bluetooth version": "5.00"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "8-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "August 2018",
+        "Battery capacity (mAh)": "7300",
+        "Dimensions (mm)": "249.30 x 164.30 x 7.10",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "482.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Compass/ Magnetometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 8.1",
+        "Skin": "Samsung Experience UX"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab A 7.0 (2018)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "7.00",
+        "Resolution": "800x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "200",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.5GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "Wi-Fi": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "FM": "Yes",
+        "GPS": "Yes",
+        "Bluetooth version": "4.00"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "2-megapixel",
+        "Front Flash": "No"
+      },
+      "GENERAL": {
+        "Release date": "January 2018",
+        "Battery capacity (mAh)": "4000",
+        "Colours": "White, Black",
+        "Dimensions (mm)": "186.90 x 108.80 x 8.70",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "289.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "Android"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab Active 2",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "800x1280 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "octa-core",
+        "Processor make": "Exynos 7880",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2017",
+        "Battery capacity (mAh)": "4450",
+        "Colours": "Black",
+        "Removable battery": "No"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 7.1",
+        "Skin": "Samsung UX"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab A 8.0 (2017)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "800x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.4GHz quad-core",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Bluetooth version": "4.20",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "Yes",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "September 2017",
+        "Battery capacity (mAh)": "5000",
+        "Colours": "Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "212.10 x 124.10 x 8.90",
+        "Weight (g)": "364.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "Android 7.1"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Book 12 (LTE)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "12.00",
+        "Resolution": "2160x1440 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "12.8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "3.1GHz dual-core",
+        "Processor make": "Intel Core i5",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2017",
+        "Removable battery": "No",
+        "Dimensions (mm)": "291.30 x 199.80 x 7.40",
+        "Weight (g)": "754.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Windows 10"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Book 12 (Wi-Fi)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "12.00",
+        "Resolution": "2160x1440 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "12.8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "3.1GHz dual-core",
+        "Processor make": "Intel Core i5",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes",
+        "Bluetooth version": "4.10"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2017",
+        "Removable battery": "No",
+        "Dimensions (mm)": "291.30 x 199.80 x 7.40",
+        "Weight (g)": "754.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Windows 10"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Book 10.6 (LTE)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "10.60",
+        "Resolution": "1920x1080 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2.6GHz dual-core",
+        "Processor make": "Intel Core m3",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "No",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2017",
+        "Removable battery": "No",
+        "Dimensions (mm)": "261.20 x 179.10 x 8.90",
+        "Weight (g)": "650.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Windows 10"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Book 10.6 (Wi-Fi)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "10.60",
+        "Resolution": "1920x1080 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "64GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2.6GHz dual-core",
+        "Processor make": "Intel Core m3",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "No",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2017",
+        "Removable battery": "No",
+        "Dimensions (mm)": "261.20 x 179.10 x 8.90",
+        "Weight (g)": "640.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Windows 10"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab S3 (LTE)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "9.70",
+        "Resolution": "2048x1536 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.6GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 820",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "Bluetooth version": "4.20",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "Yes",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2017",
+        "Battery capacity (mAh)": "6000",
+        "Removable battery": "No",
+        "Dimensions (mm)": "237.30 x 169.00 x 6.00",
+        "Weight (g)": "434.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "Android 7.0"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab S3 (Wi-Fi)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "9.70",
+        "Resolution": "2048x1536 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.6GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 820",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "13-megapixel",
+        "Rear Flash": "Yes",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2017",
+        "Battery capacity (mAh)": "6000",
+        "Removable battery": "No",
+        "Dimensions (mm)": "237.30 x 169.00 x 6.00",
+        "Weight (g)": "429.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 7.0"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy TabPro S Gold Edition",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "12.00",
+        "Resolution": "2160x1440 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "256GB",
+        "Expandable storage": "No",
+        "Processor": "2.2GHz",
+        "Processor make": "Intel Core m3",
+        "RAM": "8GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2016",
+        "Battery capacity (mAh)": "5200",
+        "Removable battery": "No",
+        "Dimensions (mm)": "198.80 x 290.30 x 6.35",
+        "Weight (g)": "694.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Windows 10"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab A 10.1 (2016) with S Pen",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "10.10",
+        "Resolution": "1920x1200 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "256",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.6GHz octa-core",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "September 2016",
+        "Battery capacity (mAh)": "7300",
+        "Colours": "Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "254.30 x 164.20 x 8.20",
+        "Weight (g)": "558.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 6.0"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab A Nook",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "216",
+        "Screen size (inches)": "7.00",
+        "Resolution": "800x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "200",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "quad-core",
+        "Processor make": "Qualcomm Snapdragon 410",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "No",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "August 2016",
+        "Battery capacity (mAh)": "4000",
+        "Colours": "Black",
+        "Removable battery": "No"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.1"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy J Max",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "7.00",
+        "Resolution": "800x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "200",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.5GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "2",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 2": "",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2016",
+        "Battery capacity (mAh)": "4000",
+        "Colours": "Black, Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "186.90 x 108.80 x 8.70"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "Android 5.1"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab Iris",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "7.00",
+        "Resolution": "1024x600 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "200",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "Yes",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "No"
+      },
+      "GENERAL": {
+        "Release date": "May 2016",
+        "Battery capacity (mAh)": "3600",
+        "Removable battery": "Yes",
+        "Dimensions (mm)": "193.40 x 116.40 x 9.70",
+        "Weight (g)": "327.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab A 10.1 (2016) LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "10.10",
+        "Resolution": "1920x1200 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "200",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.6GHz octa-core",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Bluetooth version": "4.20",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "Yes",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "May 2016",
+        "Battery capacity (mAh)": "7300",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "155.30 x 254.20 x 8.20",
+        "Weight (g)": "525.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 6.0"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab A 10.1 (2016)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "10.10",
+        "Resolution": "1920x1200 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "200",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.6GHz octa-core",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes, v 4.20",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "Yes",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "Yes",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "May 2016",
+        "Battery capacity (mAh)": "7300",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "155.30 x 254.20 x 8.20",
+        "Weight (g)": "525.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 6.0"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab A (2016)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "7.00",
+        "Resolution": "800x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "200",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes",
+        "Bluetooth version": "4.00"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "March 2016",
+        "Battery capacity (mAh)": "4000",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "186.90 x 108.80 x 8.70",
+        "Weight (g)": "283.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.1"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab E 8.0",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "Yes",
+        "Screen size (inches)": "8.00",
+        "Resolution": "800x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "400",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes, v 4.10",
+        "Wi-Fi": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "January 2016",
+        "Battery capacity (mAh)": "5000",
+        "Colours": "Black",
+        "Dimensions (mm)": "212.10 x 126.10 x 8.90",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "358.30"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.1.1"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy TabPro S",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "12.00",
+        "Resolution": "2160x1440 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "128GB",
+        "Expandable storage": "No",
+        "Processor make": "Intel Core m3",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "January 2016",
+        "Battery capacity (mAh)": "5200",
+        "Removable battery": "No",
+        "Dimensions (mm)": "198.80 x 290.30 x 6.30",
+        "Weight (g)": "693.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Windows 10"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy TabPro S LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "12.00",
+        "Resolution": "2160x1440 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "128GB",
+        "Expandable storage": "No",
+        "Processor make": "Intel Core m3",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "January 2016",
+        "Battery capacity (mAh)": "5200",
+        "Removable battery": "No",
+        "Dimensions (mm)": "198.80 x 290.30 x 6.30",
+        "Weight (g)": "693.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Windows 10"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy View",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "18.60",
+        "Resolution": "1080x1920 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.6GHz octa-core",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "No",
+        "Front camera": "2.1-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2015",
+        "Battery capacity (mAh)": "5700",
+        "Colours": "Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "451.80 x 275.80 x 11.90",
+        "Weight (g)": "2.65"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.1"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab E Nook 9.6",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "157",
+        "Screen size (inches)": "9.60",
+        "Resolution": "1280x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "Processor make": "Qualcomm APQ8016",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "FM": "Yes",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2015",
+        "Battery capacity (mAh)": "5000",
+        "Removable battery": "No",
+        "Dimensions (mm)": "241.80 x 150.00 x 9.70",
+        "Weight (g)": "547.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.1.1"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab S2 Nook",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz octa-core",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2.1-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "September 2015",
+        "Battery capacity (mAh)": "4000",
+        "Removable battery": "No",
+        "Dimensions (mm)": "198.60 x 134.80 x 5.60",
+        "Weight (g)": "265.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab A 9.7",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "9.70",
+        "Resolution": "768x1024 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "FM": "No",
+        "NFC": "Yes",
+        "GPS": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2015",
+        "Battery capacity (mAh)": "6000",
+        "Colours": "White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "242.50 x 166.80 x 7.50",
+        "Weight (g)": "487.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab S2 9.7 LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz octa-core",
+        "Processor make": "Samsung Exynos 5433",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Bluetooth version": "4.10",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2.1-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2015",
+        "Battery capacity (mAh)": "5870",
+        "Colours": "Black, White, Gold",
+        "SAR value": "0.47",
+        "Removable battery": "No",
+        "Dimensions (mm)": "237.30 x 169.00 x 5.60",
+        "Weight (g)": "392.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.0",
+        "Skin": "TouchWiz"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab S2 9.7",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "9.70",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz octa-core",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/ac",
+        "SIM 1": "",
+        "Bluetooth version": "4.10",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2.1-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2015",
+        "Battery capacity (mAh)": "5870",
+        "Removable battery": "No",
+        "Dimensions (mm)": "237.30 x 169.00 x 5.60",
+        "Weight (g)": "389.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab S2 8 LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz octa-core",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/ac",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2.1-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2015",
+        "Battery capacity (mAh)": "4000",
+        "Removable battery": "No",
+        "Dimensions (mm)": "198.60 x 134.80 x 5.60",
+        "Weight (g)": "272.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab S2 8",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz octa-core",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes, v 4.10",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2.1-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2015",
+        "Battery capacity (mAh)": "4000",
+        "Removable battery": "No",
+        "Dimensions (mm)": "198.60 x 134.80 x 5.60",
+        "Weight (g)": "265.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab 3 V",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "7.00",
+        "Resolution": "1024x600 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "32",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz quad-core",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "No"
+      },
+      "GENERAL": {
+        "Release date": "July 2015",
+        "Battery capacity (mAh)": "3600",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "193.40 x 116.40 x 9.70",
+        "Weight (g)": "322.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab A",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "1024x768 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "June 2015",
+        "Battery capacity (mAh)": "4200",
+        "Colours": "Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "208.40 x 137.90 x 7.50",
+        "Weight (g)": "320.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "No",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "TouchWiz UI",
+        "Operating system": "Android 5.0"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab E 3G",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "9.60",
+        "Resolution": "800x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Bluetooth version": "4.00",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "June 2015",
+        "Battery capacity (mAh)": "5000",
+        "Removable battery": "No",
+        "Dimensions (mm)": "241.90 x 149.50 x 8.50",
+        "Weight (g)": "495.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab E",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "9.60",
+        "Resolution": "800x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "8GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No",
+        "Bluetooth version": "4.00"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "June 2015",
+        "Battery capacity (mAh)": "5000",
+        "Removable battery": "No",
+        "Dimensions (mm)": "241.90 x 149.50 x 8.50",
+        "Weight (g)": "490.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "Android"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab A 8 LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "1024x768 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Regular",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Thickness": "7.5",
+        "Battery capacity (mAh)": "4200",
+        "Colours": "Gold",
+        "Removable battery": "No"
+      },
+      "SENSORS": {
+        "Accelerometer": "No",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android",
+        "Skin": "TouchWiz UI"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab A 8",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "1024x768 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 1": "",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Thickness": "7.5",
+        "Battery capacity (mAh)": "4200",
+        "Colours": "Gold",
+        "Removable battery": "No"
+      },
+      "SENSORS": {
+        "Accelerometer": "No",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Skin": "TouchWiz UI",
+        "Operating system": "Android"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab 4 Nook 10.1",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "149",
+        "Screen size (inches)": "10.10",
+        "Resolution": "800x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2014",
+        "Removable battery": "No"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab Active",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "1280x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "Yes",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "3.1-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "September 2014",
+        "Battery capacity (mAh)": "4450",
+        "Removable battery": "Yes"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab 4 Nook",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "216",
+        "Screen size (inches)": "7.00",
+        "Resolution": "800x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "FM": "Yes",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "August 2014",
+        "Colours": "White, Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "187.00 x 108.00 x 8.90",
+        "Weight (g)": "276.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "No",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy TabQ",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "7.00",
+        "Resolution": "720x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2014",
+        "Battery capacity (mAh)": "3200",
+        "Alternate names": "SM-T2558",
+        "Removable battery": "No",
+        "Dimensions (mm)": "191.80 x 99.70 x 8.90",
+        "Weight (g)": "250.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.3"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab S 8.4 LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.40",
+        "Resolution": "2560x1600 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2.3GHz octa-core",
+        "Processor make": "Qualcomm Snapdragon 800",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "Yes",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2.1-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2014",
+        "Battery capacity (mAh)": "4900",
+        "Removable battery": "No",
+        "Dimensions (mm)": "125.60 x 212.80 x 6.60",
+        "Weight (g)": "298.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab S 10.5 LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "10.50",
+        "Resolution": "2560x1600 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "2.3GHz quad-core",
+        "Processor make": "Qualcomm Snapdragon 800",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "Yes",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2.1-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "July 2014",
+        "Battery capacity (mAh)": "7900",
+        "Removable battery": "No",
+        "Dimensions (mm)": "177.30 x 247.30 x 6.60",
+        "Weight (g)": "467.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab S 10.5",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "288",
+        "Screen size (inches)": "10.50",
+        "Resolution": "2560x1600 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz octa-core",
+        "Processor make": "Exynos 5 Octa",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2.1-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "June 2014",
+        "Battery capacity (mAh)": "7900",
+        "Removable battery": "No",
+        "Dimensions (mm)": "177.30 x 247.30 x 6.60",
+        "Weight (g)": "465.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab S 8.4",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.40",
+        "Resolution": "2560x1600 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "128",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz octa-core",
+        "Processor make": "Exynos 5 Octa",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2.1-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "June 2014",
+        "Battery capacity (mAh)": "4900",
+        "Colours": "White, Titanium Bronze",
+        "Alternate names": "ST-705",
+        "Removable battery": "No",
+        "Dimensions (mm)": "125.60 x 212.80 x 6.60",
+        "Weight (g)": "294.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy W",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "7.00",
+        "Resolution": "1280x720 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "June 2014",
+        "Removable battery": "No"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.3"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab4 10.1",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "10.10",
+        "Resolution": "800x1280 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "No",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2014",
+        "Battery capacity (mAh)": "6800",
+        "Alternate names": "SM-T530",
+        "Removable battery": "No"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab4 8.0",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "1280x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "No",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2014",
+        "Battery capacity (mAh)": "4450",
+        "Colours": "Black, White",
+        "Alternate names": "SM-T330",
+        "Removable battery": "No",
+        "Dimensions (mm)": "124.00 x 210.00 x 7.95",
+        "Weight (g)": "320.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab4 7.0",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "7.00",
+        "Resolution": "1280x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2014",
+        "Colours": "Black, White",
+        "Alternate names": "SM-T230",
+        "Removable battery": "No",
+        "Dimensions (mm)": "107.00 x 186.00 x 9.00",
+        "Weight (g)": "276.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating system": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab 3 10.1 LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "10.10",
+        "Resolution": "1280x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.6GHz dual-core",
+        "Processor make": "Intel Atom Clover Trail+",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2014",
+        "Battery capacity (mAh)": "6800",
+        "Removable battery": "No",
+        "Dimensions (mm)": "176.10 x 243.10 x 7.95",
+        "Weight (g)": "512.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.2"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab 3 10.1",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "10.10",
+        "Resolution": "1280x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.6GHz dual-core",
+        "Processor make": "Intel Atom Clover Trail+ (Z2560)",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "No",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2014",
+        "Battery capacity (mAh)": "6800",
+        "Colours": "White",
+        "Removable battery": "No"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.2"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab4 7.0 LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "7.00",
+        "Resolution": "1280x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "No",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2014",
+        "Removable battery": "No",
+        "Dimensions (mm)": "186.90 x 107.90 x 9.00",
+        "Weight (g)": "276.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab4 8.0 LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "1280x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "Yes",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2014",
+        "Battery capacity (mAh)": "4450",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "210.00 x 124.00 x 7.95",
+        "Weight (g)": "320.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab4 10.1 LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "10.10",
+        "Resolution": "1280x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2014",
+        "Battery capacity (mAh)": "6800",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "243.40 x 176.40 x 7.95",
+        "Weight (g)": "487.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab4 7.0 3G",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "7.00",
+        "Resolution": "1280x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2014",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "186.90 x 107.90 x 9.00",
+        "Weight (g)": "276.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab4 8.0 3G",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "1280x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "No",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2014",
+        "Battery capacity (mAh)": "4450",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "210.00 x 124.00 x 7.95",
+        "Weight (g)": "320.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab4 10.1 3G",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "10.10",
+        "Resolution": "1280x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "16GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz quad-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2014",
+        "Battery capacity (mAh)": "6800",
+        "Colours": "Black, White",
+        "Removable battery": "No",
+        "Dimensions (mm)": "176.00 x 243.00 x 7.95",
+        "Weight (g)": "487.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab3 Neo 3G",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "169",
+        "Screen size (inches)": "7.00",
+        "Resolution": "1024x600 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "32",
+        "Internal storage": "8GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "2-megapixel",
+        "Front camera": "No"
+      },
+      "GENERAL": {
+        "Release date": "February 2014",
+        "Battery capacity (mAh)": "3600",
+        "Removable battery": "No",
+        "Dimensions (mm)": "116.40 x 193.00 x 9.70",
+        "Weight (g)": "322.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.2"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab3 Neo",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "169",
+        "Screen size (inches)": "7.00",
+        "Resolution": "1024x600 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "32",
+        "Internal storage": "8GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "2-megapixel",
+        "Front camera": "0.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2014",
+        "Battery capacity (mAh)": "3600",
+        "Removable battery": "No",
+        "Dimensions (mm)": "116.00 x 193.00 x 9.70",
+        "Weight (g)": "322.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.2"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab Pro 12.2 LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "247",
+        "Screen size (inches)": "12.20",
+        "Resolution": "2560x1600 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "SD card",
+        "Processor": "1.9GHz",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2014",
+        "Battery capacity (mAh)": "9500",
+        "Removable battery": "No",
+        "Dimensions (mm)": "204.00 x 295.00 x 7.95",
+        "Weight (g)": "737.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Note Pro 12.2 3G/ LTE",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "247",
+        "Screen size (inches)": "12.20",
+        "Resolution": "2560x1600 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "SD card",
+        "Processor": "1.9GHz",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2014",
+        "Battery capacity (mAh)": "9500",
+        "Removable battery": "No",
+        "Dimensions (mm)": "204.00 x 295.00 x 7.95",
+        "Weight (g)": "734.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab Pro 12.2",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "247",
+        "Screen size (inches)": "12.20",
+        "Resolution": "2560x1600 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "SD card",
+        "Processor": "1.9GHz",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2014",
+        "Battery capacity (mAh)": "9500",
+        "Removable battery": "No",
+        "Dimensions (mm)": "203.00 x 295.00 x 7.95",
+        "Weight (g)": "753.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Note Pro 12.2",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "247",
+        "Screen size (inches)": "12.20",
+        "Resolution": "2560x1600 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.9GHz octa-core",
+        "Processor make": "Exynos 5420",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2014",
+        "Battery capacity (mAh)": "9500",
+        "Colours": "Black, White",
+        "Alternate names": "SM-P901",
+        "Removable battery": "No",
+        "Dimensions (mm)": "203.00 x 295.00 x 7.95",
+        "Weight (g)": "753.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.4.2"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Note 10.1 (2014 Edition)",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "299",
+        "Screen size (inches)": "10.10",
+        "Resolution": "2560x1600 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "SD card",
+        "Processor": "1.9GHz",
+        "RAM": "3GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "February 2014",
+        "Battery capacity (mAh)": "8220",
+        "Removable battery": "No",
+        "Dimensions (mm)": "171.00 x 243.00 x 7.90",
+        "Weight (g)": "547.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.3"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab3 311",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "1200x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "32GB",
+        "Expandable storage": "Yes",
+        "Expandable storage type": "microSD",
+        "Processor": "1.5GHz dual-core",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2013",
+        "Battery capacity (mAh)": "4450",
+        "Removable battery": "No",
+        "Dimensions (mm)": "123.00 x 209.00 x 7.40",
+        "Weight (g)": "316.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.2"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab3 310",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "8.00",
+        "Resolution": "1200x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1.5GHz",
+        "RAM": "1.5GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "1.9-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2013",
+        "Battery capacity (mAh)": "4450",
+        "Removable battery": "No",
+        "Dimensions (mm)": "123.20 x 209.00 x 7.40",
+        "Weight (g)": "314.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.2"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab3 211",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "169",
+        "Screen size (inches)": "7.00",
+        "Resolution": "600x1024 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "8GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2013",
+        "Battery capacity (mAh)": "4000",
+        "Removable battery": "No",
+        "Dimensions (mm)": "188.00 x 111.10 x 9.90",
+        "Weight (g)": "304.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.1"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Tab3 210",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "169",
+        "Screen size (inches)": "7.00",
+        "Resolution": "1024x600 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "64",
+        "Internal storage": "8GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1.2GHz",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "3-megapixel",
+        "Front camera": "1.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "April 2013",
+        "Battery capacity (mAh)": "4000",
+        "Removable battery": "No",
+        "Dimensions (mm)": "111.00 x 188.00 x 9.90",
+        "Weight (g)": "300.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.1"
+      }
+    }
+  },
+  {
+    "itemName": "Google Nexus 10",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "299",
+        "Screen size (inches)": "10.10",
+        "Resolution": "2560x1600 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor": "1.7GHz dual-core",
+        "Processor make": "Exynos 5250",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes, v 3.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "FM": "No",
+        "NFC": "Yes",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Rear Flash": "LED",
+        "Front camera": "1.9-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2012",
+        "Battery capacity (mAh)": "9000",
+        "Colours": "Black",
+        "Removable battery": "No",
+        "Dimensions (mm)": "177.60 x 263.90 x 8.90",
+        "Weight (g)": "603.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4.2"
+      }
+    }
+  },
+  {
+    "itemName": "Galaxy Note 800 ",
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Screen size (inches)": "10.10",
+        "Resolution": "1280x800 pixels"
+      },
+      "HARDWARE": {
+        "Expandable storage up to (GB)": "32",
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1.4GHz",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "1.9-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "August 2012",
+        "Battery capacity (mAh)": "7000",
+        "Removable battery": "No",
+        "Dimensions (mm)": "180.00 x 262.00 x 8.90",
+        "Weight (g)": "600.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "Android 4"
+      }
+    }
+  }
+]

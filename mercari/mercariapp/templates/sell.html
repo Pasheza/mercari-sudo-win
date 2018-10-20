@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="jumbotron" style ="background-color:#e0e0e0" >
+    <div class="container" style="text-align:center">
+        <h1>Fill fields below to sell item.</h1>
+        <p>Upload your photo below.</p>
+    </div>
+</div>
+<div class="container" style="text-align:center">
+        <form class="form" action="{% url 'new_item'%}" method="post" enctype="multipart/form-data">
+            {% for field,errors in form.errors.items %}
+                {% for error in errors %}
+                {% if forloop.first %}
+                    <h3>Form errors</h3>
+                {% endif %}
+                <h4>{{ error }}</h4>
+                {% endfor %}
+            {% endfor %}
+            {% for field in form.visible_fields %}
+            <h3>{{ field.label }}</h3>
+            <br>
+            {{ field }}
+            {% endfor %}
+            <br>
+            <br>
+            <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+        </form>
+</div>
+{% endblock %}

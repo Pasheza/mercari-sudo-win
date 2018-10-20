@@ -1,0 +1,62 @@
+{
+  "name": "pdv-rules-table",
+  "version": "1.0.0",
+  "description": "web form to see all rules and records in them for blacklist",
+  "main": "index.js",
+  "scripts": {
+    "bundle": "node webpack.js --compile",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=6.10.0 <9.0.0"
+  },
+  "author": "A. Pashinin",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.1.5",
+    "react": "^16.5.2",
+    "react-bootstrap": "latest",
+    "react-dom": "^16.5.2",
+    "react-dropzone": "^6.2.2",
+    "react-redux": "^5.0.7",
+    "react-select": "^1.0.0-rc.10",
+    "redux": "^4.0.0",
+    "redux-actions": "^2.6.1",
+    "webpack-dev-server": "^3.1.9",
+    "lodash": "latest",
+    "axios": "latest"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-core": "^6.18.0",
+    "babel-eslint": "^8.0.2",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "babel-register": "^6.16.3",
+    "bootstrap": "^3.3.7",
+    "chalk": "^2.4.1",
+    "copy-webpack-plugin": "^4.5.2",
+    "css-loader": "^1.0.0",
+    "expose-loader": "^0.7.5",
+    "node-sass": "^4.9.3",
+    "postcss-loader": "^3.0.0",
+    "redux-thunk": "^2.3.0",
+    "sass-loader": "^7.1.0",
+    "source-map-loader": "^0.2.4",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.20.2"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "react",
+      "stage-0"
+    ],
+    "plugins": [
+      "transform-object-rest-spread"
+    ]
+  }
+}

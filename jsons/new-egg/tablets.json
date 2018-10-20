@@ -1,0 +1,6583 @@
+[
+  {
+    "itemName": "DELL Latitude 5175 (K61K8) Intel Core M5 6Y57 (1.10 GHz) 8 GB Memory 256 GB SSD 10.8\" 1920 x 1080 Tablet PC Windows 10 Pro 64-Bit",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Intel HD Graphics 515",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "256 GB SSD"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "11.00\" x 7.00\" x 0.40\"",
+        "Weight": "1.56 lbs."
+      },
+      "System Memory": {
+        "Memory": "8 GB",
+        "Memory Speed": "DDR3L 1600",
+        "Memory Spec": "8 GB x 1"
+      },
+      "Model": {
+        "Brand": "DELL",
+        "Series": "Latitude",
+        "Part Number": "K61K8",
+        "Model": "5175 (K61K8)"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.1",
+        "WLAN": "Intel Dual Band Wireless-AC 8260"
+      },
+      "CPU": {
+        "CPU Speed": "6Y57 (1.10 GHz)",
+        "CPU L3 Cache": "4 MB",
+        "CPU Type": "Intel Core M5",
+        "Number of Cores": "Dual-core Processor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "8.0 MP"
+      },
+      "Power": {
+        "AC Adapter": "30-watt AC adapter"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10 Pro 64-Bit"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.8\"",
+        "Display Type": "Full HD",
+        "LCD Features": "Corning Concore Glass, Anti-Finger Print, 360 nits",
+        "Resolution": "1920 x 1080"
+      }
+    }
+  },
+  {
+    "itemName": "Huawei MediaPad M5 CMR-W09 HiSilicon Kirin 960 4 GB Memory 64 GB Flash Storage 10.8\" 2560 x 1600 Tablet PC Android 8.0 (Oreo) Space Gray",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "10.18\" x 6.76\" x 0.29\"",
+        "Weight": "1.10 lbs."
+      },
+      "Communications": {
+        "WLAN": "Wi-Fi 802.11a/b/g/n/ac, 2.4 GHz \u0026 5 GHz"
+      },
+      "CPU": {
+        "CPU Support": "4 x Cortex-A73 + 4 x Cortex-A53",
+        "CPU Type": "HiSilicon Kirin 960",
+        "Number of Cores": "8-core Processor"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 8.0 (Oreo)"
+      },
+      "Package Contents": {
+        "Package Content": "Charger\nCable\nUSB Type-C to 3.5 mm headset jack adapter cable\nEject pin\nQuick Start Guide\nWarranty card"
+      },
+      "Storage": {
+        "Built-in Storage": "64 GB Flash Storage"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Brand": "Huawei",
+        "Series": "MediaPad M5",
+        "Part Number": "53010BJJ",
+        "Color": "Space Gray",
+        "Model": "CMR-W09"
+      },
+      "Features": {
+        "Other Features": "Sensors:\nGravity sensor\nAmbient light sensor\nCompass\nGyroscope\nFingerprint sensor\nHall effect sensor\nStatus indicator"
+      },
+      "Camera": {
+        "Front-Facing Camera": "8 MP, F2.2, Fixed focus",
+        "Rear Camera": "13 MP, F2.2, Auto Focus (PDAF)"
+      },
+      "Audio": {
+        "Audio": "Quad stereo speaker\nHUAWEI Histen sound effect, Harman Kardon audio certified\nSupports Hi-Res Audio"
+      },
+      "Power": {
+        "Battery": "7500 mAh\nQuick Charge 9V / 2A"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.8\"",
+        "LCD Features": "Enhanced ClariVu display",
+        "Resolution": "2560 x 1600"
+      }
+    }
+  },
+  {
+    "itemName": "Acer Iconia One 10 B3-A40-K5EJ MTK MT8167B (1.30 GHz) 2 GB Memory 32 GB Flash Storage 10.1\" 1280 x 800 Tablet PC Android",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "10.17\" x 6.58\" x 0.36\"",
+        "Weight": "1.17 lbs."
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Acer",
+        "Series": "Iconia One 10",
+        "Part Number": "NT.LDPAA.003",
+        "Model": "B3-A40-K5EJ"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "MT8167B (1.30 GHz)",
+        "CPU Type": "MTK",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Features": {
+        "Other Features": "Accelerometer, GPS"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP"
+      },
+      "Power": {
+        "Battery": "6100 mAh Li-polymer"
+      },
+      "Operating Systems": {
+        "Operating System": "Android"
+      },
+      "Display": {
+        "Touchscreen": "10-point multi-touch",
+        "Screen Size": "10.1\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Huawei MediaPad M3 Lite 10 53019415 Qualcomm MSM8940 (1.40 GHz) 3 GB Memory 16 GB Flash Storage 10.1\" 1920 x 1200 Tablet Android 7.0 (Nougat) + EMUI 5.1 (US Warranty)",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.50\" x 6.75\" x 0.28\""
+      },
+      "System Memory": {
+        "Memory": "3 GB"
+      },
+      "Model": {
+        "Brand": "Huawei",
+        "Series": "MediaPad M3 Lite",
+        "Color": "White",
+        "Model": "Bach-W09A"
+      },
+      "Communications": {
+        "WLAN": "802.11ac (2.4 GHz \u0026 5 GHz)"
+      },
+      "CPU": {
+        "CPU Speed": "MSM8940 (1.40 GHz)",
+        "CPU Type": "Qualcomm",
+        "Number of Cores": "8-core Processor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "8 MP and fixed focus",
+        "Rear Camera": "8 MP and auto focus"
+      },
+      "Audio": {
+        "Audio": "4 Speakers + 4 SmartPA\nSmart channel switch\nSuper Wide Sound (SWS) 3.0 sound effects\nHarman Kardon tuning and certification"
+      },
+      "Power": {
+        "Battery": "6660 mAh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat) + EMUI 5.1"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "Lenovo YOGA Tab 3 Plus ZA1N0007US Qualcomm APQ8076 (1.8 GHz) 3 GB Memory 32 GB eMMC 10.1\" 2560 x 1600 Tablet PC Android 6.0 (Marshmallow)",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Integrated Graphics",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB eMMC"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.72\" x 7.05\" x 0.18\"",
+        "Weight": "1.40 lbs."
+      },
+      "System Memory": {
+        "Memory": "3 GB"
+      },
+      "Model": {
+        "Brand": "Lenovo",
+        "Series": "YOGA Tab 3 Plus",
+        "Model": "ZA1N0007US"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "APQ8076 (1.8 GHz)",
+        "CPU Type": "Qualcomm",
+        "Number of Cores": "Quad-core A72 1.8 GHz + Quad-core A53 1.4 GHz"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "13.0 MP"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Power": {
+        "Battery": "9300 mAh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Display": {
+        "Touchscreen": "10-point Multi-touch",
+        "Screen Size": "10.1\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "2560 x 1600"
+      }
+    }
+  },
+  {
+    "itemName": "Lenovo Tab 4 8 ZA2B0009US Qualcomm Snapdragon 1.40 GHz 2 GB Memory 16 GB Flash Storage 8.0\" 1280 x 800 Tablet PC Android 7.1 (Nougat) Slate Black",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "8.30\" x 4.88\" x 0.32\"",
+        "Weight": "0.68 lb."
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Lenovo",
+        "Series": "Tab 4",
+        "Color": "Slate Black",
+        "Model": "ZA2B0009US"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.40 GHz",
+        "CPU Type": "Qualcomm Snapdragon",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "Audio Ports": "3.5 mm Combo Audio Jack with Audio and Micrphone"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP Fixed- Focus",
+        "Rear Camera": "5 MP Auto-Focus"
+      },
+      "Audio": {
+        "Audio": "2 x Front-facing speakers / Dolby Atmos"
+      },
+      "Power": {
+        "Battery": "4850 mAh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.1 (Nougat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "8.0\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Lenovo Tab 4 Plus ZA2T0000US Qualcomm MSM8953 Snapdragon 625 (2.0 GHz) 2 GB Memory 16 GB Flash Storage 10.1\" 1920 x 1200 Tablet PC Android 7.1 (Nougat) Slate Black with LTE",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.72\" x 6.81\" x 0.28\"",
+        "Weight": "1.06 lbs."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "MSM8953 (2.0 GHz)",
+        "CPU Type": "Qualcomm Snapdragon 625",
+        "Number of Cores": "8-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB",
+        "Audio Ports": "3.5 mm Combo Audio Jack"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi + 4G"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.1 (Nougat)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Adreno 506",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage",
+        "Card Reader": "Micro SD up to 128 GB"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Lenovo",
+        "Series": "Tab 4 10 Plus",
+        "Color": "Slate Black",
+        "Model": "ZA2T0000US"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP Fixed-Focus",
+        "Rear Camera": "8 MP Auto-Focus"
+      },
+      "Audio": {
+        "Audio": "Front-facing Stereo Speakers with Dolby Atmos"
+      },
+      "Power": {
+        "Battery": "7000 mAh"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "Lenovo ZA300146US MTK MT8167D (1.30 GHz) 1 GB LPDDR3 Memory 16 GB 7\" 1024 x 600 Tablet PC Android 7.0 (Nougat) Black",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Integrated Graphics",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "7.67\" x 4.01\" x 0.35\"",
+        "Weight": "1.03 lbs."
+      },
+      "System Memory": {
+        "Memory": "1 GB LPDDR3"
+      },
+      "Model": {
+        "Brand": "Lenovo",
+        "Color": "Black",
+        "Model": "ZA300146US"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "MT8167D (1.30 GHz)",
+        "CPU Type": "MTK",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1"
+      },
+      "Camera": {
+        "Webcam": "Yes"
+      },
+      "Audio": {
+        "Audio": "Single Front-Facing Speaker"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7\"",
+        "Resolution": "1024 x 600"
+      }
+    }
+  },
+  {
+    "itemName": "ASUS ZenPad 10 Z301MF-A2-WH MTK MT8163A (1.50 GHz) 2 GB Memory 16 GB eMMC 10.1\" 1920 x 1200 Tablet Android 7.0 (Nougat) Pearl White",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Mali T720 MP2",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Card Reader": "Micro SD up to 128 GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.90\" x 6.80\" x 0.40\"",
+        "Weight": "1.10 lbs."
+      },
+      "Model": {
+        "Brand": "ASUS",
+        "Series": "ZenPad 10",
+        "Part Number": "90NP0281-M01250",
+        "Color": "Pearl White",
+        "Model": "Z301MF-A2-WH"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.1",
+        "WLAN": "802.11a/b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "MT8163A (1.50 GHz)",
+        "CPU Type": "MTK",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x USB Type-C",
+        "Audio Ports": "1 x Headphone/Microphone Combo Jack"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP"
+      },
+      "Power": {
+        "Battery": "18 Wh, 4680 mAh, polymer battery"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "Lenovo Yoga Tab 3 ZA0H0064US Quad Core Processor Up to 1.3 GHz 2 GB Memory 16 GB 10.1\" 1280 x 800 Tablet PC Android 5.1 (Lollipop) Slate Black",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.70\" x 7.28\" x 0.13\"-0.37\"",
+        "Weight": "1.44 lbs."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "Up to 1.3 GHz",
+        "CPU Type": "Quad Core Processor",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB",
+        "Audio Ports": "3.5 mm Audio Jack"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 5.1 (Lollipop)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Intel HD Graphics",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB",
+        "Card Reader": "Micro SD up to 128 GB"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Lenovo",
+        "Series": "Yoga Tab 3",
+        "Color": "Slate Black",
+        "Model": "ZA0H0064US"
+      },
+      "Features": {
+        "Other Features": "Sensors: G-sensor / Vibrator / Hall Sensor"
+      },
+      "Camera": {
+        "Rear Camera": "8 MP Rotatable Auto-Focus Camera"
+      },
+      "Audio": {
+        "Audio": "Front-facing Stereo Speakers, Dolby Atmos"
+      },
+      "Power": {
+        "Battery Life": "Up to 18 Hour(s)",
+        "Battery": "8400 mAh"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Lenovo Tab 7 ZA360022US MTK MT8161 (1.30 GHz) 1 GB Memory 16 GB Flash Storage 7\" 1280 x 720 Tablet PC Android 7.0 (Nougat) Slate Black",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "7.60\" x 3.90\" x 0.33\"",
+        "Weight": "0.57 lb."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "Tech": "64-bit",
+        "CPU Speed": "MT8161 (1.30 GHz)",
+        "CPU Type": "MTK",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "Audio Ports": "3.5 mm Combo Audio Jack"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Mali T720",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage",
+        "Card Reader": "Micro SD up to 128 GB"
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "Lenovo",
+        "Series": "Tab 7",
+        "Color": "Slate Black",
+        "Model": "ZA360022US"
+      },
+      "Features": {
+        "Other Features": "GPS"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP Fixed-Focus",
+        "Rear Camera": "5 MP Auto-Focus"
+      },
+      "Audio": {
+        "Audio": "Dolby Atmos\nSingle Front-Facing Speaker"
+      },
+      "Power": {
+        "Battery": "Li-ion Polymer, 3500 mAh"
+      },
+      "Display": {
+        "Touchscreen": "5-point Multitouch",
+        "Screen Size": "7\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1280 x 720"
+      }
+    }
+  },
+  {
+    "itemName": "Acer B1-780-K6C3 MTK 1 GB Memory 16 GB eMMC 7\" Touchscreen Tablet Android 6.0 (Marshmallow)",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "16 GB eMMC",
+        "Card Reader": "Micro SD"
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "Acer",
+        "Part Number": "NT.LCJAA.002",
+        "Model": "B1-780-K6C3"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "MT8163 (1.30 GHz)",
+        "CPU Type": "MTK",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1280 x 720"
+      }
+    }
+  },
+  {
+    "itemName": "Apple 9.7\" iPad (Early 2018, 128GB, Wi-Fi Only, Space Gray)",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "128 GB"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "6th Generation",
+        "Color": "Space Gray",
+        "Model": "MR7J2LL/A"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11a/b/g/n/ac"
+      },
+      "Camera": {
+        "Front-Facing Camera": "1.2MP",
+        "Rear Camera": "8 MP"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.7\"",
+        "Display Type": "Multi-Touch Retina Display",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad 2018 9.7\" Tablet (6th Generation, 32GB, Wi-Fi Only, Gold)",
+    "specs": {
+      "Model": {
+        "Brand": "Apple",
+        "Color": "Gold",
+        "Model": "Apple iPad 32GB Wi-Fi"
+      },
+      "Display": {
+        "Screen Size": "9.7\"",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "ASUS ZenPad 3S Z500M-C1-SL MTK MT8176 (2.1 GHz) 4 GB LPDDR3 Memory 64 GB eMMC 9.7\" IPS 2048 x 1536 Tablet Android 6.0 (Marshmallow) Glacier Silver",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "IMG GX6250"
+      },
+      "Storage": {
+        "Built-in Storage": "64 GB eMMC",
+        "Card Reader": "Micro SD up to 128 GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.47\" x 6.44\" x 0.28\"",
+        "Weight": "0.95 lb."
+      },
+      "System Memory": {
+        "Memory": "4 GB LPDDR3"
+      },
+      "Model": {
+        "Brand": "ASUS",
+        "Series": "ZenPad",
+        "Part Number": "90NP0271-M00800",
+        "Color": "Glacier Silver",
+        "Model": "Z500M-C1-SL"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "MT8176 (2.1 GHz)",
+        "CPU Type": "MTK",
+        "Number of Cores": "6-core Processor (Turbo Dual CA72 2.1 GHz + Quad CA53 1.7 GHz)"
+      },
+      "Ports": {
+        "Audio Ports": "1 x Headphone/Microphone Combo Jack"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "8.0 MP"
+      },
+      "Power": {
+        "Battery": "22 Wh, 5900 mAh, non-removable Li-polymer battery"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.7\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "Acer ICONIA B3-A40FHD-K3FX MTK MT8167A (1.50 GHz) 2 GB Memory 32 GB Flash Storage 10.1\" 1920 x 1200 Tablet PC Android 7.0 (Nougat) Black",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "10.20\" x 6.60\" x 0.40\"",
+        "Weight": "1.17 lbs."
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Acer",
+        "Series": "ICONIA",
+        "Part Number": "NT.LE0AA.001",
+        "Color": "Black",
+        "Model": "B3-A40FHD-K3FX"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.1",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "MT8167A (1.50 GHz)",
+        "CPU Type": "MTK",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB 2.0"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP"
+      },
+      "Power": {
+        "Battery": "2-cell Lithium Polymer, 6100 mAh 22.40 Wh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "Acer ICONIA B3-A40-K5S2 Cortex A35 1.30 GHz 2 GB Memory 32 GB Flash Storage 10.1\" 1280 x 800 Tablet Android 7.0 Nougat Black",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Integrated Graphics",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "10.17\" x 6.58\" x 0.36\"",
+        "Weight": "1.17 lbs."
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Acer",
+        "Series": "Iconia One 10",
+        "Part Number": "NT.LDVAA.001",
+        "Color": "Black",
+        "Model": "B3-A40-K5S2"
+      },
+      "Communications": {
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "MT8167 (1.30 GHz)",
+        "CPU Type": "MTK",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Features": {
+        "Other Features": "GPS, Accelerometer"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP"
+      },
+      "Power": {
+        "Battery": "6100 mAh Li-ion"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro Tablet - 12.9\" - Apple A10X Hexa-core (6 Core) - 64 GB - iOS 10 - 2732 x 2048 - Retina Display - 4G - GSM, CDMA2000 Supported - Silver",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "64 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "1.53 lb"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "iPad Pro",
+        "Color": "Silver"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "IEEE 802.11a/b/g/n"
+      },
+      "CPU": {
+        "CPU Type": "A10X"
+      },
+      "Features": {
+        "Function": "Tablet"
+      },
+      "Camera": {
+        "Front-Facing Camera": "7 Megapixel",
+        "Rear Camera": "Yes"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 10"
+      },
+      "Display": {
+        "Screen Size": "12.9\"",
+        "LCD Features": "Retina Display",
+        "Resolution": "2732 x 2048"
+      }
+    }
+  },
+  {
+    "itemName": "Apple Smart Keyboard for iPad Pro 9.7-inch (2016 Model) (Spanish Keyboard)",
+    "specs": {
+      "Model": {
+        "Part Number": "MNKR2E/A"
+      }
+    }
+  },
+  {
+    "itemName": "Acer Iconia One 10 B3-A40FHD-K0MW Tablet - 10.1\" - 2 GB DDR3L SDRAM - MediaTek Cortex A35 MT8167A Quad-core (4 Core) 1.50 GHz - 32 GB - Android 7.0 Nougat - 1920 x 1200 - In-plane Switching (IPS) T...",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Weight": "1.17 lb"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Acer",
+        "Series": "Iconia One 10",
+        "Color": "Black",
+        "Model": "B3-A40FHD-K0MW"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "IEEE 802.11ac"
+      },
+      "CPU": {
+        "CPU Speed": "1.50 GHz",
+        "CPU Type": "Cortex A35"
+      },
+      "Features": {
+        "Function": "Tablet",
+        "Other Features": "Flash Memory Capacity:32 GB\nPackage Contents:\nIconia One 10 B3-A40FHD-K0MW Tablet\nAC Adapter\nTripod"
+      },
+      "Camera": {
+        "Webcam": "Yes"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 Nougat"
+      },
+      "Display": {
+        "Screen Size": "10.1\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad 2018 9.7\" Tablet (6th Generation, 128GB, Wi-Fi Only, Gold)",
+    "specs": {
+      "Display": {
+        "Screen Size": "9.7\""
+      }
+    }
+  },
+  {
+    "itemName": "Apple 10.5\" iPad Pro 64GB Wi-Fi, Silver (Mid 2017)",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.80\" x 6.80\" x 0.24\"",
+        "Weight": "1.03 lbs."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Support": "Embedded M10 coprocessor",
+        "Tech": "64-bit",
+        "CPU Type": "Apple A10X Fusion"
+      },
+      "Ports": {
+        "Audio Ports": "3.5 mm headphone jack"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 10"
+      },
+      "Storage": {
+        "Built-in Storage": "64 GB Flash Storage"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "iPad Pro",
+        "Color": "Silver",
+        "Model": "MQDW2LL/A"
+      },
+      "Features": {
+        "Other Features": "Sensors:\nTouch ID\nThree-axis gyro\nAccelerometer\nBarometer\nAmbient light sensor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "7 MP",
+        "Rear Camera": "12.0 MP"
+      },
+      "Audio": {
+        "Audio": "Four speaker audio\nDual microphones for calls, video recording, and audio recording"
+      },
+      "Power": {
+        "Battery": "Built-in 30.4-watt-hour rechargeable lithium-polymer battery"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.5\"",
+        "Display Type": "Retina Display",
+        "LCD Features": "ProMotion technology\nWide color display (P3)\nTrue Tone display\nFingerprint-resistant oleophobic coating\nFully laminated display\nAntireflective coating",
+        "Resolution": "2224 x 1668"
+      }
+    }
+  },
+  {
+    "itemName": "Apple 10.5\" iPad Pro (256GB, Wi-Fi, Space Gray)",
+    "specs": {
+      "Display": {
+        "Screen Size": "10.5\""
+      }
+    }
+  },
+  {
+    "itemName": "Apple 9.7 Inch iPad 128GB (Wi-Fi Only)(Early 2018) Silver + Apple Pencil for iPad Pro",
+    "specs": {
+      "Group": {
+        "Option": "WiFi"
+      },
+      "Storage": {
+        "Built-in Storage": "128 GB"
+      },
+      "Model": {
+        "Color": "Silver"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.7\"",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad mini MF074LL/A 16 GB Tablet - 7.9\" - In-plane Switching (IPS) Technology, Retina Display - AT\u0026T - Apple A7 1.40 GHz",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "PowerVR G6430"
+      },
+      "Optical Drive": {
+        "Optical Drive Type": "No"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "12 oz"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "Mini",
+        "Color": "Silver"
+      },
+      "Communications": {
+        "Bluetooth": "Yes"
+      },
+      "Features": {
+        "Function": "Tablet"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi + 4G"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 7"
+      },
+      "Display": {
+        "Screen Size": "7.9\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "2018 Samsung Newest Galaxy Tab E Lite Flagship 7\" (1280 X 800) Tablet PC | T-Shark 2A Quad-Core | 1.5G | 8GB ROM | MicroSD Slot | Bluetooth | WIFI | GPS Enabled | Android 5.1 Lollipop OS (White)",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "7.35\" x 4.27\" x 0.34\"",
+        "Weight": "0.61"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.30 GHz",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB 2.0"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-fi"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 5.1 (Lollipop)"
+      },
+      "Storage": {
+        "SSD": "8 GB",
+        "Built-in Storage": "8 GB Flash Storage",
+        "Card Reader": "Micro SD"
+      },
+      "System Memory": {
+        "Memory": "1.5 GB"
+      },
+      "Model": {
+        "Brand": "Samsung",
+        "Series": "Galaxy Tab A",
+        "Color": "White"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5 megapixels",
+        "Webcam": "Yes"
+      },
+      "Audio": {
+        "Audio": "Audio Streaming, Music Player"
+      },
+      "Power": {
+        "Battery Life": "\u003e 5 hours"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7\"",
+        "Display Type": "Full HD",
+        "Resolution": "1200 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "SAMSUNG Galaxy Tab 4 10.1 Quad Core Processor 1.20 GHz 1.5 GB Memory 16 GB Flash Storage 10.1\" 1280 x 800 Tablet Android 4.4 (KitKat) Black",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Integrated Graphics",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage",
+        "Card Reader": "microSD Card Slot (Up to 64GB)"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.58\" x 6.94\" x 0.31\"",
+        "Weight": "1.08lbs"
+      },
+      "System Memory": {
+        "Memory": "1.5 GB"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Part Number": "SM-T530NYKAXAR",
+        "Color": "Black",
+        "Model": "Galaxy Tab 4 10.1"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11 a/b/g/n, dual-band (2.4GHz + 5GHz)"
+      },
+      "CPU": {
+        "CPU Speed": "1.20 GHz",
+        "CPU Type": "Quad Core Processor"
+      },
+      "Features": {
+        "Function": "Internet Tablet",
+        "Other Features": "GPS with GLONASS\n\nSupport Format\n\nMESSAGE\n- Email (POP3/IMAP/SMTP/SSL/TLS)\n- Exchange ActiveSync Email\nAUDIO FILES\n- Audio Codec:M4A, MP3,3GA, AAC, OGG, WAV, WMA, FLAC\nVIDEO FILES\n- Recording 720p@30fps; Playback: 1080@30fps\n- Video Codec: MP4, 3GP, WMV, ASF, AVI, FLV, MKV, WEBM\nIMAGE FILES\n- BMP,GIF,JPEG,ICO. SVG-T\nDOCUMENT FILES\n- Word File: .doc, .docx, .dot, .dotx, .txt, .hwp, .rtf, .asc\n- Excel File: .xls, .xlsx, .xlt, .xltx, .csv\n- PowerPoint: .ppt, .pptx, .pps, .ppsx, .pot, .potx\n- PDF: .pdf"
+      },
+      "Camera": {
+        "Webcam": "3MP rear + 1.3 MP front"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 4.4 (KitKat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "SAMSUNG Galaxy Tab S3 SM-T820NZKAXAR Qualcomm APQ8096 (2.15 GHz) 4 GB Memory 32 GB Flash Storage 9.7\" 2048 x 1536 Tablet PC with S Pen Android 7.0 (Nougat) Black",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.34\" x 6.65\" x 0.24\"",
+        "Weight": "0.95 lb."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2"
+      },
+      "CPU": {
+        "CPU Speed": "APQ8096 (2.15 GHz)",
+        "CPU Type": "Qualcomm",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x USB 3.1 Type-C",
+        "Audio Ports": "3.5 mm Stereo"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Package Contents": {
+        "Package Content": "Tab S3 9.7\", S Pen, Quick Start Guide, Power Adapter, USB Type-C cable"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage",
+        "Card Reader": "Micro SD up to 256 GB"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Series": "Galaxy Tab S3",
+        "Color": "Black",
+        "Model": "SM-T820NZKAXAR"
+      },
+      "Features": {
+        "Other Features": "Sensor Type: Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, RGB Light Sensor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "13.0 MP"
+      },
+      "Power": {
+        "Battery": "Li-Ion 6000 mAh"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.7\"",
+        "LCD Features": "Super AMOLED",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "11.6\" IPS intel Atom X5 8350 4GB 32GB EMMC 2 in 1 GPS Windows 10 Laptop tablet PC Free Bundle Keyboard Folio set",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage",
+        "HDD": "32GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "3.12"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Brand": "vitalASC",
+        "Part Number": "JME 2in1 X512BS",
+        "Color": "Silver",
+        "Model": "JME 2in1 X512BS"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.84 Ghz",
+        "CPU Type": "Intel® CherryTrail Z8350"
+      },
+      "Ports": {
+        "HDMI": "Micro HDMI"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10"
+      },
+      "Display": {
+        "Screen Size": "11.6\"",
+        "Resolution": "1920x1080 HD IPS"
+      }
+    }
+  },
+  {
+    "itemName": "Acer Iconia One 7 B1-7A0-K92M Tablet - 7\" - 1 GB DDR3L SDRAM - MediaTek Cortex A35 MT8167B Quad-core (4 Core) 1.30 GHz - 16 GB - Android 7.0 Nougat - 1024 x 600 - In-plane Switching (IPS) Technology",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Weight": "9.52 oz"
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "Acer",
+        "Series": "Iconia One 7",
+        "Model": "B1-7A0-K92M"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.30 GHz",
+        "CPU Type": "Cortex A35"
+      },
+      "Features": {
+        "Function": "Tablet",
+        "Other Features": "Flash Memory Capacity:16 GB\nPackage Contents:\nIconia One 7 B1-7A0-K92M Tablet\nAC Adapter"
+      },
+      "Camera": {
+        "Webcam": "Yes"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 Nougat"
+      },
+      "Display": {
+        "Screen Size": "7.0\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1024 x 600"
+      }
+    }
+  },
+  {
+    "itemName": "Samsung Galaxy Tab S4 SM-T830 Tablet 10.5\" 4GB 64GB Android Tablet",
+    "specs": {
+      "Display": {
+        "Screen Size": "10.5\""
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro 9.7\" Wi-Fi 32GB - Space Gray",
+    "specs": {
+      "Graphics": {
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.40\" x 6.70\" x 0.20\"",
+        "Weight": "0.96 lb."
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Part Number": "MLMN2LL/A",
+        "Color": "Space Gray",
+        "Model": "iPad Pro"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Type": "Apple A9X"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "12.0 MP"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Power": {
+        "Battery Life": "Up to 9 Hour(s)",
+        "Battery": "Built-In Lithium-Polymer"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 9"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.7\"",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "Samsung Galaxy Tab S4 SM-T830 Tablet - 10.5\" - 4 GB - Qualcomm Snapdragon 835 Octa-core (8 Core) 2.35 GHz 1.90 GHz - 64 GB - Android 8.1 Oreo - 2560 x 1600 - Black",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Weight": "1.06 lb"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Series": "Galaxy Tab S4",
+        "Color": "Black",
+        "Model": "SM-T830"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "IEEE 802.11a/b/g/n/ac"
+      },
+      "CPU": {
+        "CPU Speed": "2.35 GHz"
+      },
+      "Features": {
+        "Function": "Tablet",
+        "Other Features": "Package Contents:\nGalaxy Tab S4 10.5\" (S Pen included), 64GB, Black, Wi-Fi\nAC Adapter\nQuick Start Guide\nUSB Type-C Cable\nFlash Memory Capacity:64 GB\nGPS:Yes"
+      },
+      "Camera": {
+        "Webcam": "Yes"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 8.1 Oreo"
+      },
+      "Display": {
+        "Screen Size": "10.5\"",
+        "Resolution": "2560 x 1600"
+      }
+    }
+  },
+  {
+    "itemName": "Samsung Galaxy Tab A SM-T380 Tablet - Black Tablet",
+    "specs": {
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Color": "Black"
+      },
+      "CPU": {
+        "CPU Speed": "1.40 GHz",
+        "CPU Type": "Qualcomm APQ8017"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.1 (Nougat)"
+      },
+      "Display": {
+        "Screen Size": "8.0\""
+      }
+    }
+  },
+  {
+    "itemName": "10\" Windows 10 Fusion5 Ultra Slim Windows Tablet PC - 2GB RAM - 32GB Storage -Full USB Port - Touch Screen - Intel Cherry Trail (Quad-core) Z8350) - 5MP and 2MP Cameras - Bluetooth Tablet PC",
+    "specs": {
+      "Chipset": {
+        "Chipset": "Intel x8350"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB SSD"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Color": "Black"
+      },
+      "Display": {
+        "Screen Size": "10.1\"",
+        "Display Type": "HD+",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "NuVision 8-inch Windows Tablet: Atom x5-Z8300, 32GB eMMC, 2GB RAM, Full HD Touch Display, Windows 10",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB eMMC"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "8.30\" x 4.90\" x 0.30\"",
+        "Weight": "0.65 lb."
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "NuVision",
+        "Part Number": "TM800W610L",
+        "Color": "Silver"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "x5-Z8300 (1.44 GHz)",
+        "CPU Type": "Intel Atom",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB",
+        "HDMI": "1 x Micro HDMI",
+        "Audio Ports": "1 x Headphone output\n2 x Microphone input"
+      },
+      "Features": {
+        "Function": "Internet Tablet"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP",
+        "Webcam": "Yes"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10 Home"
+      },
+      "Display": {
+        "Touchscreen": "Multi-touch",
+        "Screen Size": "8.0\"",
+        "Display Type": "Full HD",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1920 x 1080"
+      }
+    }
+  },
+  {
+    "itemName": "NuVision 8-inch Windows Tablet: Atom x5-Z8300, 32GB eMMC, 2GB RAM, Full HD Touch Display, Windows 10",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB eMMC"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "8.30\" x 4.90\" x 0.30\"",
+        "Weight": "0.65 lb."
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "NuVision",
+        "Part Number": "TM800W610L",
+        "Color": "Silver"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "x5-Z8300 (1.44 GHz)",
+        "CPU Type": "Intel Atom",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB",
+        "HDMI": "1 x Micro HDMI",
+        "Audio Ports": "1 x Headphone output\n2 x Microphone input"
+      },
+      "Features": {
+        "Function": "Internet Tablet"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP",
+        "Webcam": "Yes"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10 Home"
+      },
+      "Display": {
+        "Touchscreen": "Multi-touch",
+        "Screen Size": "8.0\"",
+        "Display Type": "Full HD",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1920 x 1080"
+      }
+    }
+  },
+  {
+    "itemName": "Samsung Galaxy Tab S4 10.5\" 64GB Wi-Fi Tablet - Gray",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "64 GB"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Model": "SM-T830NZAAXAR"
+      },
+      "Display": {
+        "Screen Size": "10.5\""
+      }
+    }
+  },
+  {
+    "itemName": "NuVision TM800W560L Signature Edition Windows 10 8\" Full HD Tablet",
+    "specs": {
+      "Group": {
+        "Option": "English"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "NuVision",
+        "Series": "Signature Edition",
+        "Part Number": "TM800W560L",
+        "Model": "TM800W560L"
+      },
+      "CPU": {
+        "CPU Speed": "Intel Atom Z3735F",
+        "CPU Type": "Intel Atom"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10"
+      },
+      "Display": {
+        "Screen Size": "8.0\""
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad mini MD531LL/A (16GB, Wi-Fi Only, White / Silver)",
+    "specs": {
+      "Model": {
+        "Brand": "Apple"
+      },
+      "Display": {
+        "Screen Size": "15.6\""
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad mini 4 (128GB, Wi-Fi, Silver) - MK9P2LL/A",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "PowerVR GX6450"
+      },
+      "Optical Drive": {
+        "Optical Drive Type": "No"
+      },
+      "Storage": {
+        "Built-in Storage": "128 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "10.40 oz"
+      },
+      "System Memory": {
+        "Memory": "128 MB"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "Mini",
+        "Color": "Silver",
+        "Model": "MK9P2LL/A"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "IEEE 802.11a/b/g/n"
+      },
+      "CPU": {
+        "CPU Speed": "1.50 GHz"
+      },
+      "Features": {
+        "Function": "Tablet"
+      },
+      "Camera": {
+        "Rear Camera": "Yes"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 9"
+      },
+      "Display": {
+        "Screen Size": "7.9\"",
+        "LCD Features": "Retina Display",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "2017 New iPad Pro Bundle (4 Items): Apple 10.5 inch iPad Pro with Wi-Fi 64 GB Space Gray, Apple Pencil, Mytrix USB Apple Lightning Cable, and All-in-One USB Travel Charger",
+    "specs": {
+      "Package Contents": {
+        "Package Content": "iPad Pro, Lightning to USB Cable, USB Power Adaptor"
+      },
+      "Storage": {
+        "SSD": "64 GB",
+        "Built-in Storage": "64 GB SSD"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.8\" x 6.8\" x 0.24\" (248 x 172 x 6mm)",
+        "Weight": "10.2 oz (289 g)"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "iPad Po",
+        "Part Number": "ipadPro_64Space Gray",
+        "Color": "Space Gray"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2"
+      },
+      "CPU": {
+        "CPU Type": "A10X"
+      },
+      "Ports": {
+        "Audio Ports": "1 x Headphone/Microphone Combo Jack"
+      },
+      "Features": {
+        "Other Features": "Smart Connector, Nano-SIM tray"
+      },
+      "Camera": {
+        "Front-Facing Camera": "7 MP",
+        "Rear Camera": "12.0 MP",
+        "Webcam": "Yes"
+      },
+      "Power": {
+        "Battery Life": "\u003e 5 hours"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 10"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.5\"",
+        "Display Type": "Retina Display",
+        "Resolution": "2224 x 1680"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro Tablet - 10.5\" - Apple A10X Hexa-core (6 Core) - 64 GB - iOS 10 - 2224 x 1668 - Retina Display - 4G - GSM, CDMA2000 Supported - Rose Gold",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "64 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "1.05 lb"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "iPad Pro",
+        "Color": "Rose Gold"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "IEEE 802.11a/b/g/n"
+      },
+      "CPU": {
+        "CPU Type": "A10X"
+      },
+      "Features": {
+        "Function": "Tablet"
+      },
+      "Camera": {
+        "Front-Facing Camera": "7 MP",
+        "Rear Camera": "Yes"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 10"
+      },
+      "Display": {
+        "Screen Size": "10.5\"",
+        "LCD Features": "Retina Display",
+        "Resolution": "2224 x 1668"
+      }
+    }
+  },
+  {
+    "itemName": "2017 Newest Premium Top Performance NuVision 8-inch Full HD 1920 x 1200 IPS Touchscreen Tablet PC Intel 1.44 GHz Atom x5-Z8300 Quad-Core Processor 2GB RAM 32GB eMMC SSD Webcam WIFI Windows 10-Silver",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB eMMC"
+      },
+      "Display": {
+        "Screen Size": "8.0\""
+      }
+    }
+  },
+  {
+    "itemName": "2017 New iPad Pro Bundle (3 Items): Apple 10.5 inch iPad Pro with Wi-Fi 256 GB Rose Gold, Apple Pencil and Mytrix USB Apple Lightning Cable",
+    "specs": {
+      "Package Contents": {
+        "Package Content": "iPad Pro, Lightning to USB Cable, USB Power Adaptor"
+      },
+      "Storage": {
+        "SSD": "256 GB",
+        "Built-in Storage": "256 GB SSD"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.8\" x 6.8\" x 0.24\" (248 x 172 x 6mm)",
+        "Weight": "10.2 oz (289 g)"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "iPad Po",
+        "Part Number": "ipadPro_256Rose Gold",
+        "Color": "Rose Gold"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2"
+      },
+      "CPU": {
+        "CPU Type": "A10X"
+      },
+      "Ports": {
+        "Audio Ports": "1 x Headphone/Microphone Combo Jack"
+      },
+      "Features": {
+        "Other Features": "Smart Connector, Nano-SIM tray"
+      },
+      "Camera": {
+        "Front-Facing Camera": "7 MP",
+        "Rear Camera": "12.0 MP",
+        "Webcam": "Yes"
+      },
+      "Power": {
+        "Battery Life": "\u003e 5 hours"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 10"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.5\"",
+        "Display Type": "Retina Display",
+        "Resolution": "2224 x 1680"
+      }
+    }
+  },
+  {
+    "itemName": "Huawei MediaPad T3 10 53019409 Qualcomm MSM8917 (1.40 GHz) 2 GB Memory 16 GB Flash Storage 9.6\" 1280 x 800 Tablet Android 7.0 (Nougat) + EMUI 5.1 (US Warranty)",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.05\" x 6.29\" x 0.31\"",
+        "Weight": "1.01 lbs."
+      },
+      "Model": {
+        "Brand": "Huawei",
+        "Series": "MediaPad T3",
+        "Model": "Agassi-W09"
+      },
+      "Communications": {
+        "WLAN": "IEEE 802.11 a/b/g/n 2.4 GHz \u0026 5 GHz"
+      },
+      "CPU": {
+        "CPU Speed": "MSM8917 (1.40 GHz)",
+        "CPU Type": "Qualcomm",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Features": {
+        "Other Features": "Gravity sensor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP and fixed focus",
+        "Rear Camera": "5 MP and auto focus"
+      },
+      "Power": {
+        "Battery": "4800 mAh (typical)"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat) + EMUI 5.1"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.6\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "NuVision Solo 10 Draw TM101W610LPK Tablet (Pink)",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB eMMC"
+      },
+      "System Memory": {
+        "Memory": "2 GB",
+        "Memory Slot (Total)": "1"
+      },
+      "Model": {
+        "Color": "Pink",
+        "Model": "TM101W610LPK"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP"
+      },
+      "Power": {
+        "Battery Life": "\u003e 5 hours",
+        "Battery": "Lithium Polymer"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10 Home, 64-bit"
+      },
+      "Display": {
+        "Touchscreen": "10-finger multi-touch support",
+        "Screen Size": "10.1\"",
+        "Display Type": "Full HD",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "Huawei Mediapad M5 8.4 inch Android 8.0 Kirin 960 Octa Core Tablet 4GB RAM 64G ROM 2K IPS 2560x1600 Fingerprint 13.0MP(WiFi Version)",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Mali G71 MP8"
+      },
+      "Group": {
+        "Option": "WiFi"
+      },
+      "Storage": {
+        "Built-in Storage": "64 GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "Width: 258.7 mm Height: 171.8 mm Depth: 7.3 mm",
+        "Weight": "About 498 g"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Brand": "Huawei",
+        "Color": "Gold",
+        "Model": "Huawei Mediapad M5"
+      },
+      "Communications": {
+        "Bluetooth": "4.2",
+        "WLAN": "802.11a/b/g/n/ac, 2.4 GHz \u0026 5 GHz ( only some routers can connect to 5GHz )"
+      },
+      "CPU": {
+        "CPU Speed": "Kirin 960s Series Chipset",
+        "CPU Type": "HUAWEI Kirin 960 CPU, octa-core +Micro Smart Core i6"
+      },
+      "Ports": {
+        "USB": "USB2.0 Type C"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Operating Systems": {
+        "Operating System": "EMUI8.0,Android 8.0 (Official Firmware)"
+      },
+      "Display": {
+        "Screen Size": "8.4\"",
+        "Resolution": "2560x1600"
+      }
+    }
+  },
+  {
+    "itemName": "Hyundai Koral 7W2 HT0702W08A Allwinner A64 Cortex-A53 1 GB Memory 8 GB Flash Storage 7\" 1024 x 600 Tablet PC Android 7.0 (Nougat) Black (US warranty)",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Mali 400 MP2",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "8 GB Flash Storage",
+        "Card Reader": "Micro SD"
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "Hyundai",
+        "Series": "Koral 7W2",
+        "Color": "Black",
+        "Model": "HT0702W08A"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Type": "Allwinner A64 Cortex-A53",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB",
+        "Audio Ports": "3.5 mm headphone jack"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "2 MP"
+      },
+      "Power": {
+        "Battery": "4000 mAh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1024 x 600"
+      }
+    }
+  },
+  {
+    "itemName": "ASUS Zenpad 10 Z300M-A2-GD MTK MT8163 (1.30 GHz) 2 GB Memory 16 GB eMMC 10.1\" 1280 x 800 Tablet Android 7.0 (Nougat) Rose Gold",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.91\" x 6.77\" x 0.31\"-0.35\"",
+        "Weight": "1.08 lbs."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11a/b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "MT8163 (1.30 GHz)",
+        "CPU Type": "MTK",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB",
+        "Audio Ports": "1 x Headphone/Microphone Combo Jack"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Mali T720 MP2"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB eMMC"
+      },
+      "System Memory": {
+        "Memory": "2 GB",
+        "Memory Spec": "2 GB onboard"
+      },
+      "Model": {
+        "Brand": "ASUS",
+        "Series": "ZenPad 10",
+        "Part Number": "90NP00C3-M01800",
+        "Color": "Rose Gold",
+        "Model": "Z300M-A2-GD"
+      },
+      "Features": {
+        "Other Features": "G-Sensor / E-compass / Light Sensor / Hall Sensor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP"
+      },
+      "Power": {
+        "Battery Life": "Up to 11 Hour(s)",
+        "Battery": "18 Wh, 4680 mAh, 1-cell, non-removable polymer battery"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "LCD Features": "IPS Panel, 350 nits",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Apple 9.7\" iPad (Early 2018, 32GB, Wi-Fi Only, Gold)",
+    "specs": {
+      "System Memory": {
+        "Memory": "32 GB"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Color": "Gold"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11a/b/g/n/ac"
+      },
+      "Camera": {
+        "Front-Facing Camera": "1.2MP",
+        "Rear Camera": "8MP"
+      },
+      "Display": {
+        "Screen Size": "9.7\"",
+        "Display Type": "Multi-Touch Retina Display",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "ChuwiUSA New Hi10 PLUS 10.8\" FHD IPS Windows 10 Android 5.1 Dual Boot 2-in-1 Tablet PC Intel X5 Quad Core 4GB 64GB Bundle Folio Detachable keyboard Stand / cover",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Weight": "3 - 3.9 lbs."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.44Ghz ( Burst Frequency 1.92Ghz )",
+        "CPU Type": "Intel Atom® x5-Z8350"
+      },
+      "Ports": {
+        "HDMI": "Micro HDMI"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10/Android 5.1"
+      },
+      "Graphics": {
+        "GPU/VPU": "Intel HD Graphics (Cherry Trail)"
+      },
+      "Package Contents": {
+        "Package Content": "Tablet PC * 1,Folio / Stand KB *1 ,Charger * 1, Type-C Cable * 1, User Manual * 1"
+      },
+      "Storage": {
+        "Built-in Storage": "64 GB"
+      },
+      "System Memory": {
+        "Memory": "4 GB",
+        "Memory Type": "DDR3 30% faster and power saving than DDR2"
+      },
+      "Model": {
+        "Brand": "vitalASC",
+        "Part Number": "CWHi10PLUS464",
+        "Color": "Aluminum Silver",
+        "Model": "CWHi10PLUS464"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Camera": {
+        "Rear Camera": "2 MP"
+      },
+      "Display": {
+        "Screen Size": "10.8\"",
+        "Resolution": "1920x1280 IPS"
+      }
+    }
+  },
+  {
+    "itemName": "Samsung Galaxy Tab S4 10.5 256B (S Pen included), Grey",
+    "specs": {
+      "": {
+        "": ""
+      }
+    }
+  },
+  {
+    "itemName": "SAMSUNG Galaxy Tab A SM-P580NZKAXAR Samsung Exynos 7870 (1.60 GHz) 3 GB Memory 16 GB Flash Storage 10.1\" 1920 x 1200 Tablet PC with S Pen Android 6.0 (Marshmallow) Black",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage",
+        "Card Reader": "Micro SD up to 256 GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "10.00\" x 6.46\" x 0.32\"",
+        "Weight": "1.22 lbs."
+      },
+      "System Memory": {
+        "Memory": "3 GB"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Series": "Galaxy Tab A",
+        "Color": "Black",
+        "Model": "SM-P580NZKAXAR"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "7870 (1.60 GHz)",
+        "CPU Type": "Samsung Exynos",
+        "Number of Cores": "8-core Processor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "8.0 MP"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Power": {
+        "Battery": "Li-Ion 7300 mAh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "LCD Features": "TFT PLS",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro 9.7\" Wi-Fi 32GB - Silver",
+    "specs": {
+      "Graphics": {
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.40\" x 6.70\" x 0.20\"",
+        "Weight": "0.96 lb."
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Part Number": "MLMP2LL/A",
+        "Color": "Silver",
+        "Model": "iPad Pro"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Type": "Apple A9X"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "12.0 MP"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Power": {
+        "Battery Life": "Up to 9 Hour(s)",
+        "Battery": "Built-In Lithium-Polymer"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 9"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.7\"",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "SAMSUNG Galaxy Tab S2 SM-T813NZDEXAR Qualcomm APQ8076 (1.8 GHz) 3 GB Memory 32 GB Flash Storage 9.7\" 2048 x 1536 Tablet PC Android 6.0 (Marshmallow) Gold",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.34\" x 6.65\" x 0.22\"",
+        "Weight": "0.83 lb."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.1",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Support": "1.8 GHz Quad + 1.4 GHz Quad",
+        "CPU Speed": "APQ8076 (1.8 GHz)",
+        "CPU Type": "Qualcomm",
+        "Number of Cores": "8-core Processor"
+      },
+      "Ports": {
+        "Audio Ports": "3.5 mm Stereo"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage",
+        "Card Reader": "Micro SD up to 128 GB"
+      },
+      "System Memory": {
+        "Memory": "3 GB"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Series": "Galaxy Tab S2",
+        "Color": "Gold",
+        "Model": "SM-T813NZDEXAR"
+      },
+      "Features": {
+        "Other Features": "Sensor Type:\nAccelerometer\nFingerprint Sensor\nGyro Sensor\nGeomagnetic Sensor\nHall Sensor\nRGB Light Sensor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2.1 MP",
+        "Rear Camera": "8.0 MP"
+      },
+      "Power": {
+        "Battery": "Li-Ion 5870 mAh"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.7\"",
+        "LCD Features": "Super AMOLED",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "ASUS MeMO Pad 7 (ME176CX-A1-WH) Intel Atom Z3745 1 GB Memory 16 GB eMMC 7.0\" Touchscreen Tablet Android 4.4 (KitKat)",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "7.40\" x 4.40\" x 0.37\"",
+        "Weight": "0.65 lb."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "Z3745 (1.33 GHz)",
+        "CPU Type": "Intel Atom",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB",
+        "Audio Ports": "1 x Headphone/Microphone Combo Jack"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 4.4 (KitKat)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Intel HD Graphics",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB eMMC",
+        "Card Reader": "Micro SD up to 64 GB"
+      },
+      "System Memory": {
+        "Memory": "1 GB",
+        "Memory Speed": "DDR3 1066"
+      },
+      "Model": {
+        "Brand": "ASUS",
+        "Series": "MeMO Pad",
+        "Color": "White",
+        "Model": "ME176CX-A1-WH"
+      },
+      "Features": {
+        "Other Features": "GPS\nG-Sensor\nE-compass\nHall Sensor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "0.3 MP",
+        "Rear Camera": "2 MP"
+      },
+      "Power": {
+        "Battery Life": "Up to 9 hour(s)",
+        "Battery": "15 Wh, 3910 mAh, non-removable polymer battery"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7.0\"",
+        "LCD Features": "IPS Panel",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Apple 9.7 Inch iPad (Early 2018 Version, 128GB, Wi-Fi Only, Silver) MR7K2LL/A - Essential Bundle",
+    "specs": {
+      "System Memory": {
+        "Memory": "128 GB"
+      },
+      "Model": {
+        "Color": "Silver"
+      },
+      "Display": {
+        "Screen Size": "9.7\""
+      }
+    }
+  },
+  {
+    "itemName": "Teclast Tbook 10 S 2 in 1 Tablet PC 10.1 inch Windows 10 + Android 5.1 4GB RAM 64GB ROM IPS Screen Intel Cherry Trail X5 Z8350 64bit Quad Core 1.44GHz 4GB RAM 64GB ROM Bluetooth 4.0",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Intel HD Graphic(Gen8)"
+      },
+      "Storage": {
+        "Built-in Storage": "64 GB eMMC"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Color": "Champagne Gold"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11b/g/n wireless internet"
+      },
+      "CPU": {
+        "CPU Speed": "1.44GHz,Quad Core",
+        "CPU Type": "Intel Cherry Trail x5-Z8350"
+      },
+      "Features": {
+        "Other Features": "Bluetooth,Gravity Sensing System,HDMI,MP3,MP4,Wi-Fi"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10"
+      },
+      "Display": {
+        "Screen Size": "10.1\"",
+        "Resolution": "1920 x 1200 (WUXGA)"
+      }
+    }
+  },
+  {
+    "itemName": "Xplore CL920 Intel Pentium N3540 2.16GHz 4 GB Memory 64 GB SSD 10.1\" Ruggedized Tablet Windows 10 Pro 64 Bit",
+    "specs": {
+      "Storage": {
+        "SSD": "64 GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "10.90\" x 7.06\" x 0.62\"",
+        "Weight": "1.90 lbs."
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Brand": "Xplore",
+        "Part Number": "200703",
+        "Model": "CL920"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "IEEE 802.11 ac"
+      },
+      "CPU": {
+        "CPU Speed": "2.16 GHz",
+        "CPU Type": "INTEL: N3540-PQC-2.16GLV"
+      },
+      "Camera": {
+        "Webcam": "Yes"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10 Professional 64-bit"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\""
+      }
+    }
+  },
+  {
+    "itemName": "SAMSUNG Galaxy Tab A SM-T580NZKMXAR Samsung Exynos 7870 (1.60 GHz) 2 GB LPDDR3 Memory 16 GB Flash Storage 10.1\" 1920 x 1200 Tablet PC Android 6.0 (Marshmallow) Black",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "6.5 x 10.6 x 2 inches",
+        "Weight": "1.14 lbs"
+      },
+      "System Memory": {
+        "Memory": "2 GB LPDDR3"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Series": "Galaxy Tab A",
+        "Color": "Black",
+        "Model": "SM-T580NZKMXAR"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "7870 (1.60 GHz)",
+        "CPU Type": "Samsung Exynos",
+        "Number of Cores": "8-core Processor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "8.0 MP"
+      },
+      "Power": {
+        "Battery": "Non-removable Li-Ion 5000 mAh battery"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "SAMSUNG Galaxy Tab A SM-T580-BLK Samsung Exynos 7870 (1.60 GHz) 2 GB Memory 16 GB Flash Storage 10.1\" 1920 x 1200 Tablet Android 6.0 (Marshmallow) Black",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "10.00\" x 6.11\" x 0.32\"",
+        "Weight": "1.16 lbs."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "7870 (1.60 GHz)",
+        "CPU Type": "Samsung Exynos",
+        "Number of Cores": "8-core Processor"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Integrated Graphics",
+        "Video Memory": "Shared system memory"
+      },
+      "Package Contents": {
+        "Package Content": "Galaxy Tab A 10.1\"\nTravel Adapter\nmicroUSB Cable\nQuick Start Guide"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage",
+        "Card Reader": "Micro SD up to 200 GB"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Series": "Galaxy Tab A",
+        "Color": "Black",
+        "Model": "SM-T580-BLK"
+      },
+      "Features": {
+        "Function": "Internet Tablet",
+        "Other Features": "Accelerometer, GPS, Glonass"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP, F2.4",
+        "Rear Camera": "8.0 MP, F2.2 Auto-Focus with flash"
+      },
+      "Audio": {
+        "Audio": "Audio Streaming, Music Player"
+      },
+      "Power": {
+        "Battery Life": "Music Play Time: Up to 187 Hour(s)\nVideo Play Time: Up to 13 Hour(s)\nInternet Use Time: Up to 13 Hour(s)",
+        "Battery": "Li-Ion 7300 mAh"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "Dell Inspiron 11 3000 Series I3180 A361 32GB 11.6\u0027 Laptop AMD A6 4GB Memory Windows 10 Pro 64bit Laptop - Gray",
+    "specs": {
+      "Display": {
+        "Screen Size": "11.6\""
+      }
+    }
+  },
+  {
+    "itemName": "Chuwi Hi9 Air 4G Tablet PC - 10.1 inch, Android 8.0, 4GB RAM 64GB eMMC ROM, MT6797 ( Helio X20 ) Deca Core, Dual WiFi, Dual Cameras, Bluetooth 4.2",
+    "specs": {
+      "Display": {
+        "Screen Size": "10.1\""
+      }
+    }
+  },
+  {
+    "itemName": "Azpen X1150 11\" Windows 10 2-in-1 Tablet Laptop",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "2 - 2.9 lbs."
+      },
+      "Model": {
+        "Color": "Black"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "Input Device": {
+        "Touchpad": "Yes"
+      },
+      "Ports": {
+        "USB": "2",
+        "HDMI": "1 x HDMI"
+      },
+      "Power": {
+        "Battery Life": "\u003e 5 hours"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10"
+      },
+      "Display": {
+        "Screen Size": "11.6\"",
+        "Resolution": "1920 x 1080"
+      }
+    }
+  },
+  {
+    "itemName": "Original Xiaomi Mi Pad 4 MiPad 4 8.0\u0027\u0027 Tablets PC 4GB RAM 64GB ROM Snapdragon 660 Octa Core Face ID 1920x1200 FHD 13.0MP+5.0MP Tablet Android Tablet (Wifi Version)",
+    "specs": {
+      "Group": {
+        "Option": "WiFi"
+      },
+      "Storage": {
+        "Built-in Storage": "64 GB"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Color": "Black"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 5.0"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 8.1"
+      },
+      "Display": {
+        "Screen Size": "8.0\""
+      }
+    }
+  },
+  {
+    "itemName": "SAMSUNG Galaxy Tab E SM-T377AZKAATT Quad Core Processor 1.30 GHz 1.5 GB Memory 16 GB Flash Storage 8.0\" 1280 x 800 Tablet PC Android 6.0 (Marshmallow) Black - AT\u0026T 4G LTE",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "8.35\" x 4.96\" x 0.35\"",
+        "Weight": "0.75 lb."
+      },
+      "System Memory": {
+        "Memory": "1.5 GB"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Series": "Galaxy Tab E",
+        "Color": "Black",
+        "Model": "SM-T377AZKAATT"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.1",
+        "WLAN": "802.11a/b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.30 GHz",
+        "CPU Type": "Quad Core Processor",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP"
+      },
+      "Mobile Connection": {
+        "Service": "AT\u0026T 4G LTE"
+      },
+      "Power": {
+        "Battery": "Li-Ion, 5000 mAh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "8.0\"",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "SAMSUNG Galaxy Tab E SM-T560NZKUXAR Qualcomm APQ8016 (1.20 GHz) 1.5 GB Memory 16 GB Flash Storage 9.6\" 1280 x 800 Tablet Android 5.1 (Lollipop) Black",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.52\" x 5.89\" x 0.38\"",
+        "Weight": "1.21 lbs."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.1",
+        "WLAN": "802.11a/b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "APQ8016 (1.20 GHz)",
+        "CPU Type": "Qualcomm",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "Audio Ports": "3.5 mm Stereo"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 5.1 (Lollipop)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Adreno 306",
+        "Video Memory": "Shared system memory"
+      },
+      "Package Contents": {
+        "Package Content": "Galaxy Tab E, Travel Adapter, microUSB Cable, Quick Start Guide"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage",
+        "Card Reader": "Micro SD up to 128 GB"
+      },
+      "System Memory": {
+        "Memory": "1.5 GB"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Series": "Galaxy Tab E",
+        "Color": "Black",
+        "Model": "SM-T560NZKUXAR"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP"
+      },
+      "Power": {
+        "Battery": "Li-Ion 7300 mAh"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.6\"",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Lenovo Tab3 10 Business Edition ZA0X0018US Tablet MTK 1.30 GHz 2 GB Memory 32 GB Flash Storage 10.1\" IPS Touchscreen 1920 x 1200 Android 6.0 (Marshmallow)",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.72\" x 6.73\" x 0.35\"",
+        "Weight": "1.12 lbs."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "NFC Supported": "Yes",
+        "WLAN": "802.11a/b/g/n/ac, 1x1"
+      },
+      "CPU": {
+        "Tech": "64-bit",
+        "CPU Speed": "MT8161 (1.30 GHz)",
+        "CPU Type": "MTK",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB 2.0"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Integrated Graphics"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB eMMC"
+      },
+      "System Memory": {
+        "Memory": "2 GB",
+        "Memory Speed": "LPDDR3"
+      },
+      "Model": {
+        "Brand": "Lenovo",
+        "Series": "Tab3 10 Business Edition",
+        "Color": "Slate Black",
+        "Model": "ZA0X0018US"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "8.0 MP"
+      },
+      "Audio": {
+        "Audio": "Speaker: Rear Soundbar / Dolby Atmos"
+      },
+      "Power": {
+        "Battery Life": "Up to 17 hours",
+        "Battery": "2-cell (7000mAh) Lithium Ion"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "Display Type": "Full HD",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "LG Electronics LG Gpad X II 16GB LTE Factory Unlocked UK750 10.1\" TFT Display 2GB RAM 6000mAh Battery 5MP Camera Tablet - Black",
+    "specs": {
+      "": {
+        "": ""
+      }
+    }
+  },
+  {
+    "itemName": "Dell Venue 8 16 GB Tablet - 8\" - In-plane Switching (IPS) Technology - Wireless LAN - Intel Atom Z3580",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Graphics Controller Manufacturer Intel Graphics Controller Model HD Graphics"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "12.32 oz"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Dell",
+        "Series": "Venue 8"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "Input Device": {
+        "Touchpad": "Yes"
+      },
+      "CPU": {
+        "CPU Type": "Intel Atom"
+      },
+      "Features": {
+        "Function": "Tablet",
+        "Other Features": "Package Contents:\nVenue 8 Tablet\nAC Adapter\nFlash Memory Capacity:16 GB\nGPS:Yes\nMulti-touch Screen:Yes"
+      },
+      "Camera": {
+        "Webcam": "Yes"
+      },
+      "Power": {
+        "Battery": "1-cell"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 4.4 KitKat"
+      },
+      "Display": {
+        "Screen Size": "8.0\"",
+        "Display Type": "Wide XGA",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Lenovo Tab 10 10.1\" 16GB Tablet Android 6.0 (Marshmallow) Slate Black",
+    "specs": {
+      "System Memory": {
+        "Memory": "16 GB"
+      },
+      "Model": {
+        "Color": "Black"
+      },
+      "Communications": {
+        "Bluetooth": "Yes"
+      },
+      "CPU": {
+        "CPU Speed": "1.30 GHz"
+      },
+      "Operating Systems": {
+        "Operating System": "Android"
+      },
+      "Display": {
+        "Screen Size": "10.1\"",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "LG Electronics LG Gpad X II 16GB LTE Factory Unlocked UK750 10.1\" TFT Display 2GB RAM 6000mAh Battery 5MP Camera Tablet - Black",
+    "specs": {
+      "Group": {
+        "Option": "Tablet Only"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "6.61\" (H) x 10.09\" (W) x 0.26 ~ 0.31\" (D)",
+        "Weight": "17.99 oz"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11 a/b/g/n/ac"
+      },
+      "CPU": {
+        "CPU Speed": "MSM8952 1.5 GHz + 1.2 GHz Octa-Core",
+        "CPU Type": "Qualcomm Snapdragon",
+        "Number of Cores": "8-core Processor"
+      },
+      "Mobile Connection": {
+        "Service": "LTE Version"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0.1 Marshmallow"
+      },
+      "Package Contents": {
+        "Package Content": "LG G Pad X II, USB Cable, Charger, Quick Start Guide"
+      },
+      "Storage": {
+        "SSD": "16 GB",
+        "Built-in Storage": "16 GB Flash Storage"
+      },
+      "System Memory": {
+        "Memory": "16 GB"
+      },
+      "Model": {
+        "Brand": "LG",
+        "Series": "Gpad X II",
+        "Part Number": "LG-UK750",
+        "Color": "Black",
+        "Model": "UK750"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "5.0 MP"
+      },
+      "Power": {
+        "Battery": "Non-Removable Lithium Polymer"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "Display Type": "TFT WUXGA",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "Dell Venue 8 16 GB Tablet - 8\" - In-plane Switching (IPS) Technology - Wireless LAN - Intel Atom Z3580",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Graphics Controller Manufacturer Intel Graphics Controller Model HD Graphics"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "12.32 oz"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Dell",
+        "Series": "Venue 8"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "Input Device": {
+        "Touchpad": "Yes"
+      },
+      "CPU": {
+        "CPU Type": "Intel Atom"
+      },
+      "Features": {
+        "Function": "Tablet",
+        "Other Features": "Package Contents:\nVenue 8 Tablet\nAC Adapter\nFlash Memory Capacity:16 GB\nGPS:Yes\nMulti-touch Screen:Yes"
+      },
+      "Camera": {
+        "Webcam": "Yes"
+      },
+      "Power": {
+        "Battery": "1-cell"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 4.4 KitKat"
+      },
+      "Display": {
+        "Screen Size": "8.0\"",
+        "Display Type": "Wide XGA",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Lenovo Tab 10 10.1\" 16GB Tablet Android 6.0 (Marshmallow) Slate Black",
+    "specs": {
+      "System Memory": {
+        "Memory": "16 GB"
+      },
+      "Model": {
+        "Color": "Black"
+      },
+      "Communications": {
+        "Bluetooth": "Yes"
+      },
+      "CPU": {
+        "CPU Speed": "1.30 GHz"
+      },
+      "Operating Systems": {
+        "Operating System": "Android"
+      },
+      "Display": {
+        "Screen Size": "10.1\"",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "7 Inch TFT Display HD 1080P Quad Core Dual Camera Tablet Bluetooth Wifi 512M+8G Movies Games Tablet for Android",
+    "specs": {
+      "Display": {
+        "Screen Size": "7.0\""
+      }
+    }
+  },
+  {
+    "itemName": "10.1\" inch Android 7.0 2560*1600 IPS Screen Tablet Octa Core MTK6592 RAM 4GB ROM 64GB 3G Dual SIM Card Phone 3G Call Wifi Tablets PC\"",
+    "specs": {
+      "Group": {
+        "Option": "English"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Color": "Rose Gold"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0"
+      },
+      "CPU": {
+        "CPU Type": "MTK",
+        "Number of Cores": "8-core Processor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "8.0 MP"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "Display Type": "HD",
+        "Resolution": "2560 x 1600"
+      }
+    }
+  },
+  {
+    "itemName": "SAMSUNG Galaxy Tab S3 SM-T820NZK/EJ-FT820 Qualcomm APQ8096 (2.15 GHz) 4 GB Memory 32 GB Flash Storage 9.7\" 2048 x 1536 Tablet Bundle with S Pen and Gray Keyboard Cover Android 7.0 (Nougat) Black",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.34\" x 6.65\" x 0.24\"",
+        "Weight": "0.95 lb."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2"
+      },
+      "CPU": {
+        "CPU Speed": "APQ8096 (2.15 GHz)",
+        "CPU Type": "Qualcomm",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x USB 3.1 Type-C",
+        "Audio Ports": "3.5 mm Stereo"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Package Contents": {
+        "Package Content": "Tab S3 9.7\", S Pen, Quick Start Guide, Power Adapter, USB Type-C cable, Gray Keyboard Cover"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage",
+        "Card Reader": "Micro SD up to 256 GB"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Series": "Galaxy Tab S3",
+        "Color": "Black",
+        "Model": "SM-T820NZK/EJ-FT820"
+      },
+      "Input Device": {
+        "Keyboard": "Gray Keyboard Cover"
+      },
+      "Features": {
+        "Other Features": "Sensor Type: Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, RGB Light Sensor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "13.0 MP"
+      },
+      "Power": {
+        "Battery": "Li-Ion 6000 mAh"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.7\"",
+        "LCD Features": "Super AMOLED",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "Samsung - Galaxy TabPro S 2-in-1 12\" Touch-Screen Laptop - Intel Core m3 - 8GB Memory - 256GB Solid State Drive - Gold Tablet Computer Notebook PC Model: SM-W700NZDBXAR",
+    "specs": {
+      "Display": {
+        "Screen Size": "12.0\""
+      }
+    }
+  },
+  {
+    "itemName": "Lenovo Smart Display (10) with the Google Assistant - White, Bamboo",
+    "specs": {
+      "Display": {
+        "Screen Size": "10.0\""
+      }
+    }
+  },
+  {
+    "itemName": "Caterpillar CAT T20 64GB Rugged IP67 Wi-Fi + 4G/LTE Tablet - Black",
+    "specs": {
+      "Package Contents": {
+        "Package Content": "Caterpillar CAT T20 Wi-Fi + 4G Tablet, In Built Battery, Charger and cable, Quick Start Guide, Warranty Statement"
+      },
+      "Storage": {
+        "SSD": "64 GB",
+        "Built-in Storage": "64 GB",
+        "HDD": "64 GB"
+      },
+      "Plug Standards": {
+        "Electrical Outlet Plug Type": "Plug Type “G” (Ireland, UK, Singapore)"
+      },
+      "System Memory": {
+        "Memory": "2 GB",
+        "Memory Spec": "2 GB x 1"
+      },
+      "Model": {
+        "Series": "CAT T20",
+        "Part Number": "T20",
+        "Color": "Black",
+        "Model": "Caterpillar CAT T20 Wi-Fi + 4G"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "Quad-core 1.44 GHz",
+        "CPU Type": "Intel Atom",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Features": {
+        "Package Type": "Retail"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "2 MP"
+      },
+      "Power": {
+        "Battery": "Lithium Ion"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10 Home"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "8.0\"",
+        "Display Type": "IPS LCD touchscreen, 16M colors"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad 9.7\" Retina Display 32GB Wi-Fi Multi-Touch Tablet 5th Gen MP2F2LLA - Space Gray",
+    "specs": {
+      "System Memory": {
+        "Memory": "32 GB"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Color": "Space Gray",
+        "Model": "MP2F2LLA"
+      },
+      "Display": {
+        "Screen Size": "9.7\""
+      }
+    }
+  },
+  {
+    "itemName": "7 inch Tablet PC 512MB 4G Q7 A33 Quad Core For Kids Dual Camera Android Tablet",
+    "specs": {
+      "Model": {
+        "Color": "Green"
+      },
+      "Display": {
+        "Screen Size": "7\""
+      }
+    }
+  },
+  {
+    "itemName": "Samsung Galaxy Tab S4 10.5 256GB (S Pen included), Black",
+    "specs": {
+      "Display": {
+        "Screen Size": "10.5\""
+      }
+    }
+  },
+  {
+    "itemName": "Acer Iconia One 10 B3-A50FHD-K5CZ Tablet - 10.1\" - 2 GB DDR4 SDRAM - MediaTek Cortex A35 MT8167A Quad-core (4 Core) 1.50 GHz - 32 GB - Android 8.1 Oreo - 1920 x 1200 - In-plane Switching (IPS) Tech",
+    "specs": {
+      "Graphics": {
+        "Video Memory": "2 GB"
+      },
+      "Storage": {
+        "Card Reader": "Micro SD"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "1.23 lb"
+      },
+      "System Memory": {
+        "Max Memory Supported": "2 GB",
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Acer",
+        "Series": "Iconia One 10"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "IEEE 802.11a"
+      },
+      "CPU": {
+        "Tech": "Quad-core (4 Core)",
+        "CPU Speed": "1.50 GHz",
+        "CPU Type": "Cortex A35"
+      },
+      "Features": {
+        "Function": "Tablet"
+      },
+      "Camera": {
+        "Rear Camera": "Yes"
+      },
+      "Power": {
+        "Battery": "6100 mAh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android"
+      },
+      "Display": {
+        "Screen Size": "10.1\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "Global ROM Huawei Mediapad M5 Pro 10.8\" Android 8.0 Octa Core Tablet Kirin 960 4GB RAM 64GB 2560x1600 2K IPS 7500mAh Fingerprint (Wifi Version)",
+    "specs": {
+      "": {
+        "": ""
+      }
+    }
+  },
+  {
+    "itemName": "Apple 10.5\" iPad Pro (64GB, Wi-Fi, Space Gray)",
+    "specs": {
+      "Display": {
+        "Screen Size": "10.5\""
+      }
+    }
+  },
+  {
+    "itemName": "Apple - iPad mini 4 Wi-Fi 128GB - Space Gray Model: MK9N2LL/A Tablet PC",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "PowerVR GX6450"
+      },
+      "Optical Drive": {
+        "Optical Drive Type": "No"
+      },
+      "Storage": {
+        "Built-in Storage": "128 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "10.40 oz"
+      },
+      "System Memory": {
+        "Memory": "128 GB"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "Mini",
+        "Color": "Space Gray",
+        "Model": "MK9N2LL/A"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "IEEE 802.11a/b/g/n"
+      },
+      "CPU": {
+        "CPU Speed": "1.50 GHz"
+      },
+      "Features": {
+        "Function": "Tablet"
+      },
+      "Camera": {
+        "Rear Camera": "Yes"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 9"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7.9\"",
+        "Display Type": "LED-backlit Multi-Touch",
+        "LCD Features": "Retina Display",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "Huawei Mediapad M5 Pro 10.8\" Android 8.0 Octa Core Tablet Kirin 960 4GB RAM 64GB 2560x1600 2K IPS 7500mAh Fingerprint (Wifi Version)",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Mali G71 MP8"
+      },
+      "Group": {
+        "Option": "WiFi"
+      },
+      "Storage": {
+        "Built-in Storage": "64 GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "about 498g"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Brand": "Huawei",
+        "Color": "Gold"
+      },
+      "Communications": {
+        "Bluetooth": "BT4.2",
+        "WLAN": "Supports 2.4GHz\u00265GHz**, 802.11 a/b/g/n/ac"
+      },
+      "CPU": {
+        "CPU Speed": "4×A73,2.4GHz + 4×A53,1.8GHz",
+        "CPU Type": "HUAWEI Kirin 960 octa-core +Micro Smart Core i6"
+      },
+      "Features": {
+        "Function": "258.7 mm x 171.8 mm x 7.3mm"
+      },
+      "Power": {
+        "Battery": "7500 mAh Lithium Polymer Battery(Typical ),Can not be replaced"
+      },
+      "Operating Systems": {
+        "Operating System": "EMUI8.0,Android 8.0"
+      },
+      "Display": {
+        "Screen Size": "10.8\"",
+        "Resolution": "2560 x 1600 pixels"
+      }
+    }
+  },
+  {
+    "itemName": "Lenovo P8 (TAB3 8 Plus) 8.0 inch Tablet PC Android 6.0 Snapdragon 625 Octa Core 2.0GHz 3GB RAM 16GB ROM, Dark Blue",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Adreno 506"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "8.19 x 4.84 x 0.35 inches",
+        "Weight": "0.3260 kg"
+      },
+      "System Memory": {
+        "Memory": "3 GB"
+      },
+      "Model": {
+        "Brand": "Lenovo",
+        "Color": "Dark Blue",
+        "Model": "P8 ( TAB3 8 Plus )"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11 b/g/n/ac"
+      },
+      "CPU": {
+        "CPU Speed": "2.0GHz",
+        "CPU Type": "Qualcomm Snapdragon 625",
+        "Number of Cores": "Octa Core"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Display": {
+        "Screen Size": "8.0\"",
+        "Display Type": "Full HD",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "2017 New iPad Pro Bundle (3 Items): Apple 10.5 inch iPad Pro with Wi-Fi 512 GB Gold, Apple Pencil and Mytrix USB Apple Lightning Cable",
+    "specs": {
+      "Package Contents": {
+        "Package Content": "iPad Pro, Lightning to USB Cable, USB Power Adaptor"
+      },
+      "Storage": {
+        "SSD": "512 GB",
+        "Built-in Storage": "512 GB SSD"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.8\" x 6.8\" x 0.24\" (248 x 172 x 6mm)",
+        "Weight": "10.2 oz (289 g)"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "iPad Po",
+        "Part Number": "ipadPro_512Gold",
+        "Color": "Gold"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2"
+      },
+      "CPU": {
+        "CPU Type": "A10X"
+      },
+      "Ports": {
+        "Audio Ports": "1 x Headphone/Microphone Combo Jack"
+      },
+      "Features": {
+        "Other Features": "Smart Connector, Nano-SIM tray"
+      },
+      "Camera": {
+        "Front-Facing Camera": "7 MP",
+        "Rear Camera": "12.0 MP",
+        "Webcam": "Yes"
+      },
+      "Power": {
+        "Battery Life": "\u003e 5 hours"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 10"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.5\"",
+        "Display Type": "Retina Display",
+        "Resolution": "2224 x 1680"
+      }
+    }
+  },
+  {
+    "itemName": "7\u0027\u0027 inch Quad Core HD Tablet for Kids Android 4.4 KitKat Dual Camera WiFi Pink",
+    "specs": {
+      "System Memory": {
+        "Memory": "8 GB"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 4.4 (KitKat)"
+      },
+      "Display": {
+        "Screen Size": "7.0\""
+      }
+    }
+  },
+  {
+    "itemName": "Acer Iconia One 8 B1-870-K7MZ Tablet - 8\" - 1 GB DDR3L SDRAM - MediaTek Cortex A35 MT8167B Quad-core (4 Core) 1.30 GHz - 16 GB - Android 7.0 Nougat - 1280 x 800 - In-plane Switching (IPS) Technology",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Weight": "11.99 oz"
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "Acer",
+        "Series": "Iconia One 8",
+        "Model": "B1-870-K7MZ"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.30 GHz",
+        "CPU Type": "Cortex A35"
+      },
+      "Features": {
+        "Function": "Tablet",
+        "Other Features": "Flash Memory Capacity:16 GB\nPackage Contents:\nIconia One 8 B1-870-K7MZ Tablet\nAC Adapter"
+      },
+      "Camera": {
+        "Webcam": "Yes"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 Nougat"
+      },
+      "Display": {
+        "Screen Size": "8\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Huawei MediaPad M5 Tablets, 10.8 inch, 4GB+64GB, Hisilicon Kirin 960S Octa Core + Micro Nuclei i6, 4 x A73 2.1GHz + 4 x A53 1.8GHz, OTG, GPS, Dual Band WiFi",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "258.7*171.8*7.3mm",
+        "Weight": "498g"
+      },
+      "Communications": {
+        "Bluetooth": "V4.2",
+        "WLAN": "802.11a, 802.11b, 802.11g, 802.11n, 802.11ac, 2.4GHz/5GHz"
+      },
+      "CPU": {
+        "CPU Speed": "2.1GHz + 4 x A53 1.8GHz",
+        "CPU Type": "Hisilicon Kirin 960S Octa Core + Micro Nuclei i6",
+        "Number of Cores": "Octa Core"
+      },
+      "Ports": {
+        "Card Slot": "TF / Micro SD Card up to 256GB (not included)"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 8.0"
+      },
+      "Graphics": {
+        "GPU/VPU": "Mali G71 MP8"
+      },
+      "Package Contents": {
+        "Package Content": "1 x Tablet PC 1 x Eject pin 1 x USB cable 1 x US Plug Power adapter 1 x USB Type-C to 3.5mm adapter cable"
+      },
+      "Storage": {
+        "HDD RPM": "Professional Mode, Panorama, HDR, Filter, Watermark, Night Shot, Light Painting, Time Lapse, Document Scan, Full Focus",
+        "HDD Interface": "1 x TF Card Slot 1 x Type-C"
+      },
+      "Model": {
+        "Brand": "Huawei",
+        "Color": "Black",
+        "Model": "MediaPad M5 CMR-W09"
+      },
+      "Input Device": {
+        "Touchpad": "Yes"
+      },
+      "Features": {
+        "Function": "G-sensor, Light Sensor, Gyro, Compass, GPS, OTG, Calendar, Calculator, Recorder, Fingerprint sensor, Status Indicator"
+      },
+      "Camera": {
+        "Rear Camera": "13.0MP"
+      },
+      "Power": {
+        "Battery Life": "Charging Time: 2.9 hours Standby Time: 38 days",
+        "Battery": "7500mAh"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.8\"",
+        "Display Type": "IPS Capacitive Screen",
+        "Resolution": "2560 x 1600"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro Apple A9X 2 GB Memory 256 GB SSD 9.7\" 2048 x 1536 Tablet iOS 9 Silver",
+    "specs": {
+      "Group": {
+        "Option": "No"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.40\" x 6.70\" x 0.20\"",
+        "Weight": "0.98 lb."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Type": "Apple A9X"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 9"
+      },
+      "Graphics": {
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "SSD": "No",
+        "Built-in Storage": "256 GB SSD",
+        "HDD": "No"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Part Number": "MLN02LL/A",
+        "Color": "Silver",
+        "Model": "iPad Pro"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "12.0 MP"
+      },
+      "Power": {
+        "Battery Life": "Up to 9 Hour(s)",
+        "Battery": "Built-In Lithium-Polymer"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.7\"",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "Apple 9.7\" iPad (Early 2018, 32GB, Wi-Fi + 4G LTE, Space Gray)",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "PowerVR Series7XT Plus (six-core graphics)"
+      },
+      "Chipset": {
+        "Chipset": "Apple A10 Fusion"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "1.05 lb"
+      },
+      "System Memory": {
+        "Memory": "32 GB"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "iPad 6th Generation",
+        "Part Number": "MR6Y2LL/A",
+        "Color": "Space Gray"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot"
+      },
+      "CPU": {
+        "CPU Speed": "2.34GHz",
+        "CPU Type": "Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr)",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Features": {
+        "Function": "Internet Tablet"
+      },
+      "Camera": {
+        "Front-Facing Camera": "1.2 MP",
+        "Rear Camera": "8.0 MP",
+        "Webcam": "Yes"
+      },
+      "Power": {
+        "Battery Life": "Up to 10 h",
+        "Battery": "Non-removable Li-Ion battery (32.4 Wh)"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 11.3"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.7\"",
+        "Display Type": "Retina Display",
+        "LCD Features": "LED-backlit IPS LCD",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "Global Firmware Huawei Mediapad M5 10.8 inch Android 8.0 2K IPS Octa Core Tablet Kirin960s 4GB RAM 32GB ROM 2560x1600 (Wifi Version)",
+    "specs": {
+      "Group": {
+        "Option": "WiFi"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Color": "Gold"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 8.0 (Oreo)"
+      },
+      "Display": {
+        "Screen Size": "10.8\"",
+        "Resolution": "2560 x 1600"
+      }
+    }
+  },
+  {
+    "itemName": "Huawei MediaPad M5 Pro CMR-AL19, Hisilicon Kirin 960 Octa Core + Micro Nuclei i6, Face Identification \u0026 Fingerprint Navigation",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Mali G71 MP8"
+      },
+      "Package Contents": {
+        "Package Content": "1 x Tablet PC 1 x Eject pin 1 x USB cable 1 x US Plug Power adapter 1 x USB Type-C to 3.5mm adapter cable"
+      },
+      "Storage": {
+        "SSD": "4GB",
+        "HDD": "64GB",
+        "HDD Interface": "1 x TF Card Slot /1 x Type-C"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "258.7*171.8*7.3mm",
+        "Weight": "498g"
+      },
+      "Model": {
+        "Brand": "Huawei",
+        "Color": "Blue",
+        "Model": "CMR-AL19 4GB+64GB"
+      },
+      "Communications": {
+        "Bluetooth": "V4.2",
+        "WLAN": "802.11a, 802.11b, 802.11g, 802.11n, 802.11ac, 2.4GHz/5GHz"
+      },
+      "CPU": {
+        "CPU Support": "Hisilicon Kirin 960S Octa Core + Micro Nuclei i6",
+        "CPU Type": "HiSilicon Kirin",
+        "Number of Cores": "8-core Processor"
+      },
+      "Camera": {
+        "Rear Camera": "13.0MP"
+      },
+      "Power": {
+        "Battery Life": "38 days",
+        "Battery": "7500mAh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 8.0"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.8\"",
+        "Display Type": "IPS Capacitive Screen",
+        "Resolution": "2560 x 1600"
+      }
+    }
+  },
+  {
+    "itemName": "Azpen A746 7\" Android Tablet with Leather Case 8GB Quad Core",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "8 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "\u003c 2lbs"
+      },
+      "Model": {
+        "Brand": "Azpen",
+        "Color": "Black"
+      },
+      "Communications": {
+        "Bluetooth": "No",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.30 GHz",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "HDMI": "No"
+      },
+      "Camera": {
+        "Front-Facing Camera": "0.3 MP"
+      },
+      "Power": {
+        "Battery Life": "3~5hours"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 4.4 (KitKat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7\"",
+        "Display Type": "HD",
+        "Resolution": "1024 x 600"
+      }
+    }
+  },
+  {
+    "itemName": "Huawei MediaPad T3 53018231 MTK MT8127 (1.30 GHz) 1 GB Memory 16 GB Flash Storage 7\" 1024 x 600 Tablet PC Android M + EMUI 4.1 Lite - Gray",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage"
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "Huawei",
+        "Series": "MediaPad T3",
+        "Color": "Gray",
+        "Model": "53018231"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.1",
+        "WLAN": "802.11a/b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "MT8127 (1.30 GHz)",
+        "CPU Type": "MTK",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Features": {
+        "Other Features": "Gravity sensor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "2 MP"
+      },
+      "Power": {
+        "Battery": "3000 mAh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android M + EMUI 4.1 Lite"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1024 x 600"
+      }
+    }
+  },
+  {
+    "itemName": "Lenovo Tab 4 10 Plus ZA2T0003US Qualcomm Snapdragon 625 MSM8953 (2.0 GHz) 4 GB Memory 64 GB eMMC 10.1\" 1920 x 1200 Tablet PC (Wi-Fi + 4G LTE) Android 7.1 (Nougat) Slate Black",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.72\" x 6.81\" x 0.28\"",
+        "Weight": "1.06 lbs."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11 a/b/g/n/ac, Dual-Band (2.4 GHz \u0026 5 GHz)"
+      },
+      "CPU": {
+        "CPU Speed": "MSM8953 (2.0 GHz)",
+        "CPU Type": "Qualcomm Snapdragon 625",
+        "Number of Cores": "8-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x USB 2.0 Type-C",
+        "Audio Ports": "1 x Headphone/Microphone Combo Jack"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi + 4G"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.1 (Nougat)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Adreno 506",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "64 GB eMMC",
+        "Card Reader": "Micro SD up to 128 GB"
+      },
+      "System Memory": {
+        "Memory": "4 GB",
+        "Memory Spec": "4 GB onboard"
+      },
+      "Model": {
+        "Brand": "Lenovo",
+        "Series": "Tab 4 10 Plus",
+        "Color": "Slate Black",
+        "Model": "ZA2T0003US"
+      },
+      "Features": {
+        "Other Features": "Fingerprint Reader"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP Fixed-Focus",
+        "Rear Camera": "8 MP Auto-Focus"
+      },
+      "Audio": {
+        "Audio": "2 x Front-facing speakers / Dolby Atmos"
+      },
+      "Power": {
+        "Battery": "7000 mAh"
+      },
+      "Display": {
+        "Touchscreen": "10-point Multi-touch",
+        "Screen Size": "10.1\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "Huawei MediaPad M5 CMR-W0910.8 inch 4GB+64GB Face Identification \u0026 Fingerprint Navigation",
+    "specs": {
+      "Group": {
+        "Option": "Fingerprint Reader"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "258.7*171.8*7.3mm",
+        "Weight": "498g"
+      },
+      "Communications": {
+        "Bluetooth": "V4.2",
+        "WLAN": "802.11a, 802.11b, 802.11g, 802.11n, 802.11ac, 2.4GHz/5GHz"
+      },
+      "CPU": {
+        "CPU Speed": "2.1GHz + 4 x A53 1.8GHz",
+        "CPU Type": "HiSilicon Kirin",
+        "Number of Cores": "Octa Core"
+      },
+      "Ports": {
+        "Card Slot": "TF / Micro SD Card up to 256GB (not included)"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 8.0"
+      },
+      "Graphics": {
+        "GPU/VPU": "Mali G71 MP8"
+      },
+      "Package Contents": {
+        "Package Content": "1 x Tablet PC 1 x Eject pin 1 x USB cable 1 x US Plug Power adapter 1 x USB Type-C to 3.5mm adapter cable"
+      },
+      "Storage": {
+        "HDD RPM": "Professional Mode, Panorama, HDR, Filter, Watermark, Night Shot, Light Painting, Time Lapse, Document Scan, Full Focus",
+        "HDD Interface": "x TF Card Slot 1 x Type-C"
+      },
+      "System Memory": {
+        "Memory": "64 GB"
+      },
+      "Model": {
+        "Brand": "Huawei",
+        "Color": "Black",
+        "Model": "MediaPad M5 CMR-W09"
+      },
+      "Input Device": {
+        "Touchpad": "Yes"
+      },
+      "Camera": {
+        "Rear Camera": "13.0MP"
+      },
+      "Power": {
+        "Battery Life": "Charging Time: 2.9 hours Standby Time: 38 days",
+        "Battery": "7500mAh"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.8\"",
+        "Display Type": "IPS Capacitive Screen",
+        "Resolution": "2560 x 1600"
+      }
+    }
+  },
+  {
+    "itemName": "RCA 11 MAVEN PRO 11.6\" 32G Android 5.0 Tablet with Detachable Keyboard 1366 x 768 IPS Display (PURPLE)",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Weight": "3 - 3.9 lbs."
+      },
+      "Model": {
+        "Color": "Purple"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 5.0 (Lollipop)"
+      },
+      "Display": {
+        "Screen Size": "11\"",
+        "Resolution": "1366 x 768"
+      }
+    }
+  },
+  {
+    "itemName": "iView 1070TPC-Bk Quad Core Cortex A53 1.20 GHz 1 GB Memory 16 GB Flash Storage 10.1\" 1024 x 600 Tablet PC Android 6.0",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage",
+        "HDD": "16 GB",
+        "Card Reader": "Micro SD"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "10.30\" x 6.47\" x 0.43\"",
+        "Weight": "\u003c 2lbs"
+      },
+      "System Memory": {
+        "Memory": "1 GB",
+        "Memory Spec": "1 GB x 1"
+      },
+      "Model": {
+        "Brand": "iView",
+        "Series": "A53 Series",
+        "Part Number": "1070tpc-bk",
+        "Color": "Black",
+        "Model": "1070tpc"
+      },
+      "CPU": {
+        "CPU Speed": "1.20 GHz",
+        "CPU Type": "A53",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "HDMI": "1 x HDMI"
+      },
+      "Camera": {
+        "Front-Facing Camera": "0.3 MP",
+        "Rear Camera": "2 MP",
+        "Webcam": "Yes"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "Resolution": "1024 x 600"
+      }
+    }
+  },
+  {
+    "itemName": "Acer Iconia One 7 B1-7A0-K78B MTK MT8167B (1.30 GHz) 1 GB Memory 16 GB eMMC 7\" 1024 x 600 Tablet PC Android 7.0 (Nougat)",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "16 GB eMMC"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "7.44\" x 4.30\" x 0.37\"",
+        "Weight": "0.60 lb."
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "Acer",
+        "Series": "Iconia One 7",
+        "Part Number": "NT.LELAA.001",
+        "Color": "White",
+        "Model": "B1-7A0-K78B"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "MT8167B (1.30 GHz)",
+        "CPU Type": "MTK"
+      },
+      "Camera": {
+        "Front-Facing Camera": "0.3 MP",
+        "Rear Camera": "2 MP"
+      },
+      "Power": {
+        "Battery": "2780 mAh Li-polymer"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1024 x 600"
+      }
+    }
+  },
+  {
+    "itemName": "Worry Free Gadgets Zeepad 9XN-Q-BLK Allwinner A33 Cortex A7 1.30 GHz 512 MB Memory 8 GB Flash Storage 9.0\" 1024 x 600 Tablet Android 4.4 (KitKat) Black",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Mali 400 MP2"
+      },
+      "Storage": {
+        "Built-in Storage": "8 GB Flash Storage",
+        "Card Reader": "Micro SD"
+      },
+      "System Memory": {
+        "Memory": "512 MB"
+      },
+      "Model": {
+        "Brand": "Worry Free Gadgets",
+        "Series": "Zeepad",
+        "Color": "Black",
+        "Model": "9XN-Q-BLK"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.30 GHz",
+        "CPU Type": "Allwinner A33 Cortex A7",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "0.3 MP",
+        "Rear Camera": "2 MP"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 4.4 (KitKat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.0\"",
+        "Resolution": "1024 x 600"
+      }
+    }
+  },
+  {
+    "itemName": "Apple 9.7\" iPad Bundle (Early 2018, 32GB, Wi-Fi Only, Space Gray) MR7F2LL/A + Apple Pencil",
+    "specs": {
+      "Display": {
+        "Screen Size": "9.7\""
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad 9.7\" Wi-Fi 32GB - Silver, 2017",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "iPad",
+        "Color": "Silver",
+        "Model": "MP2G2LL/A"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac"
+      },
+      "CPU": {
+        "CPU Speed": "1.84 GHz",
+        "CPU Type": "Dual-core (Twister)"
+      },
+      "Ports": {
+        "USB": "2.0"
+      },
+      "Features": {
+        "Other Features": "Fingerprint (front-mounted), accelerometer, gyro, compass, barometer"
+      },
+      "Camera": {
+        "Front-Facing Camera": "1.2 MP",
+        "Rear Camera": "8 MP"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.7\"",
+        "Display Type": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
+        "Resolution": "1536 x 2048"
+      }
+    }
+  },
+  {
+    "itemName": "NuVision 8\" IPS 16GB Android 5.0 WiFi Tablet, Intel Quad Core Processor - Black",
+    "specs": {
+      "Model": {
+        "Brand": "NuVision",
+        "Color": "Black",
+        "Model": "TM800A550L"
+      },
+      "Display": {
+        "Screen Size": "8.0\""
+      }
+    }
+  },
+  {
+    "itemName": "Apple 9.7 Inch iPad (Early 2018 Version, 128GB, Wi-Fi Only, Silver) MR7K2LL/A - Standard Bundle w/ Apple Airpods",
+    "specs": {
+      "System Memory": {
+        "Memory": "128 GB"
+      },
+      "Model": {
+        "Color": "Silver"
+      },
+      "Display": {
+        "Screen Size": "9.7\""
+      }
+    }
+  },
+  {
+    "itemName": "Apple 9.7\" iPad with WiFi + Cellular, 32GB, Gold (2017 Model)",
+    "specs": {
+      "Group": {
+        "Option": "WiFi + Cellular"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "iPad 5th Gen",
+        "Color": "Gold",
+        "Model": "MPG42LL/A"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "Wi-Fi (802.11a/b/g/n/ac); dual band (2.4GHz and 5GHz); HT80 with MIMO"
+      },
+      "CPU": {
+        "CPU Speed": "1.65 GHz"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Camera": {
+        "Front-Facing Camera": "1.2MP FaceTime HD camera",
+        "Rear Camera": "8MP"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 11"
+      },
+      "Display": {
+        "Screen Size": "9.7\"",
+        "LCD Features": "9.7-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+        "Resolution": "2048x1536"
+      }
+    }
+  },
+  {
+    "itemName": "11.6 inch Metal case Tablet Android 7.0 GPS 1290X1080 IPS Bluetooth 4.0 Wireless WiFi MediaTek MT6592 2.5 Eight-core processor 2.0 GHZ RAM 4GB DDR4 32GB EMMC 4G Phone Call Tablets PC",
+    "specs": {
+      "Group": {
+        "Option": "FHD"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB eMMC"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Brand": "11.6 inch Metal case Tablet Android 7.0 GPS 1290X1080 IPS Bluetooth 4.0 Wireless WiFi MediaTek MT6592 2.5 Eight-core processor 2.0 GHZ RAM 4GB DDR4 32GB EMMC 4G Phone Call Tablets PC",
+        "Color": "Silver"
+      },
+      "Display": {
+        "Screen Size": "11.6\""
+      }
+    }
+  },
+  {
+    "itemName": "Huawei MediaPad M5 Pro CMR-AL19 10.8 inch 4GB+64GB With Face Identification",
+    "specs": {
+      "Group": {
+        "Option": "Fingerprint Reader"
+      },
+      "Chipset": {
+        "Chipset": "Hisilicon Kirin 960 Octa Core + Micro Nuclei i6"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "258.7*171.8*7.3mm",
+        "Weight": "258.7*171.8*7.3mm"
+      },
+      "Communications": {
+        "Bluetooth": "V4.2",
+        "LAN": "Band (3G): TD-SCDMA 1880-1920(B39)/2010-2025(B34)MHz GSM 850(B5)/900(B8)/1800(B3)/1900(B2)MHz FDD-LTE 700(B17\u0026B12)/800(B26\u0026B20\u0026B19\u0026B18)/850(B5)/900(B8)/1700(B4)/1800(B3)/1900(B2)/2100(B1)/2600(B7)MHz WCDMA 800(B8)/850(B5\u0026B6)/900(B8)/1900(B2)/2100(B1)MHz TDD-LTE 2010-2025(B34)/1880-1920(B39)/2300-2400(B40)/2570-2620(B38)/2555MHz-2655(B41)MHz",
+        "WLAN": "802.11a, 802.11b, 802.11g, 802.11n, 802.11ac, 2.4GHz/5GHz"
+      },
+      "CPU": {
+        "CPU Support": "Hisilicon Kirin",
+        "CPU Speed": "4 x A73 2.4GHz + 4 x A53 1.8GHz",
+        "CPU Type": "Hisilicon Kirin 960 Octa Core + Micro Nuclei i6",
+        "Number of Cores": "Octa Core"
+      },
+      "Ports": {
+        "Card Slot": "TF / Micro SD Card up to 256GB (not included)"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 8.0"
+      },
+      "Graphics": {
+        "GPU/VPU": "Mali G71 MP8"
+      },
+      "Package Contents": {
+        "Package Content": "1 x Tablet PC 1 x Eject pin 1 x Stylus pen 1 x USB cable 1 x US Plug Power adapter 1 x USB Type-C to 3.5mm adapter cable"
+      },
+      "Storage": {
+        "SSD": "4GB",
+        "Built-in Storage": "64 GB",
+        "HDD": "64GB"
+      },
+      "System Memory": {
+        "Max Memory Supported": "TF / Micro SD Card up to 256GB (not included)",
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Brand": "Huawei",
+        "Color": "Black",
+        "Model": "CMR-AL19 4GB+64GB"
+      },
+      "Input Device": {
+        "Touchpad": "Yes"
+      },
+      "Features": {
+        "Function": "Professional Mode, Panorama, HDR, Filter, Watermark, Night Shot, Light Painting, Time Lapse, Document Scan, Full Focus"
+      },
+      "Camera": {
+        "Front-Facing Camera": "8.0MP",
+        "Rear Camera": "13.0MP"
+      },
+      "Power": {
+        "Battery Life": "7500mAh, Quick Charge 9 V / 2 A",
+        "Battery": "Non-detachable Li-Polymer"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.8\"",
+        "Display Type": "IPS Capacitive Screen",
+        "Resolution": "2560 x 1600"
+      }
+    }
+  },
+  {
+    "itemName": "Dell Venue 7 3740 7\" Intel 1.6GHz 1GB RAM 10GB ROM Android KitKat Tablet 3D20D CN-03D20D",
+    "specs": {
+      "": {
+        "": ""
+      }
+    }
+  },
+  {
+    "itemName": "ASUS MeMO Pad FHD 10 (ME302C-A1-WH) Intel Atom Z2560 2GB DDR2 Memory 16GB Flash 10.0\" Touchscreen Tablet Android 4.2 (Jelly Bean)",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "10.42\"(W) x 7.18\"(D) x 0.37\"(H)",
+        "Weight": "1.28 lb"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 3.0",
+        "WLAN": "802.11a/b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "Z2560 (1.60 GHz)",
+        "CPU Type": "Intel Atom"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB",
+        "HDMI": "1 x Micro HDMI"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 4.2 (Jelly Bean)"
+      },
+      "Graphics": {
+        "GPU/VPU": "PowerVR SGX544"
+      },
+      "Storage": {
+        "HDD": "16GB Flash",
+        "Card Reader": "Micro SD"
+      },
+      "System Memory": {
+        "Memory": "2GB DDR2"
+      },
+      "Model": {
+        "Brand": "ASUS",
+        "Series": "MeMO Pad",
+        "Part Number": "ME302C-A1-WH",
+        "Color": "White",
+        "Model": "FHD 10 (ME302C-A1-WH)"
+      },
+      "Features": {
+        "Function": "Internet Tablet",
+        "Other Features": "GPS (supports Glonass)\nG-Sensor\nGyroscope\nE-compass\nAmbient Light Sensor\nNot all colors are available in the US (Pink is not available in US)"
+      },
+      "Camera": {
+        "Webcam": "5 MP Rear , 1.2 MP front"
+      },
+      "Audio": {
+        "Audio": "Stereo speaker 1.5W x 2"
+      },
+      "Power": {
+        "Battery": "25Wh, 6760mAh, non-removable polymer battery"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.0\"",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "Azpen G1058 3G/4G/LTE Unlocked Tablet with Bluetooth Keyboard Case 16GB Dual-SIM card slots 10.1 inch 1280 x 800 HD IPS LCD Quad Core Android 6.0 GPS 5MP Cameras",
+    "specs": {
+      "Group": {
+        "Option": "Tablet Only"
+      },
+      "Optical Drive": {
+        "Optical Drive Type": "No"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "10.3” x 6.9” x 0.31”",
+        "Weight": "2.5"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "IEEE 802.11b/g/n"
+      },
+      "CPU": {
+        "Tech": "Quad-core (4 Core)",
+        "CPU Speed": "1.30 GHz",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB 3.0",
+        "Card Slot": "Two Sim Card Slot"
+      },
+      "Mobile Connection": {
+        "Service": "LTE Version"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Mali-T720 MP2",
+        "Video Memory": "8 GB"
+      },
+      "Storage": {
+        "Card Reader": "Micro SD"
+      },
+      "System Memory": {
+        "Max Memory Supported": "1 GB",
+        "Memory Slot (Available)": "1",
+        "Memory": "1 GB",
+        "Memory Speed": "DDR3 SDRAM",
+        "Memory Slot (Total)": "Micro SD Card Slot"
+      },
+      "Model": {
+        "Brand": "Azpen",
+        "Part Number": "G1058",
+        "Color": "Silver",
+        "Model": "G1058"
+      },
+      "Features": {
+        "Package Type": "Retail",
+        "Function": "Unlocked 4G LTE Tablet",
+        "Other Features": "GPS FM Radio"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5MP",
+        "Webcam": "Yes"
+      },
+      "Power": {
+        "Battery": "6000 mAh"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "Display Type": "Full HD",
+        "LCD Features": "LED backlight \u0026 BrightView",
+        "Resolution": "1200 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad mini 2 ME276LL/A (16GB, Wi-Fi, Black with Space Gray)",
+    "specs": {
+      "Model": {
+        "Brand": "Apple",
+        "Model": "iPad mini 2"
+      },
+      "Display": {
+        "Screen Size": "15.6\""
+      }
+    }
+  },
+  {
+    "itemName": "2015 Newest Apple iPad Pro 12.9-inch Tablet Multi-Touch Digitizer 2732 x 2048 QHD 3K Retina Screen Digitizer Penabled W/ Extra All-in-One Travel Charger (128GB, Cellular, Silver)",
+    "specs": {
+      "Group": {
+        "Option": "No"
+      },
+      "Optical Drive": {
+        "Optical Drive Type": "No",
+        "Optical Drive Interface": "External"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "12 x 8.68 x 0.27",
+        "Weight": "\u003c 2lbs"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.1",
+        "NFC Supported": "Yes",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU L2 Cache": "3MB",
+        "CPU Support": "3 MB Smart Cache",
+        "Tech": "64-bit",
+        "CPU Speed": "2.26 GHz",
+        "CPU L3 Cache": "8 MB",
+        "CPU Type": "Apple A9X",
+        "Number of Cores": "Dual-core Processor",
+        "CPU FSB": "2133 Mhz"
+      },
+      "Ports": {
+        "DisplayPort": "1",
+        "Audio Ports": "1 x Headphone/Microphone Combo Jack"
+      },
+      "Mobile Connection": {
+        "Service": "LTE Version"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 9"
+      },
+      "Graphics": {
+        "Video Memory": "Shared system memory"
+      },
+      "Package Contents": {
+        "Package Content": "1 set of Cytrix Technolgy All in One Travel Charger, Cytrix Technology World Wide UL certified USB Wall Charger, MFI certified Lightning Cable, Apple iPad Pro"
+      },
+      "Storage": {
+        "SSD": "128 GB",
+        "HDD": "No"
+      },
+      "Plug Standards": {
+        "Electrical Outlet Plug Type": "Plug Type â€œAâ€ (USA, Canada, Mexico, Japan)"
+      },
+      "System Memory": {
+        "Max Memory Supported": "4 GB",
+        "Memory Slot (Available)": "0",
+        "Memory": "4 GB",
+        "Memory Speed": "DDR3L 1866",
+        "Memory Slot (Total)": "1",
+        "Memory Type": "1 x SO-DIMM"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "iPad Pro",
+        "Part Number": "ML3N2LL/A",
+        "Color": "Silver",
+        "Model": "ML3N2LL/A"
+      },
+      "Input Device": {
+        "Touchpad": "Yes",
+        "Keyboard": "Standard"
+      },
+      "Features": {
+        "Package Type": "Retail",
+        "Function": "Tablet PC"
+      },
+      "Audio": {
+        "Audio": "Integrated Sound card"
+      },
+      "Power": {
+        "Battery Life": "\u003e 5 hours",
+        "Battery": "Lithium Polymer",
+        "AC Adapter": "10-watt AC adapter"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "12.9\"",
+        "Display Type": "2732x2048",
+        "LCD Features": "12.9\" 2732 x 2048 Retina Display with Photo Alignment Oxide TFT Variable Refresh Rate Digitizer Penabled",
+        "Resolution": "2732x2048"
+      }
+    }
+  },
+  {
+    "itemName": "Chuwi Hi10 Pro 10.1\" Windows 10 Android 5.1 Dual OS Tablet PC 4GB RAM 64GB ROM Intel Cherry Quad Core with Type C HDMI Bluetooth 4.0 Ultrabook",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Intel HD Graphics Gen 8 Processor, 500MHz"
+      },
+      "Model": {
+        "Brand": "Chuwi",
+        "Model": "Hi10 Pro"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "Wi-Fi 802.11n/b/g,2.4GHz"
+      },
+      "CPU": {
+        "Tech": "64-bit",
+        "CPU Speed": "1.44GHz, max up to 1.92GHz",
+        "CPU Type": "Intel Atom X5 Z8350",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "HDMI": "HDMI 1.4"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2.0MP",
+        "Rear Camera": "2.0MP"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10+Android 5.1"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "Display Type": "Full HD",
+        "Resolution": "1920*1200 IPS"
+      }
+    }
+  },
+  {
+    "itemName": "Worry Free Gadgets 7DRK-IP-BLK Allwinner A33 Cortex A7 512 MB Memory 4 GB Flash Storage 7\" 1280 x 800 Tablet PC Android 4.4.2 (KitKat) Black",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Mali 400 MP2"
+      },
+      "Storage": {
+        "Built-in Storage": "4 GB Flash Storage",
+        "Card Reader": "Micro SD"
+      },
+      "System Memory": {
+        "Memory": "512 MB"
+      },
+      "Model": {
+        "Brand": "Worry Free Gadgets",
+        "Color": "Black",
+        "Model": "7DRK-IP-BLK"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Type": "Allwinner A33 Cortex A7",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "0.3 MP",
+        "Rear Camera": "2 MP"
+      },
+      "Power": {
+        "Battery": "3000 mAh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 4.4.2 (KitKat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Chuwi CoreBook 2 in 1 Tablet PC with Keyboard and Stylus Pen - 13.3 inch, Windows 10 Home Version, 8GB RAM 128GB SSD ROM, Intel Dual Core 2.4GHz, Dual WiFi, Double Cameras, Type-C",
+    "specs": {
+      "Display": {
+        "Screen Size": "13.3\""
+      }
+    }
+  },
+  {
+    "itemName": "CHUWI Hi9 Pro, 8.4 inch, 3GB+32GB, Helio X20, Decade Core 2 x A72 2.3GHz + 4 x A53 1.9GHz + 4 x A53 1.7GHz, Network: 4G, WiFi, Bluetooth, OTG, GPS, Dual SIM",
+    "specs": {
+      "Optical Drive": {
+        "Optical Drive Interface": "1 x Micro SIM Card Slot 1 x Micro SIM / TF Card Slot 1 x 3.5mm Earphone Port 1 x Type-C"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "217.4*128.9*7.9mm",
+        "Weight": "550g"
+      },
+      "Communications": {
+        "Bluetooth": "V4.1",
+        "LAN": "802.11a, 802.11b, 802.11g, 802.11n, 802.11ac, 2.4GHz/5GHz",
+        "WLAN": "802.11a, 802.11b, 802.11g, 802.11n, 802.11ac, 2.4GHz/5GHz"
+      },
+      "CPU": {
+        "Tech": "4G",
+        "CPU Speed": "Decade Core 2 x A72 2.3GHz + 4 x A53 1.9GHz + 4 x A53 1.7GHz",
+        "CPU Type": "MTK6797 (Helio X20) Decade Core",
+        "Number of Cores": "Decade Core"
+      },
+      "Ports": {
+        "Audio Ports": "1 x 3.5mm Earphone Port"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 8.0"
+      },
+      "Graphics": {
+        "GPU/VPU": "ARM Mali-T880 780MHz"
+      },
+      "Package Contents": {
+        "Package Content": "1 x Tablet PC/ 1 x USB cable /1 x EU Plug / US Plug Charger (Please specify your need)"
+      },
+      "Storage": {
+        "SSD": "3GB",
+        "HDD": "32GB"
+      },
+      "Model": {
+        "Brand": "CHUWI",
+        "Color": "Black",
+        "Model": "Hi9 Pro"
+      },
+      "Input Device": {
+        "Touchpad": "Yes"
+      },
+      "Features": {
+        "Function": "3D Games"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5.0MP",
+        "Rear Camera": "8.0MP"
+      },
+      "Power": {
+        "Battery Life": "Audio Time 40 hours, Video Time 6 hours",
+        "Battery": "5000mAh"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "8.4\"",
+        "Display Type": "IPS Capacitive Screen",
+        "Resolution": "2560 x 1600"
+      }
+    }
+  },
+  {
+    "itemName": "ALLDOCUBE iPlay 8 Tablet PC 7.85 inch Android 6.0 MTK8163 1.3GHz 1GB RAM 16GB ROM",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Mali-T720 MP2"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "7.68 x 5.35 x 0.31 inches",
+        "Weight": "0.3380 kg"
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "ALLDOCUBE",
+        "Color": "Gray",
+        "Model": "iPlay 8"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "WiFi 802.11a/b/g/n wireless internet"
+      },
+      "CPU": {
+        "CPU Speed": "1.3GHz",
+        "CPU Type": "MTK8163",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Camera": {
+        "Front-Facing Camera": "0.3MP",
+        "Rear Camera": "2.0MP"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Display": {
+        "Screen Size": "7.85\"",
+        "Resolution": "1024 x 768"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Mini 4 (32GB, Wi-Fi, Space Gray)",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "5.31 x 0.24 x 8 inches",
+        "Weight": "0.67 lbs"
+      },
+      "System Memory": {
+        "Memory": "32 GB"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Series": "iPad mini 4",
+        "Color": "Gray",
+        "Model": "MNY12LL/A"
+      },
+      "CPU": {
+        "Number of Cores": "Dual-core Processor"
+      },
+      "Camera": {
+        "Rear Camera": "8 MP"
+      },
+      "Operating Systems": {
+        "Operating System": "Apple iOS 10"
+      },
+      "Display": {
+        "Screen Size": "7.9\""
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro 9.7\" Wi-Fi 128GB - Rose Gold",
+    "specs": {
+      "Graphics": {
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "SSD": "No",
+        "Built-in Storage": "128 GB Flash Storage",
+        "HDD": "No"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.40\" x 6.60\" x 0.24\"",
+        "Weight": "0.96 lb."
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Part Number": "MM192LL/A",
+        "Color": "Rose Gold",
+        "Model": "iPad Pro"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Type": "Apple A9X"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "12.0 MP"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Power": {
+        "Battery Life": "Up to 9 hours",
+        "Battery": "Built-In Lithium-Polymer"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 9"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.7\"",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "14.1\" HD Laptop Computer Intel x5-Z8350 64-bit Quad core Windows 10 with 2GB RAM 64GB SSD USB 3.0 Laptop Computer",
+    "specs": {
+      "CPU": {
+        "Tech": "14.1\" HD Laptop Computer Intel x5-Z8350 64-bit Quad core Windows 10 with 2GB RAM 64GB SSD USB 3.0 Laptop Computer"
+      },
+      "Display": {
+        "Screen Size": "14.1\""
+      }
+    }
+  },
+  {
+    "itemName": "New 10 inch Original Design 3G Phone Call Android 6.0 Quad Core IPS pc Tablet WiFi 2G+16G 7 8 9 10 android tablet pc 2GB 16GB",
+    "specs": {
+      "Group": {
+        "Option": "WiFi"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "2 - 2.9 lbs."
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Color": "White"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.1",
+        "WLAN": "802.11 b/g/n Bluetooth FM"
+      },
+      "CPU": {
+        "CPU Type": "MTK6580 Quad-Core"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Display": {
+        "Screen Size": "10.0\"",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Teclast X80 Pro 8\u0027\u0027 Windows 10 + Android 5.1 Dual OS Intel Cherry Trail Z8350 Quad Core 2GB RAM 32GB ROM Tablet PC",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Intel HD Graphic(Gen8)"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB eMMC"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Teclast",
+        "Color": "White",
+        "Model": "X80 Pro"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11a/b/g Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.92GHz",
+        "CPU Type": "Intel Cherry Trail Z8350(14nm) 64 bit"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10 + Android 5.1"
+      },
+      "Display": {
+        "Screen Size": "8.0\"",
+        "Resolution": "1200 x 1920"
+      }
+    }
+  },
+  {
+    "itemName": "Samsung 32GB Galaxy Tab S3 9.7\" Wi-Fi Tablet (Silver) SM-T820NZSAXAR + Deluxe Cleaning Kit + MicroFiber Cloth + Universal Stylus for Tablets + Tablet Neoprene Sleeve 10.1\" Case (Black) Bundle",
+    "specs": {
+      "Model": {
+        "Color": "Silver"
+      },
+      "Display": {
+        "Screen Size": "9.7\""
+      }
+    }
+  },
+  {
+    "itemName": "GPD WIN 2 Intel Core m3-7Y30 Quad core 6.0 Inch GamePad Tablet Windows 10 8GB RAM 128GB ROM - Black",
+    "specs": {
+      "Package Contents": {
+        "Package Content": "GPD WIN 2"
+      },
+      "Storage": {
+        "Built-in Storage": "128 GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "451g"
+      },
+      "Model": {
+        "Model": "GPD Win 2"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.1",
+        "WLAN": ":802.11a/ac/b/g/n Wlan,2.4/5GHz Dual-band"
+      },
+      "Input Device": {
+        "Touchpad": "Yes",
+        "Keyboard": "QWERTY,TrackPoint"
+      },
+      "CPU": {
+        "CPU Type": "Intel Core m3-7Y30"
+      },
+      "Features": {
+        "Function": "Tablet PC",
+        "Other Features": "Ubnutn system+fully functional keyboard"
+      },
+      "Power": {
+        "Battery Life": "About 12 hours,It should depend on the actual working conditions",
+        "Battery": "on-removeable Li-Po battery"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10 Home"
+      },
+      "Display": {
+        "Touchscreen": "Touch panel:Capacitance panel,multi-touch suppor",
+        "Screen Size": "6.0\"",
+        "Resolution": "1280 x 720"
+      }
+    }
+  },
+  {
+    "itemName": "SAMSUNG Galaxy Tab A SM-T590NZAAXAC Octa-Core 1.80 GHz 3 GB Memory 32 GB Flash Storage 10.5\" 1920 x 1200 Tablet PC Android Fog Grey",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "10.24\" x 6.34\" x 0.31\"",
+        "Weight": "1.17 lbs."
+      },
+      "System Memory": {
+        "Memory": "3 GB"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Series": "Galaxy Tab A",
+        "Color": "Fog Grey",
+        "Model": "SM-T590NZAAXAC"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.80 GHz",
+        "CPU Type": "Octa-Core"
+      },
+      "Ports": {
+        "Audio Ports": "3.5 mm Stereo"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "8.0 MP"
+      },
+      "Power": {
+        "Battery Life": "Up to 15 Hours (Video Playback Time)",
+        "Battery": "7300 mAh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.5\"",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad mini 4 with WiFi 128GB(MK9Q2ZP/A) (Gold)",
+    "specs": {
+      "Display": {
+        "Screen Size": "7.9\""
+      }
+    }
+  },
+  {
+    "itemName": "HP 13-AC013DX Spectre x360 2-in-1 13.3\" Touch-Screen Laptop - Intel Core i7 - 8GB Memory - 256GB Solid State Drive - Natural silver KABY LAKE Tablet PC Touchscreen Notebook Computer Intel HD",
+    "specs": {
+      "Display": {
+        "Screen Size": "13.3\""
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro 9.7\" Wi-Fi 32GB - Gold",
+    "specs": {
+      "Graphics": {
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.40\" x 6.70\" x 0.20\"",
+        "Weight": "0.96 lb."
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Part Number": "MLMQ2LL/A",
+        "Color": "Gold",
+        "Model": "iPad Pro"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Type": "Apple A9X"
+      },
+      "Camera": {
+        "Front-Facing Camera": "5 MP",
+        "Rear Camera": "12.0 MP"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Power": {
+        "Battery Life": "Up to 9 Hour(s)",
+        "Battery": "Built-In Lithium-Polymer"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS 9"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.7\"",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "Samsung Galaxy Tab A 10.5 32GB Tablet, Grey - Model SM-T590NZAAXAR",
+    "specs": {
+      "Display": {
+        "Screen Size": "10.5\""
+      }
+    }
+  },
+  {
+    "itemName": "ASUS ZenPad S 8.0 Z580C-B1-BK Intel Atom Z3530 (1.33 GHz) 2 GB Memory 32 GB eMMC 8.0\" 2048 x 1536 Tablet Android 5.0 (Lollipop) Black",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "8.00\" x 5.30\" x 0.27\"",
+        "Weight": "0.70 lb."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "Z3530 (1.33 GHz)",
+        "CPU Type": "Intel Atom",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB",
+        "Audio Ports": "1 x Headphone/Microphone Combo Jack"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 5.0 (Lollipop)"
+      },
+      "Graphics": {
+        "GPU/VPU": "PowerVR G6430",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB eMMC",
+        "Card Reader": "Micro SD up to 128 GB"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "ASUS",
+        "Series": "ZenPad S 8.0",
+        "Part Number": "90NP01M1-M02330",
+        "Color": "Black",
+        "Model": "Z580C-B1-BK"
+      },
+      "Input Device": {
+        "Keyboard": "2 x Front Speakers"
+      },
+      "Features": {
+        "Other Features": "G-Sensor / E-compass / Light-Sensor / Hall Sensor / GPS / GLONASS"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP"
+      },
+      "Audio": {
+        "Audio": "DTS HD Premium Sound"
+      },
+      "Power": {
+        "Battery Life": "Up to 8 hour(s)",
+        "Battery": "15.2 Wh Li-polymer Battery"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "8.0\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "Samsung Galaxy Tab A 10.5 32GB Tablet, Black - Model SM-T590NZKAXAR",
+    "specs": {
+      "Display": {
+        "Screen Size": "10.5\""
+      }
+    }
+  },
+  {
+    "itemName": "E-WIN Tablet Stand Holder with Adjustable Angle Design for iPhone X, iPad Pro 9.7, 10.5, Air mini 2 3 4 ,Kindle, Nexus, Accessories, Tab, E-reader,Samsung other Tablets",
+    "specs": {
+      "Group": {
+        "Option": "French"
+      },
+      "Storage": {
+        "Built-in Storage": "1 TB HDD"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "2 - 2.9 lbs."
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "E-WIN",
+        "Color": "Red"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Display": {
+        "Screen Size": "13.3\""
+      }
+    }
+  },
+  {
+    "itemName": "SAMSUNG Galaxy Tab A SM-T590NZKAXAC Qualcomm Snapdragon MSM8998 (2.45 GHz) 4 GB Memory 32 GB Flash Storage 10.5\" Tablet PC Android 8.0 (Oreo) Black",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Series": "Galaxy Tab A",
+        "Color": "Black",
+        "Model": "SM-T590NZKAXAC"
+      },
+      "CPU": {
+        "CPU Speed": "MSM8998 (2.45 GHz)",
+        "CPU Type": "Qualcomm Snapdragon"
+      },
+      "Power": {
+        "Battery": "7300 mAh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 8.0 (Oreo)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.5\""
+      }
+    }
+  },
+  {
+    "itemName": "Lenovo Tab 4 10 Plus ZA2T0001US Qualcomm Snapdragon 625 MSM8953 (2.0 GHz) 2 GB LPDDR3 Memory 16 GB Flash Storage 10.1\" 1920 x 1200 Tablet PC Android 7.0 (Nougat)",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.70\" x 6.80\" x 0.30\"",
+        "Weight": "1.07 lbs."
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "MSM8953 (2.0 GHz)",
+        "CPU Type": "Qualcomm Snapdragon 625",
+        "Number of Cores": "8-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x USB 2.0 Type-C"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Adreno 506",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage",
+        "Card Reader": "Micro SD"
+      },
+      "System Memory": {
+        "Memory": "2 GB LPDDR3"
+      },
+      "Model": {
+        "Brand": "Lenovo",
+        "Series": "Tab 4 10 Plus",
+        "Model": "ZA2T0001US"
+      },
+      "Features": {
+        "Other Features": "Sensors: Accelerometer, Vibration Sensor, L Sensor"
+      },
+      "Camera": {
+        "Rear Camera": "8.0 MP"
+      },
+      "Power": {
+        "Battery": "7000 mAh"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "iView-M7 Smart Phone Tablet",
+    "specs": {
+      "Display": {
+        "Screen Size": "7\""
+      }
+    }
+  },
+  {
+    "itemName": "Nextbook Ares8 8” Android 5.1 Intel Z3735G QuadCore 1GB RAM 16GB ROM Tablet PC",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Intel HD Graphics"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB eMMC"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "0.35 kg"
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "Nextbook",
+        "Color": "Black",
+        "Model": "Ares8"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n 2.4GHz"
+      },
+      "CPU": {
+        "CPU Speed": "up to 1.83 GHz",
+        "CPU Type": "Intel Atom CPU Z3735G Quad-Core"
+      },
+      "Ports": {
+        "HDMI": "Micro HDMI Port"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 5.1 (Lollipop)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "8.0\"",
+        "Display Type": "IPS",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Huawei MediaPad T3 KOB-L09 8 inch 3GB+32GB Qualcomm SnapDragon 425 Quad Core",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "211.07mm*124.65mm*7.95 mm",
+        "Weight": "About 350g"
+      },
+      "Communications": {
+        "Bluetooth": "Support",
+        "WLAN": "IEEE 802.11b/g/n@2.4 GHz"
+      },
+      "CPU": {
+        "CPU Speed": "4x1.4GHz",
+        "CPU Type": "SnapDragon 425 Quad Core",
+        "Number of Cores": "Quad Core"
+      },
+      "Ports": {
+        "S-Video": "*.3gp, *.mp4, *.webm, *.mkv, .ts, .3g2, .mov, .avi, .flv., .m4v, and .divx"
+      },
+      "Operating Systems": {
+        "Operating System": "EMUI 5.1"
+      },
+      "Package Contents": {
+        "Package Content": "1 x Tablet PC 1 x USB cable 1 x US Plug Power adapter"
+      },
+      "Storage": {
+        "SSD": "3GB",
+        "HDD": "32GB"
+      },
+      "System Memory": {
+        "Max Memory Supported": "TF card up to 128GB (not included)",
+        "Memory": "32 GB"
+      },
+      "Model": {
+        "Brand": "Huawei",
+        "Color": "Gold",
+        "Model": "KOB-L09 3GB+32GB"
+      },
+      "Input Device": {
+        "Touchpad": "Yes"
+      },
+      "Features": {
+        "Function": "Tablet PC",
+        "Other Features": "Gravity sensor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2.0MP",
+        "Rear Camera": "5.0MP",
+        "Webcam": "Camera Types Dual"
+      },
+      "Audio": {
+        "Audio": "*.mp3, *.mid, *.amr, *.3gp, *.aac, *.wav, *.ogg, *.flac, and *.m4a"
+      },
+      "Power": {
+        "Battery Life": "Talk Time 44 hours: Standby Time About 490 hours",
+        "Battery": "4800mAh"
+      },
+      "Display": {
+        "Screen Size": "8.0\"",
+        "Display Type": "IPS Capacitive Screen",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "ASUS Nexus 7 FHD Qualcomm Snapdragon S4 Pro Quad-Core 2 GB DDR3 Memory 32 GB Flash 7.0\" Touchscreen Tablet PC Android 4.3 (Jelly Bean)",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "7.87\" x 4.49\" x 0.34\"",
+        "Weight": "0.64 lb."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11a/b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.50 GHz",
+        "CPU Type": "Qualcomm Snapdragon S4 Pro Quad-Core",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "Micro USB",
+        "HDMI": "Slimport HDMI out",
+        "Audio Ports": "1 x Audio Jack (Headphone/Mic-in)"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 4.3 (Jelly Bean)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Adreno 320",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "SSD": "32 GB Flash"
+      },
+      "System Memory": {
+        "Memory": "2 GB DDR3"
+      },
+      "Model": {
+        "Brand": "ASUS",
+        "Part Number": "NEXUS7 ASUS-2B32",
+        "Color": "Black",
+        "Model": "Nexus 7 FHD"
+      },
+      "Features": {
+        "Function": "Internet Tablet",
+        "Other Features": "G-Sensor\nAmbient Light Sensor\nE-compass sensor\nGyroscope\nProximity Sensor (LTE only, for SAR)"
+      },
+      "Camera": {
+        "Webcam": "5 MP Rear w/flash, 1.2 MP front"
+      },
+      "Audio": {
+        "Audio": "Build-in stereo speakers (high quality speaker x 2)"
+      },
+      "Power": {
+        "Battery": "15Wh, 3950mAh, non-removable polymer battery"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7.0\"",
+        "LCD Features": "323 ppi",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "ASUS Zenpad 8 Z380M-A2-GR Tablet MTK MT8163 (1.30 GHz) 2 GB LPDDR3 16 GB eMMC 8.0\" IPS Touchscreen 1280 x 800 2 MP Front / 5 MP Rear Camera Android 6.0 (Marshmallow)",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "8.22\" x 4.84\" x 0.33\"",
+        "Weight": "0.77 lb."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11a/b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "MT8163 (1.30 GHz)",
+        "CPU Type": "MTK",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB",
+        "Audio Ports": "1 x Headphone/Microphone Combo Jack"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 6.0 (Marshmallow)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Mali-T720 MP4",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB eMMC",
+        "Card Reader": "Micro SD up to 128 GB SDXC"
+      },
+      "System Memory": {
+        "Memory": "2 GB LPDDR3"
+      },
+      "Model": {
+        "Brand": "ASUS",
+        "Series": "Zenpad 8",
+        "Part Number": "90NP00A1-M00290",
+        "Color": "Dark Gray",
+        "Model": "Z380M-A2-GR"
+      },
+      "Features": {
+        "Other Features": "Sensor: G-Sensor / E-compass / Hall sensor / Light Sensor"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP"
+      },
+      "Audio": {
+        "Audio": "1 x Front Speaker with DTS HD Premium Sound"
+      },
+      "Power": {
+        "Battery Life": "Up to 8 hour(s)",
+        "Battery": "15.2 Wh Li-polymer Battery"
+      },
+      "Display": {
+        "Touchscreen": "10 finger multi-touch support",
+        "Screen Size": "8.0\"",
+        "Display Type": "Wide XGA",
+        "LCD Features": "IPS Panel\nAnti-fingerprint coating\nFull lamination\nASUS Tru2Life Technology",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Nextbook Ares8 8” Android 5.1 Intel Z3735G QuadCore 1GB RAM 16GB ROM Tablet PC",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Intel HD Graphics"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB eMMC"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "0.35 kg"
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "Nextbook",
+        "Color": "Black",
+        "Model": "Ares8"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11b/g/n 2.4GHz"
+      },
+      "CPU": {
+        "CPU Speed": "up to 1.83 GHz",
+        "CPU Type": "Intel Atom CPU Z3735G Quad-Core"
+      },
+      "Ports": {
+        "HDMI": "Micro HDMI Port"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 5.1 (Lollipop)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "8.0\"",
+        "Display Type": "IPS",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Huawei MediaPad T3 KOB-L09 8 inch 3GB+32GB Qualcomm SnapDragon 425 Quad Core",
+    "specs": {
+      "": {
+        "": ""
+      }
+    }
+  },
+  {
+    "itemName": "ASUS Nexus 7 FHD Qualcomm Snapdragon S4 Pro Quad-Core 2 GB DDR3 Memory 32 GB Flash 7.0\" Touchscreen Tablet PC Android 4.3 (Jelly Bean)",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "7.87\" x 4.49\" x 0.34\"",
+        "Weight": "0.64 lb."
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11a/b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.50 GHz",
+        "CPU Type": "Qualcomm Snapdragon S4 Pro Quad-Core",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "Micro USB",
+        "HDMI": "Slimport HDMI out",
+        "Audio Ports": "1 x Audio Jack (Headphone/Mic-in)"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 4.3 (Jelly Bean)"
+      },
+      "Graphics": {
+        "GPU/VPU": "Adreno 320",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "SSD": "32 GB Flash"
+      },
+      "System Memory": {
+        "Memory": "2 GB DDR3"
+      },
+      "Model": {
+        "Brand": "ASUS",
+        "Part Number": "NEXUS7 ASUS-2B32",
+        "Color": "Black",
+        "Model": "Nexus 7 FHD"
+      },
+      "Features": {
+        "Function": "Internet Tablet",
+        "Other Features": "G-Sensor\nAmbient Light Sensor\nE-compass sensor\nGyroscope\nProximity Sensor (LTE only, for SAR)"
+      },
+      "Camera": {
+        "Webcam": "5 MP Rear w/flash, 1.2 MP front"
+      },
+      "Audio": {
+        "Audio": "Build-in stereo speakers (high quality speaker x 2)"
+      },
+      "Power": {
+        "Battery": "15Wh, 3950mAh, non-removable polymer battery"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7.0\"",
+        "LCD Features": "323 ppi",
+        "Resolution": "1920 x 1200"
+      }
+    }
+  },
+  {
+    "itemName": "HP P2C13UT#ABA Intel Atom x5-Z8500 with Intel HD Graphics (1.44 GHz, up to 2.24 GHz using Intel Burst Technology, 2 MB cache, 4 cores) 4 GB LPDDR3-1600 SDRAM Memory 64 GB eMMC 7.9\" 2048 x 1536 Pro Tab",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "5.39\" x 8.14\" x 0.33\"",
+        "Weight": "0.79 lb."
+      },
+      "Communications": {
+        "WLAN": "Intel Dual Band Wireless-AC 7265 802.11a/b/g/b/ac WiDi (2x2) WiFi and Bluetooth 4.0 Combo; NFC"
+      },
+      "CPU": {
+        "CPU Type": "Intel Atom x5-Z8500 with Intel HD Graphics (1.44 GHz, up to 2.24 GHz using Intel Burst Technology, 2 MB cache, 4 cores)"
+      },
+      "Ports": {
+        "Docking Connector": "1",
+        "USB": "1",
+        "Audio Ports": "1 headphone/microphone combo"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 8.1 Pro 64"
+      },
+      "Package Contents": {
+        "Package Content": "Tablet, AC adapter, Quick Start Guide"
+      },
+      "Storage": {
+        "Built-in Storage": "64 GB eMMC"
+      },
+      "System Memory": {
+        "Memory": "4 GB LPDDR3-1600 SDRAM"
+      },
+      "Model": {
+        "Brand": "HP",
+        "Color": "Gray",
+        "Model": "P2C13UT#ABA"
+      },
+      "Features": {
+        "Other Features": "Expansion slots: 1 flash media\n\nDTS Studio Sound; Dual stereo speakers\n\nSensors: Accelerometer; eCompass; Gyroscope; Ambient light sensor; Hall effect; Haptics; Proximity (WWAN only)",
+        "Software Included": "HP ePrint; HP Touchpoint Manager support; Skype; HP Mobile Connect (EMEA Only)"
+      },
+      "Camera": {
+        "Webcam": "Integrated camera: 2 MP HD front-facing; 8 MP HD rear-facing"
+      },
+      "Power": {
+        "Battery": "21 WHr Li-ion polymer"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7.9\"",
+        "LCD Features": "7.86\" diagonal FHD QXGA with Corning Gorilla Glass 3 and anti-smudge coating, 10-point capacitive touch solution",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "Xiaomi Mi Pad 4 4G Phablet 8.0 inch MIUI 9 Qualcomm Snapdragon 660 Octa Core 4GB RAM 64GB eMMC ROM 5.0MP + 13.0MP Front Rear Cameras Dual WiFi",
+    "specs": {
+      "Display": {
+        "Screen Size": "8.0\""
+      }
+    }
+  },
+  {
+    "itemName": "Apple 9.7\" iPad (2017, 32GB, Wi-Fi Only, Gold) MPGT2LL/A",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB"
+      },
+      "Model": {
+        "Brand": "Apple",
+        "Color": "Gold",
+        "Model": "MPGT2LL/A"
+      },
+      "Camera": {
+        "Front-Facing Camera": "1.2 megapixel",
+        "Rear Camera": "8 megapixel"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS"
+      },
+      "Display": {
+        "Screen Size": "9.7\"",
+        "Display Type": "Retina display",
+        "Resolution": "1920 x 1080"
+      }
+    }
+  },
+  {
+    "itemName": "ChuwiUSA Pro 8\" IPS FHD (1920 X 1200) Intel X5 Atom Z8350 Quad Core, Windows 10/Android 5.1 2G RAM,32G ROM eMMC, 2.0M Webcams, WiFi,Type-C and Micro HDMI Port,Kids Tablet PC",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Intel HD Graphics (Cherry Trail)"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB eMMC"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "Chuwi",
+        "Part Number": "CWHi8PRO232WAN",
+        "Model": "CWHi8PRO232WAN"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0"
+      },
+      "CPU": {
+        "CPU Speed": "1.44Ghz ( Burst Frequency 1.92Ghz )",
+        "CPU Type": "intel Atom® x5-Z8350 Intel X5 Atom 64-bit Cherry Trail"
+      },
+      "Ports": {
+        "HDMI": "Micro HDMI"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Camera": {
+        "Webcam": "Front 2.0MP / Rear 2.0MP"
+      },
+      "Power": {
+        "Battery Life": "6 - 8 Hours",
+        "AC Adapter": "1 x Power adapter"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10/Android 5.1"
+      },
+      "Display": {
+        "Screen Size": "8.0\"",
+        "Resolution": "1920 x 1200 IPS Retina FHD"
+      }
+    }
+  },
+  {
+    "itemName": "Samsung - SM-T380NZKIXAR - Samsung Galaxy Tab A SM-T380 Tablet - 8 - 2 GB Quad-core (4 Core) 1.40 GHz - 16 GB - Android",
+    "specs": {
+      "Display": {
+        "Screen Size": "8.0\""
+      }
+    }
+  },
+  {
+    "itemName": "Amazon Kindle Fire Quad Core Processor 8 GB Flash Storage 7\" Tablet Fire OS 5",
+    "specs": {
+      "Group": {
+        "Option": "Tablet Only"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "7.50\" x 4.50\" x 0.4\"",
+        "Weight": "0.69 lb."
+      },
+      "Communications": {
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.30 GHz",
+        "CPU Type": "Quad Core Processor"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Fire OS 5"
+      },
+      "Storage": {
+        "SSD": "0 GB",
+        "Built-in Storage": "8 GB Flash Storage",
+        "HDD": "No"
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "Amazon",
+        "Part Number": "B018Y227MY",
+        "Color": "Blue",
+        "Model": "Kindle Fire"
+      },
+      "Camera": {
+        "Front-Facing Camera": "VGA Front-facing camera",
+        "Rear Camera": "2 MP rear-facing camera with 720p HD video recording"
+      },
+      "Audio": {
+        "Audio": "Mono speaker, Built-in microphone"
+      },
+      "Power": {
+        "Battery Life": "Up to 7 hours of reading, surfing the web, watching video, and listening to music"
+      },
+      "Display": {
+        "Screen Size": "7\"",
+        "LCD Features": "171 ppi",
+        "Resolution": "1024 x 600"
+      }
+    }
+  },
+  {
+    "itemName": "Hyundai Koral 10X HT1003X16KC Allwinner A64 Cortex-A53 1 GB Memory 16 GB Flash Storage 10.1\" 1200 x 800 Tablet PC Android 7.0 (Nougat) Rose Gold / Metal Chasis",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Mali 400 MP2",
+        "Video Memory": "Shared system memory"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage",
+        "Card Reader": "Micro SD"
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "Hyundai",
+        "Series": "Koral 10X",
+        "Color": "Rose Gold / Metal Chasis",
+        "Model": "HT1003X16KC"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Type": "Allwinner A64 Cortex-A53",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB",
+        "Audio Ports": "3.5 mm headphone jack"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.1\"",
+        "LCD Features": "In-plane Switching (IPS) Technology",
+        "Resolution": "1200 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "ALLDOCUBE KNote 5 2 in 1 Tablet PC - 11.6 inch, 4GB RAM 128GB SSD ROM, Windows 10, Intel Quad Core 2.4GHz, Dual WiFi, Front Camera, Type-C",
+    "specs": {
+      "Display": {
+        "Screen Size": "11.6\""
+      }
+    }
+  },
+  {
+    "itemName": "Huawei MediaPad T3 10 AGS-W09 9.6 inch 2GB+16GB Qualcomm SnapDragon 425 Quad Core, Dual Band WiFi",
+    "specs": {
+      "Package Contents": {
+        "Package Content": "1 x Tablet PC 1 x USB cable 1 x US Plug Power adapter"
+      },
+      "Storage": {
+        "SSD": "2GB",
+        "HDD": "16GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "229.8mm*159.8mm*7.95 mm",
+        "Weight": "About 460g"
+      },
+      "System Memory": {
+        "Max Memory Supported": "TF card up to 128GB (not included)"
+      },
+      "Model": {
+        "Brand": "Huawei",
+        "Color": "Aluminum Silver",
+        "Model": "AGS-W09"
+      },
+      "Communications": {
+        "WLAN": "802.11a/b/g/n@2.4 GHz \u0026 5 GHz"
+      },
+      "CPU": {
+        "CPU Speed": "4x1.4GHz",
+        "CPU Type": "SnapDragon 425 Quad Core 4x1.4GHz",
+        "Number of Cores": "Quad Core"
+      },
+      "Features": {
+        "Other Features": "Video Recording Yes, 1080P, Yes, 720P"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2.0MP",
+        "Rear Camera": "5.0MP"
+      },
+      "Power": {
+        "Battery Life": "Video Time About 9.8 hours Standby Time About 500 hours",
+        "Battery": "4800 mAh*"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 7.0 (Nougat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "9.6\"",
+        "LCD Features": "IPS Capacitive Screen",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "APPLE IPAD PRO 10.5\" MQDT2LL/A 64GB WIFI RETINA DISPLAY SPACE GRAY !",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "64 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "6.85\" x 0.24\" x 9.87\"",
+        "Weight": "1.03 lb."
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "2.33 GHz"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Camera": {
+        "Webcam": "Yes"
+      },
+      "Power": {
+        "Battery Life": "\u003e 5 hours",
+        "Battery": "3.77 V 30.8 Wh (8,134mAh) rechargeable lithium-polymer battery"
+      },
+      "Operating Systems": {
+        "Operating System": "iOS"
+      },
+      "Display": {
+        "Touchscreen": "Multi-Touch display",
+        "Screen Size": "10.5\"",
+        "LCD Features": "LED backlight",
+        "Resolution": "2224 x 1668 at 264 pixels per inch (ppi)"
+      }
+    }
+  },
+  {
+    "itemName": "Wireless Bluetooth Keyboard For Samsung Galaxy Tablet PU Leather Cover Case-Pink",
+    "specs": {
+      "Display": {
+        "Screen Size": "8.9\""
+      }
+    }
+  },
+  {
+    "itemName": "Digital2 16GB 8\" WiFi Tablet Octa Core 1.7GHz Android 4.4 w/Dual Cameras - Black",
+    "specs": {
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "8.46 x 4.72 x 0.35",
+        "Weight": "\u003c 2lbs"
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "Digital2",
+        "Color": "Black",
+        "Model": "Galaxy Tab D2-863G_BK"
+      },
+      "Communications": {
+        "Bluetooth": "Yes"
+      },
+      "Ports": {
+        "USB": "0"
+      },
+      "Features": {
+        "Other Features": "ARM Cortex A53 1.7 GHz Processor, Built-in speakers, Front camera, Rear camera"
+      },
+      "Power": {
+        "Battery Life": "\u003e 5 hours"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "8.0\"",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "CHUWI Hi13 13.5 inch 2 in 1 Tablet PC Windows 10 4GB RAM 64GB ROM EU plug",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "64 GB eMMC"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Color": "Silver"
+      },
+      "Communications": {
+        "Bluetooth": "Yes",
+        "WLAN": "802.11 a/b/g/n/ac"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10"
+      },
+      "Display": {
+        "Screen Size": "13.5\"",
+        "Resolution": "3000 x 2000"
+      }
+    }
+  },
+  {
+    "itemName": "ASUS ZenPad S 8.0\" Z580CB1BK Intel Atom Z3530 (1.33 GHz) 2 GB Memory 32 GB Flash Storage Android 5.0 (Lollipop) Tablet",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage",
+        "HDD": "2GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "8.00\" x 5.30\" x 0.30\"",
+        "Weight": "0.70 lb."
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Brand": "ASUS",
+        "Part Number": "90NP01M1-M01330",
+        "Color": "Black",
+        "Model": "Z580CB1BK"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "Z3530 (1.33 GHz)",
+        "CPU Type": "Intel Atom",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB"
+      },
+      "Features": {
+        "Other Features": "Black Touch Screen 8\" IPS QXGA (2048*1536) Intel Moorefield Z3530 1.33GHz(Burst) Quad Core 2GB LPDDR3 (1066MHz) IMG PowerVR Series 6 - G6430 32GB EMMC No Optical Drive Android 5.0 (Lollipop) 802.11BGN 2MP Front \u0026 5MP Rear Bluetooth 4.0 No Keyboard (tablet) 15.2Wh, 4000mAh, non-removable polymer battery (8hrs) 1x Headphone/Mic-in; 1x Micro USB Micro SD (Max 128GB)"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2 MP",
+        "Rear Camera": "5.0 MP"
+      },
+      "Power": {
+        "Battery Life": "\u003e 5 hours"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 5.0 (Lollipop)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "8.0\"",
+        "Resolution": "2048 x 1536"
+      }
+    }
+  },
+  {
+    "itemName": "LG G Pad X 8.0 V520 32GB Wi-Fi + 4G LTE Cellular (AT\u0026T Unlocked) 8in Tablet",
+    "specs": {
+      "Display": {
+        "Screen Size": "8.0\""
+      }
+    }
+  },
+  {
+    "itemName": "ValueChain VP112-IPS 10In. Android 5.1.1 Quad Core Kids and Adult Tablet + 2x Scr Prot IPS Display 1GB 16GB HDMI Bluetooth 4.0 Google Play Store Dual Camera 5MP MicroSD USB",
+    "specs": {
+      "Group": {
+        "Option": "Tablet Only"
+      },
+      "Optical Drive": {
+        "Optical Drive Type": "No"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "9.5 x 6.8 x 0.33",
+        "Weight": "1.2 lb"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.0",
+        "WLAN": "802.11a/b/g/n Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "1.20 GHz",
+        "CPU Type": "Allwinner Cortex A8",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB",
+        "HDMI": "1x Mini HDMI",
+        "Audio Ports": "1x Headphone Jack"
+      },
+      "Mobile Connection": {
+        "Service": "Wi-Fi Only"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 5.1 (Lollipop)"
+      },
+      "Package Contents": {
+        "Package Content": "2x screen protector (1 installed and 1 extra); OTG cable; Charger; Manual"
+      },
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage",
+        "HDD": "No",
+        "Card Reader": "Micro SD up to 32 GB"
+      },
+      "Plug Standards": {
+        "Electrical Outlet Plug Type": "Plug Type “B” (USA, Canada, Mexico, Japan)"
+      },
+      "System Memory": {
+        "Max Memory Supported": "1 GB",
+        "Memory Slot (Available)": "0",
+        "Memory": "1 GB",
+        "Memory Speed": "DDR3 1066"
+      },
+      "Model": {
+        "Brand": "ValueChain",
+        "Series": "A9 Series",
+        "Part Number": "VP112-IPS-NE",
+        "Color": "Black",
+        "Model": "VP112-IPS"
+      },
+      "Input Device": {
+        "Keyboard": "Soft keyboard"
+      },
+      "Features": {
+        "Function": "Internet Tablet",
+        "Other Features": "Google Play Store, Kiddoware Kids Software",
+        "Software Included": "Google Play Store"
+      },
+      "Camera": {
+        "Front-Facing Camera": "2MP",
+        "Rear Camera": "5MP",
+        "Webcam": "Yes"
+      },
+      "Audio": {
+        "Audio": "Integrated Sound card"
+      },
+      "Power": {
+        "Battery Life": "3~5hours",
+        "Battery": "5000mAh Lithium Polymer"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "10.0\"",
+        "Display Type": "Wide SVGA",
+        "Resolution": "1280 x 800"
+      }
+    }
+  },
+  {
+    "itemName": "Global ROM Huawei Mediapad M5 8.4 inch Android 8.0 2K IPS Octa Core Tablet Kirin 960 4GB RAM 128GB ROM 2560x1600 Fingerprint(Wifi Version)",
+    "specs": {
+      "Group": {
+        "Option": "WiFi"
+      },
+      "Storage": {
+        "Built-in Storage": "32 GB"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Color": "Gold Metallic"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.2"
+      },
+      "CPU": {
+        "CPU Type": "HUAWEI Kirin 960 CPU"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 8.0 (Oreo)"
+      },
+      "Display": {
+        "Screen Size": "8.4\"",
+        "Resolution": "2560x1600 pixels"
+      }
+    }
+  },
+  {
+    "itemName": "Huawei Honor Magicbook laptop AMD Ryzen 5 Quad Core 14\" IPS Screen 1920*1080 8GB DDR4 256GB SSD - Silver",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "256 GB SSD"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "1.5 kg"
+      },
+      "System Memory": {
+        "Memory": "8 GB"
+      },
+      "Model": {
+        "Brand": "Huawei",
+        "Color": "Silver",
+        "Model": "MagicBook"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.1",
+        "WLAN": "802.11b/g/n/ac wireless internet 2.4G+5G"
+      },
+      "CPU": {
+        "CPU Speed": "3.6GHz max",
+        "CPU Type": "AMD Ryzen 5,Quad Core"
+      },
+      "Camera": {
+        "Front-Facing Camera": "1 MP"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10 Home"
+      },
+      "Display": {
+        "Touchscreen": "No",
+        "Screen Size": "14.0\"",
+        "Resolution": "1920×1080"
+      }
+    }
+  },
+  {
+    "itemName": "7 Inch TFT Display HD 1080P Quad Core Dual Camera Tablet Bluetooth Wifi 512M+8G Movies Games Tablet for Android",
+    "specs": {
+      "Display": {
+        "Screen Size": "7.0\""
+      }
+    }
+  },
+  {
+    "itemName": "PIPO X9 Mini Pc Dual OS TV BOX Windows 10 \u0026 Android 4.4 Intel Z3736F Quad Core 2GB / 32GB Tv Box 8.9 Inch Screen Tablet",
+    "specs": {
+      "Model": {
+        "Color": "Black"
+      },
+      "Display": {
+        "Screen Size": "8.9\""
+      }
+    }
+  },
+  {
+    "itemName": "CHUWI Hi13 13.5 inch 2 in1 Tablet PC Windows 10 Intel Apollo Lake Celeron N3450 Quad Core 1.1GHz Windows 10 4GB RAM 64GB eMMC 10000mAh Battery Dual WiFi Cameras OTG",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "64 GB Flash Storage"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Color": "Silver"
+      },
+      "Display": {
+        "Screen Size": "13.5\""
+      }
+    }
+  },
+  {
+    "itemName": "Samsung 10.1\" Galaxy Tab A T580 16GB Tablet (Wi-Fi Only, White) SM-T580NZWAXAR + MicroFiber Cloth + Universal Stylus for Tablets + Tablet Neoprene Sleeve 10.1\" Case (Black) Bundle",
+    "specs": {
+      "Model": {
+        "Color": "White"
+      },
+      "Display": {
+        "Screen Size": "10.1\""
+      }
+    }
+  },
+  {
+    "itemName": "Great Wall W710 7.0” Android 8.1 RK3126C 1GB+8GB Dual Camera WIFI BT Tablet PC",
+    "specs": {
+      "Display": {
+        "Screen Size": "8.0\""
+      }
+    }
+  },
+  {
+    "itemName": "Fujitsu Stylistic Q736 13.3\" 2-in-1Laptop Intel Core i5-6200U 4 GB RAM 128 GB SSD Windows 10 Pro w/ Dual Digitizer, Keyboard",
+    "specs": {
+      "Graphics": {
+        "GPU/VPU": "Intel HD Graphics 520"
+      },
+      "Storage": {
+        "Built-in Storage": "128 GB SSD"
+      },
+      "Dimensions \u0026 Weight": {
+        "Weight": "\u003c 2lbs"
+      },
+      "System Memory": {
+        "Memory": "4 GB"
+      },
+      "Model": {
+        "Brand": "Fujitsu",
+        "Part Number": "XBUY-Q736-WWAN",
+        "Color": "Black",
+        "Model": "Q736"
+      },
+      "Communications": {
+        "Bluetooth": "Bluetooth 4.1",
+        "WLAN": "802.11ac Wireless LAN"
+      },
+      "CPU": {
+        "CPU Speed": "6200U (2.30 GHz)",
+        "CPU Type": "Intel Core i5 6th Gen"
+      },
+      "Ports": {
+        "HDMI": "1 x HDMI"
+      },
+      "Features": {
+        "Function": "Tablet PC"
+      },
+      "Power": {
+        "Battery Life": "9 Hours"
+      },
+      "Operating Systems": {
+        "Operating System": "Windows 10 Pro"
+      },
+      "Display": {
+        "Screen Size": "13.3\"",
+        "Resolution": "1920 x 1080"
+      }
+    }
+  },
+  {
+    "itemName": "Amazon Fire HD 8, 8\" Tablet, 32GB Storage, 7th Generation, 2017 Release - Marine Blue",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "32 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "8.4\" x 5.0\" x 0.4\" (214mm x 128mm x 9.7mm)",
+        "Weight": "13 oz (369 grams)"
+      },
+      "System Memory": {
+        "Memory": "1.5 GB",
+        "Memory Spec": "32GB"
+      },
+      "Model": {
+        "Brand": "Amazon",
+        "Color": "Blue"
+      },
+      "Communications": {
+        "WLAN": "Dual band Wi-Fi"
+      },
+      "CPU": {
+        "CPU Speed": "1.3 GHz",
+        "CPU Type": "Quad-core"
+      },
+      "Ports": {
+        "Audio Ports": "3.5 mm stereo jack and integrated speaker with Dolby Audio"
+      },
+      "Features": {
+        "Other Features": "Includes Special Offers"
+      },
+      "Power": {
+        "Battery Life": "Up to 12 hours of reading, surfing the web, watching video, and listening to music. Battery life will vary based on device settings, usage, and other factors such as web browsing and downloading content. Actual results may vary."
+      },
+      "Display": {
+        "Screen Size": "8.0\"",
+        "Resolution": "1280 x 800 (189 ppi)"
+      }
+    }
+  },
+  {
+    "itemName": "Amazon - Fire 7 - 7\" - Tablet - 16GB 7th Generation, 2017 Release - Punch Red",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "16 GB Flash Storage"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "7.6x4.5x0.4 inches",
+        "Weight": "10.4 ounces"
+      },
+      "System Memory": {
+        "Memory": "1.5 GB"
+      },
+      "Model": {
+        "Brand": "Amazon",
+        "Color": "Red"
+      },
+      "CPU": {
+        "CPU Speed": "1.3 GHz",
+        "CPU Type": "Quad-core processor"
+      },
+      "Features": {
+        "Other Features": "Includes Special Offers"
+      },
+      "Camera": {
+        "Front-Facing Camera": "0.3 megapixels",
+        "Rear Camera": "2 megapixels"
+      },
+      "Power": {
+        "Battery Life": "8 hours",
+        "Battery": "Lithium-ion"
+      },
+      "Operating Systems": {
+        "Operating System": "Fire OS 5"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7\"",
+        "Display Type": "IPS",
+        "Resolution": "1024 x 600"
+      }
+    }
+  },
+  {
+    "itemName": "7inch Zeepad Android 4.4 KitKat Quad Core HD Screen Dual Camera Bluetooth WIFI Tablet PC",
+    "specs": {
+      "Model": {
+        "Color": "Pink"
+      },
+      "Display": {
+        "Screen Size": "7\""
+      }
+    }
+  },
+  {
+    "itemName": "2017 Newest Premium Top Performance NuVision 8-inch Full HD 1920 x 1200 IPS Touchscreen Tablet PC Intel 1.33GHz Atom Z3735F Quad-Core Processor 2GB RAM 32GB eMMC SSD Webcam WIFI Windows 10-Silver",
+    "specs": {
+      "Storage": {
+        "SSD": "32 GB"
+      },
+      "System Memory": {
+        "Memory": "2 GB"
+      },
+      "Model": {
+        "Color": "Silver"
+      },
+      "CPU": {
+        "CPU Type": "Intel Atom"
+      },
+      "Display": {
+        "Screen Size": "8.0\""
+      }
+    }
+  },
+  {
+    "itemName": "CHUWI Hi8 Air Tablet PC, 8.0 inch, 2GB+32GB, Android 5.1 + Windows 10 Dual OS, Intel X5 Cherry Trail Z8350 Quad Core up to 1.44-1.92GHz, Support WiFi, Bluetooth, OTG, Micro HDMI, TF Card",
+    "specs": {
+      "Display": {
+        "Screen Size": "8.0\""
+      }
+    }
+  },
+  {
+    "itemName": "SAMSUNG Kids Tab E Lite SM-T113NDWACCC Quad Core Processor 1.30 GHz 1 GB Memory 8 GB Flash Storage 7\" 1024 x 600 Tablet + Green Bumper Case Android 4.4 (KitKat) White",
+    "specs": {
+      "Storage": {
+        "Built-in Storage": "8 GB Flash Storage",
+        "Card Reader": "Micro SD up to 32 GB"
+      },
+      "Dimensions \u0026 Weight": {
+        "Dimensions (W x D x H)": "7.61\" x 4.58\" x 0.38\"",
+        "Weight": "0.68 lb."
+      },
+      "System Memory": {
+        "Memory": "1 GB"
+      },
+      "Model": {
+        "Brand": "SAMSUNG",
+        "Series": "Kids Tab E Lite",
+        "Color": "White",
+        "Model": "SM-T370NZKAXAR"
+      },
+      "CPU": {
+        "CPU Speed": "1.30 GHz",
+        "CPU Type": "Quad Core Processor",
+        "Number of Cores": "Quad-core Processor"
+      },
+      "Ports": {
+        "USB": "1 x Micro USB 2.0",
+        "Audio Ports": "3.5 mm Stereo"
+      },
+      "Camera": {
+        "Rear Camera": "2 MP"
+      },
+      "Power": {
+        "Battery": "Li-Ion 3600 mAh"
+      },
+      "Operating Systems": {
+        "Operating System": "Android 4.4 (KitKat)"
+      },
+      "Display": {
+        "Touchscreen": "Yes",
+        "Screen Size": "7\"",
+        "Resolution": "1024 x 600"
+      }
+    }
+  },
+  {
+    "itemName": "Android Tablet Kids 7 Inch Tablet PC 512MB 4G A33 Quad Core Learning Tools",
+    "specs": {
+      "Model": {
+        "Color": "Blue"
+      },
+      "Display": {
+        "Screen Size": "7\""
+      }
+    }
+  },
+  {
+    "itemName": "BLU Touchbook M7 Pro P290L Unlocked GSM Quad-Core Phablet - Black",
+    "specs": {
+      "Model": {
+        "Brand": "BLU",
+        "Model": "P290L BLACK"
+      },
+      "CPU": {
+        "CPU Speed": "MT8321 (1.30 GHz)",
+        "CPU Type": "MTK"
+      },
+      "Display": {
+        "Screen Size": "7\""
+      }
+    }
+  }
+]

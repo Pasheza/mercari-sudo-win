@@ -1,0 +1,26 @@
+.red-text {
+    color: red;
+}
+
+.menu-block-div {
+    width: 700px;
+    margin: 20px auto auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.white-back {
+    background-color: white;
+}
+
+.border-eight {
+    border-radius: 8px;
+}
+
+.no-border {
+    border-style: none;
+}
+
+.condition-radio {
+    height: 100px;
+}
