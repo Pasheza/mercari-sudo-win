@@ -2,14 +2,14 @@ import React, {Component} from "react";
 import {
     Grid,
     Row,
-    Image,
     Thumbnail,
     FormGroup,
     FormControl,
     ControlLabel,
     InputGroup,
-    ButtonToolbar, ToggleButtonGroup, ToggleButton, Button, ButtonGroup, Col
+    ButtonToolbar, ToggleButtonGroup, ToggleButton, Button, ButtonGroup
 } from "react-bootstrap"
+import {Image} from 'semantic-ui-react'
 import Dropzone from 'react-dropzone'
 import CategorySelector from "./containers/CategorySelector";
 
@@ -47,6 +47,7 @@ class App extends Component {
     };
 
     render() {
+
         return (
             <Grid>
                 <Row>
@@ -58,23 +59,24 @@ class App extends Component {
                     <div className="menu-block-div">
                         {this.props.files.map(file => {
                             return (
-                                <Col>
-                                    <Thumbnail src={`/static/toSave/${file.name}`}
-                                               style={{marginLeft: 10, marginRight: 10, width: 180}}
-                                    >
-                                        <ButtonGroup>
-                                            <Button>Delete</Button>
-                                        </ButtonGroup>
-                                    </Thumbnail>
-                                </Col>)
+                                <div style={{marginLeft: 5, marginRight: 5, width: 190, height: 200}}
+                                >
+                                    <div style={{width: 190, height: 170, display: "flex"}} className="white-back">
+                                        <Image src={`/static/toSave/${file.name}`}
+                                               style={{maxHeight: 170, maxWidth: 190, margin: "auto"}}
+                                        />
+                                    </div>
+                                    <Button style={{width: 190}}
+                                    >Delete</Button>
+                                </div>
+                            )
                         })}
-                        <Col>
-                            <Dropzone onDrop={this.onDrop} style={dropZoneStyle}>
-                                <Thumbnail src="/static/images/saveFIleIcon.png" style={fileIconStyle}>
-                                    <p>Drag and drop photos or click to select images.</p>
-                                </Thumbnail>
-                            </Dropzone>
-                        </Col>
+                        <Dropzone onDrop={this.onDrop}
+                                  style={{...dropZoneStyle, width: 800 - 200 * this.props.files.length - 10}}>
+                            <Thumbnail src="/static/images/saveFIleIcon.png" style={fileIconStyle}>
+                                <p>Drag and drop photos or click to select images.</p>
+                            </Thumbnail>
+                        </Dropzone>
                     </div>
                 </Row>
                 <Row>

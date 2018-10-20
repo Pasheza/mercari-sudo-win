@@ -24,7 +24,8 @@
     "redux-actions": "^2.6.1",
     "webpack-dev-server": "^3.1.9",
     "lodash": "latest",
-    "axios": "latest"
+    "axios": "latest",
+    "semantic-ui-react": "latest"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
