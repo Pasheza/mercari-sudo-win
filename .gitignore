@@ -108,3 +108,4 @@ venv.bak/
 
 mercari/mercariapp/templates/sell-page-src/node_modules/
 mercari/~/toSave/
+mercari/mercariapp/static/toSave
