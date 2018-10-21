@@ -18,8 +18,6 @@ const mapStateToProps = (state) => ({
     firstCategory: getFirstCategory(state.mercari),
     secondCategory: getSecondCategory(state.mercari),
     thirdCategory: getThirdCategory(state.mercari),
-    sizes: getSizeOptions(state.mercari),
-    chosenSize: getChosenSize(state.mercari)
 });
 
 const mapDispatchToProps = {

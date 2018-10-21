@@ -14,7 +14,7 @@ export default class CategorySelector extends Component {
     }
 
     optionsFromSpecs = (specs) => {
-        return _.values(specs).map(item => ({
+        return _.values(specs[this.props.thirdCategory]).map(item => ({
             label: item.itemName,
             value: item.itemName
         }));
@@ -32,10 +32,6 @@ export default class CategorySelector extends Component {
         this.props.onChangeOfThirdCategory(selectedCategory);
     };
 
-
-    onChangeOfSize = (newSize) => {
-        this.props.onChangeOfSize(newSize);
-    };
 
     brandInputChange = (newInput) => {
         if (newInput.trim() === "") {
@@ -98,7 +94,7 @@ export default class CategorySelector extends Component {
                         style={{borderStyle: "none"}}
                         value={props.thirdCategory}
                         options={props.thirdSelectOptions}
-                        onChange={(selected => this.onChangeOfThirdCategory(selected.value))}
+                        onChange={(selected => this.onChangeOfThirdCategory(selected.label))}
                     />
                 </FormGroup>}
                 {props.thirdCategory &&

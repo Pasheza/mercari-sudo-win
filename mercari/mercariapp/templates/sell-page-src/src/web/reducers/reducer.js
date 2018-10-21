@@ -3,7 +3,6 @@ import {
     changeFirstCategory,
     changeSecondCategory,
     changeThirdCategory,
-    changeSize,
     addFile,
     addResults, loadSpecs
 } from '../actions'
@@ -22,13 +21,6 @@ export const getFiles = (state) => {
     return _.values(state.files);
 };
 
-export const getSizeOptions = (state) => {
-    return state.sizes.map(s => ({label: s, value: s}));
-};
-
-export const getChosenSize = (state) => {
-    return state.chosenSize;
-};
 
 export const getCategories = (state) => {
     return state.categories;
@@ -73,53 +65,21 @@ const mapCategoryToOption = (category) => {
 
 const defaultState = {
     categories: {
-        Women: {
-            Skirts: {
-                Mini: {
-                    label: "Mini",
-                    value: 100
-                },
-                Pencil: {
-                    label: "Pencil",
+        Tech: {
+            "Computers & tablets": {
+                Tablet: {
+                    label: "Tablet",
                     value: 101
                 }
             },
-            Shirts: {
-                "T-shirts": {
+            "Cell phones & accessories": {
+                "Cell phones & smartphones": {
                     label: "T-shirts",
                     value: 102
-                },
-                Uniform: {
-                    label: "Uniform",
-                    value: 103
-                }
-            }
-        },
-        Men: {
-            Shoes: {
-                Sneakers: {
-                    label: "Sneakers",
-                    value: 104
-                },
-                Slipons: {
-                    label: "Slipons",
-                    value: 105
-                }
-            },
-            Shirts: {
-                "T-shirts": {
-                    label: "T-shirts",
-                    value: 106
-                },
-                Uniform: {
-                    label: "Uniform",
-                    value: 107
                 }
             }
         }
     },
-    sizes: ["XXL", "XL", "L", "M", "S", "XS", "XXS"],
-    chosenSize: undefined,
     firstCategory: undefined,
     secondCategory: undefined,
     thirdCategory: undefined,
@@ -131,40 +91,32 @@ const defaultState = {
 let reducer = handleActions(
     {
         [changeFirstCategory]: (state, {payload}) => {
-            if(state.firstCategory !== payload)
-            return {
-                ...state,
-                firstCategory: payload,
-                secondCategory: undefined,
-                thirdCategory: undefined,
-                chosenSize: undefined
-            };
+            if (state.firstCategory !== payload)
+                return {
+                    ...state,
+                    firstCategory: payload,
+                    secondCategory: undefined,
+                    thirdCategory: undefined,
+                };
             else return state;
         },
         [changeSecondCategory]: (state, {payload}) => {
-            if(state.secondCategory !== payload)
-            return {
-                ...state,
-                secondCategory: payload,
-                thirdCategory: undefined,
-                chosenSize: undefined
-            };
+            if (state.secondCategory !== payload)
+                return {
+                    ...state,
+                    secondCategory: payload,
+                    thirdCategory: undefined,
+                };
             else return state;
         },
         [changeThirdCategory]: (state, {payload}) => {
 
-            if(state.thirdCategory !== payload)
-            return {
-                ...state,
-                thirdCategory: payload
-            };
+            if (state.thirdCategory !== payload)
+                return {
+                    ...state,
+                    thirdCategory: payload
+                };
             else return state;
-        },
-        [changeSize]: (state, {payload}) => {
-            return {
-                ...state,
-                chosenSize: payload
-            }
         },
         [addFile]: (state, {payload}) => {
             const filesNum = _.keys(state.files).length;

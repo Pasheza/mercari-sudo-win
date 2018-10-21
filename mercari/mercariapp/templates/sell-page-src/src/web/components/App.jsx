@@ -59,7 +59,7 @@ class App extends Component {
     onChoosingItem = (itemName) => {
         if(itemName){
             this.setState({
-                description: this.props.specs[itemName].specs
+                description: this.props.specs[this.props.category][itemName].specs
             })
         }
     };
