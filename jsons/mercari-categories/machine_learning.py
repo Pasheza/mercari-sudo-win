@@ -3,6 +3,8 @@
 # from keras.layers import MaxPooling2D
 # from keras.layers import Flatten
 # from keras.layers import Dense
+from torchvision import transforms
+from torchvision.datasets import ImageFolder
 import json
 import requests
 from PIL import Image
@@ -31,8 +33,17 @@ def get_dataset():
     print(cats)
     return df
 
-print(get_dataset()[10])
+# print(get_dataset()[10])
 
+generic_transform = transforms.Compose([
+    transforms.ToTensor(),
+    transforms.Resize(32, 32),
+    transforms.ToTensor(),
+    transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))
+])
+trainset = ImageFolder(root='/images_train', transform=generic_transform)
+
+testset = ImageFolder(root='/images_test', transform=generic_transform)
 
 # # Initialising the CNN
 # classifier = Sequential()
@@ -57,7 +68,7 @@ print(get_dataset()[10])
 # # Compiling the CNN
 # classifier.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
-# Part 2 - Fitting the CNN to the images
+# Part 2 - Fitting the CNN to the images_train
 
 # from keras.preprocessing.image import ImageDataGenerator
 #

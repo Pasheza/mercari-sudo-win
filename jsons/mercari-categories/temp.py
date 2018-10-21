@@ -1,6 +1,7 @@
 import torch
 import torchvision
 import torchvision.transforms as transforms
+from torchvision.datasets import ImageFolder
 
 transform = transforms.Compose(
     [transforms.ToTensor(),
@@ -15,10 +16,29 @@ transform = transforms.Compose(
 #                                        download=True, transform=transform)
 # testloader = torch.utils.data.DataLoader(testset, batch_size=4,
 #                                          shuffle=False, num_workers=2)
-#
+
+generic_transform = transforms.Compose([
+    transforms.ToTensor(),
+    transforms.ToPILImage(),
+    transforms.Resize((32, 32)),
+    transforms.ToTensor(),
+    transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))
+])
+trainset = ImageFolder(root='./images_train', transform=generic_transform)
+
+testset = ImageFolder(root='./images_test', transform=generic_transform)
+
+trainloader = torch.utils.data.DataLoader(trainset,
+                                             batch_size=4, shuffle=True,
+                                             num_workers=1)
+testloader = torch.utils.data.DataLoader(testset,
+                                            batch_size=4, shuffle=True,
+                                            num_workers=1)
+
 # classes = ('plane', 'car', 'bird', 'cat',
 #            'deer', 'dog', 'frog', 'horse', 'ship', 'truck')
-#
+classes = ('Baskets', 'Board Shorts for Men', 'Cell Phones & Smartphones', 'Nail Care & Polish', 'Vases')
+
 # import matplotlib.pyplot as plt
 import numpy as np
 
@@ -31,13 +51,13 @@ def imshow(img):
     # plt.imshow(np.transpose(npimg, (1, 2, 0)))
 
 
-# get some random training images
+# get some random training images_train
 dataiter = iter(trainloader)
 images, labels = dataiter.next()
 print('КАРТИНОЧКИ!!!!')
 
 print(images[1])
-# show images
+# show images_train
 imshow(torchvision.utils.make_grid(images))
 # print labels
 print(' '.join('%5s' % classes[labels[j]] for j in range(4)))
@@ -74,7 +94,7 @@ import torch.optim as optim
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.SGD(net.parameters(), lr=0.001, momentum=0.9)
 
-for epoch in range(2):  # loop over the dataset multiple times
+for epoch in range(15):  # loop over the dataset multiple times
 
     running_loss = 0.0
     for i, data in enumerate(trainloader, 0):
@@ -102,7 +122,7 @@ print('Finished Training')
 dataiter = iter(testloader)
 images, labels = dataiter.next()
 
-# print images
+# print images_train
 imshow(torchvision.utils.make_grid(images))
 print('GroundTruth: ', ' '.join('%5s' % classes[labels[j]] for j in range(4)))
 
