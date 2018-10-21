@@ -6,6 +6,7 @@ export const changeSecondCategory = createAction("SECOND/CATEGORY/CHANGE");
 export const changeThirdCategory = createAction("THIRD/CATEGORY/CHANGE");
 export const changeSize = createAction("SIZE/CHANGE");
 export const addFile = createAction("FILE/ADD");
+export const addResults = createAction("RESULTS/ADD");
 
 
 export const onChangeOfFirstCategory = (firstCategory) => dispatch => {
@@ -26,5 +27,6 @@ export const onChangeOfSize = (newSize) => dispatch => {
 };
 
 export const onSubmittingFile = file => dispatch => {
-    postFile(file).then(() => dispatch(addFile(file)));
+    postFile(file).then(results => dispatch(addResults(results.status)));
+    dispatch(addFile(file))
 };

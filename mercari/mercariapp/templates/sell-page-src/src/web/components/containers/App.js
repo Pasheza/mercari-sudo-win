@@ -1,10 +1,11 @@
 import {connect} from 'react-redux'
 import App from "../App";
 import {onSubmittingFile} from "../../actions";
-import {getFiles} from "../../reducers/reducer";
+import {getAnalyzerResults, getFiles} from "../../reducers/reducer";
 
 const mapStateToProps = (state) => ({
-    files: getFiles(state.mercari)
+    files: getFiles(state.mercari),
+    results: getAnalyzerResults(state.mercari)
 });
 
 const mapDispatchToProps = {

@@ -12,6 +12,7 @@ import {
 import {Image} from 'semantic-ui-react'
 import Dropzone from 'react-dropzone'
 import CategorySelector from "./containers/CategorySelector";
+import {getAnalyzerInfo, greenCodes, redCodes} from '../utils/Constants'
 
 require("../css/styles.css");
 const dropZoneStyle = {
@@ -46,6 +47,12 @@ class App extends Component {
         alert(`Selected category ${selectedCategory.value}`)
     };
 
+    getInfoColor = (code) => {
+        if(greenCodes.includes(code)) return "green";
+        else if (redCodes.includes(code)) return "red";
+        else return "orange"
+    };
+
     render() {
 
         return (
@@ -56,8 +63,8 @@ class App extends Component {
                     </div>
                 </Row>
                 <Row>
-                    <div className="menu-block-div">
-                        {this.props.files.map(file => {
+                    <div className="menu-block-div" style={{display: "flex"}}>
+                        {this.props.files.map((file, index) => {
                             return (
                                 <div style={{marginLeft: 5, marginRight: 5, width: 190, height: 200}}
                                 >
@@ -68,6 +75,7 @@ class App extends Component {
                                     </div>
                                     <Button style={{width: 190}}
                                     >Delete</Button>
+                                    {this.props.results[index] && <span style={{textAlign: "center", color: this.getInfoColor(this.props.results[index])}}>{getAnalyzerInfo(this.props.results[index])}</span>}
                                 </div>
                             )
                         })}
