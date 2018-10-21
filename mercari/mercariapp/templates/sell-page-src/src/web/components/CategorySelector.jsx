@@ -1,9 +1,24 @@
 import React, {Component, Fragment} from 'react'
 import Select from 'react-select'
-import {ControlLabel, FormControl, FormGroup} from "react-bootstrap";
+import CreatableSelect from 'react-select/lib/Creatable';
+import {ControlLabel, FormGroup} from "react-bootstrap";
 
 
 export default class CategorySelector extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            options: this.optionsFromSpecs(props.specs),
+            chosen: undefined
+        }
+    }
+
+    optionsFromSpecs = (specs) => {
+        return _.values(specs).map(item => ({
+            label: item.itemName,
+            value: item.itemName
+        }));
+    };
 
     onChangeOfFirstCategory = (selectedCategory) => {
         this.props.onChangeOfFirstCategory(selectedCategory)
@@ -20,6 +35,34 @@ export default class CategorySelector extends Component {
 
     onChangeOfSize = (newSize) => {
         this.props.onChangeOfSize(newSize);
+    };
+
+    brandInputChange = (newInput) => {
+        if (newInput.trim() === "") {
+            this.setState({
+                options: this.optionsFromSpecs(this.props.specs)
+            });
+        } else {
+            const specs = this.props.specs;
+            const tags = newInput.split(' ');
+            const newOptions = _.values(specs).filter(item => {
+                return tags.find(tag => item.tags.includes(tag))
+            });
+            this.setState({
+                options: newOptions
+            });
+        }
+    };
+
+    getOptions = () => {
+        return this.state.options;
+    };
+
+    chooseItem = (item) => {
+        this.setState({
+            chosen: item
+        });
+        this.props.onChoosingItem(item)
     };
 
     render() {
@@ -63,10 +106,11 @@ export default class CategorySelector extends Component {
                     style={{marginLeft: 20, marginRight: 20, marginTop: 20}}
                 >
                     <ControlLabel>Brand</ControlLabel>
-                    <FormControl
-                        type="text"
-                        placeholder="Enter brand"
-                        onChange={event => this.props.onChangeBrand(event.target.value)}
+                    <Select
+                        value={this.state.chosen}
+                        searchable={true}
+                        options={this.optionsFromSpecs(this.props.specs)}
+                        onChange={selected => this.chooseItem(selected.value)}
                     />
                 </FormGroup>
                 }

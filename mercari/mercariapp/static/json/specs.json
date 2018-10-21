@@ -38320,5 +38320,2003 @@
         "Operating System": "Android 4"
       }
     }
+  },
+  {
+    "itemName": "Apple iPad (2018) Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "Wi-Fi",
+      "(2018)",
+      "iPad",
+      "+"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "2048x1536 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A10 Fusion"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No",
+        "Bluetooth version": "4.20"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "March 2018",
+        "Colours": "Silver, Gold, Space Gray",
+        "Removable battery": "No",
+        "Dimensions (mm)": "240.00 x 169.50 x 7.50",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "478.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 11"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad (2018) Wi-Fi",
+    "tags": [
+      "Apple",
+      "Wi-Fi",
+      "(2018)",
+      "iPad"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "2048x1536 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A10 Fusion"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No",
+        "Bluetooth version": "4.20"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "March 2018",
+        "Colours": "Silver, Gold, Space Gray",
+        "Removable battery": "No",
+        "Dimensions (mm)": "240.00 x 169.50 x 7.50",
+        "Form factor": "Touchscreen",
+        "Weight (g)": "469.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 11"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro (12.9-inch) 2017 Wi-Fi + Cellular",
+    "tags": [
+      "(12.9-inch)",
+      "Cellular",
+      "Apple",
+      "2017",
+      "Wi-Fi",
+      "iPad",
+      "+",
+      "Pro"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "12.90",
+        "Resolution": "2732x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "64GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A10X Fusion"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "Bluetooth version": "4.20",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Rear Flash": "Yes",
+        "Front camera": "7-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "June 2017",
+        "Colours": "Space Grey, Gold, Silver",
+        "Removable battery": "No",
+        "Dimensions (mm)": "305.70 x 220.60 x 6.90",
+        "Weight (g)": "692.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 10"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro (12.9-inch) 2017 Wi-Fi",
+    "tags": [
+      "(12.9-inch)",
+      "Apple",
+      "2017",
+      "Wi-Fi",
+      "iPad",
+      "Pro"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "12.90",
+        "Resolution": "2732x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "64GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A10X Fusion"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No",
+        "Bluetooth version": "4.20"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Rear Flash": "Yes",
+        "Front camera": "7-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "June 2017",
+        "Colours": "Space Grey, Gold, Silver",
+        "Removable battery": "No",
+        "Dimensions (mm)": "305.70 x 220.60 x 6.90",
+        "Weight (g)": "677.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 10"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro (10.5-inch) Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "(10.5-inch)",
+      "Wi-Fi",
+      "iPad",
+      "+",
+      "Pro"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "10.50",
+        "Resolution": "2224x1668 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "64GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A10X Fusion"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "Bluetooth version": "4.20",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Rear Flash": "Yes",
+        "Front camera": "7-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "June 2017",
+        "Colours": "Space Grey, Rose Gold, Gold, Silver",
+        "Removable battery": "No",
+        "Dimensions (mm)": "250.60 x 174.10 x 6.10",
+        "Weight (g)": "477.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 10"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro (10.5-inch) Wi-Fi",
+    "tags": [
+      "Apple",
+      "(10.5-inch)",
+      "Wi-Fi",
+      "iPad",
+      "Pro"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "10.50",
+        "Resolution": "2224x1668 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "64GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A10X Fusion"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No",
+        "Bluetooth version": "4.20"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Rear Flash": "Yes",
+        "Front camera": "7-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "June 2017",
+        "Colours": "Space Grey, Rose Gold, Gold, Silver",
+        "Removable battery": "No",
+        "Dimensions (mm)": "250.60 x 174.10 x 6.10",
+        "Weight (g)": "469.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 10"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad (2017) Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "(2017)",
+      "Wi-Fi",
+      "iPad",
+      "+"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "2048x1536 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Processor make": "A9"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Bluetooth version": "4.20",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "March 2017",
+        "Colours": "Silver, Gold, Space Grey",
+        "Removable battery": "No",
+        "Dimensions (mm)": "240.00 x 169.50 x 7.50",
+        "Weight (g)": "469.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 10"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad (2017) Wi-Fi",
+    "tags": [
+      "Apple",
+      "(2017)",
+      "Wi-Fi",
+      "iPad"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "2048x1536 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Processor make": "A9"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "Yes",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No",
+        "Bluetooth version": "4.20"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "March 2017",
+        "Colours": "Silver, Gold, Space Grey",
+        "Removable battery": "No",
+        "Dimensions (mm)": "240.00 x 169.50 x 7.50",
+        "Weight (g)": "469.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 10"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro (9.7-inch) Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "(9.7-inch)",
+      "Wi-Fi",
+      "iPad",
+      "+",
+      "Pro"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "2048x1536 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Processor make": "A9X"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "Yes",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Bluetooth version": "4.20",
+        "Supports 4G in India (Band 40)": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Rear Flash": "Yes",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "March 2016",
+        "Colours": "Silver, Gold, Space Grey, Rose Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "240.00 x 169.50 x 6.10",
+        "Weight (g)": "444.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 9"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro (9.7-inch) Wi-Fi",
+    "tags": [
+      "Apple",
+      "(9.7-inch)",
+      "Wi-Fi",
+      "iPad",
+      "Pro"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "2048x1536 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Processor make": "A9X"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes",
+        "Bluetooth version": "4.20"
+      },
+      "CAMERA": {
+        "Rear camera": "12-megapixel",
+        "Rear Flash": "Yes",
+        "Front camera": "5-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "March 2016",
+        "Colours": "Silver, Gold, Space Grey, Rose Gold",
+        "Removable battery": "No",
+        "Dimensions (mm)": "240.00 x 169.50 x 6.10",
+        "Weight (g)": "437.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 9"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad mini 4 Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "mini",
+      "4",
+      "Wi-Fi",
+      "iPad",
+      "+"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "7.90",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A8"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes",
+        "Bluetooth version": "4.20"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "September 2015",
+        "Colours": "Silver, Gold, Space Gray",
+        "Removable battery": "No",
+        "Dimensions (mm)": "203.20 x 134.80 x 6.10",
+        "Weight (g)": "304.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 9"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad mini 4 Wi-Fi",
+    "tags": [
+      "Apple",
+      "mini",
+      "4",
+      "Wi-Fi",
+      "iPad"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "7.90",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A8"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No",
+        "Bluetooth version": "4.20"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "September 2015",
+        "Colours": "Silver, Gold, Space Gray",
+        "Removable battery": "No",
+        "Dimensions (mm)": "203.20 x 134.80 x 6.10",
+        "Weight (g)": "298.80"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 9"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "+",
+      "Pro"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "12.90",
+        "Resolution": "2732x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A9X",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes",
+        "Bluetooth version": "4.20"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "Yes"
+      },
+      "GENERAL": {
+        "Release date": "September 2015",
+        "Colours": "Silver, Gold, Space Grey",
+        "Removable battery": "No",
+        "Dimensions (mm)": "305.70 x 220.60 x 6.90",
+        "Weight (g)": "723.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 9"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Pro Wi-Fi",
+    "tags": [
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "Pro"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "12.90",
+        "Resolution": "2732x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "32GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A9X",
+        "RAM": "4GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No",
+        "Bluetooth version": "4.20"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Front camera": "Yes"
+      },
+      "GENERAL": {
+        "Release date": "September 2015",
+        "Colours": "Silver, Gold, Space Grey",
+        "Removable battery": "No",
+        "Dimensions (mm)": "305.70 x 220.60 x 6.90",
+        "Weight (g)": "713.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 9"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad mini 3 Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "3",
+      "mini",
+      "Wi-Fi",
+      "iPad",
+      "+"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "7.90",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A7"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "No",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Bluetooth version": "4.00",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2014",
+        "Colours": "Silver, Gold, Space Gray",
+        "Removable battery": "No",
+        "Dimensions (mm)": "200.00 x 134.70 x 7.50",
+        "Weight (g)": "341.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 8.1"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad mini 3 Wi-Fi",
+    "tags": [
+      "Apple",
+      "3",
+      "mini",
+      "Wi-Fi",
+      "iPad"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "7.90",
+        "Resolution": "2048x1536 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A7"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No",
+        "Bluetooth version": "4.00"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2014",
+        "Colours": "Silver, Gold, Space Gray",
+        "Removable battery": "No",
+        "Dimensions (mm)": "200.00 x 134.70 x 7.50",
+        "Weight (g)": "331.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 8.1"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Air 2 Wi-Fi + Cellular",
+    "tags": [
+      "2",
+      "Cellular",
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "Air",
+      "+"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor make": "Apple A8X"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Bluetooth version": "4.20",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2014",
+        "Colours": "Silver, Gold, Space Gray",
+        "Removable battery": "No",
+        "Dimensions (mm)": "240.00 x 169.50 x 6.10",
+        "Weight (g)": "444.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "Yes",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 8.1"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Air 2 Wi-Fi",
+    "tags": [
+      "2",
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "Air"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor": "1.5GHz dual-core",
+        "Processor make": "Apple A8X",
+        "RAM": "2GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "Wi-Fi standards supported": "802.11 a/b/g/n/ac",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "No",
+        "Bluetooth version": "4.20"
+      },
+      "CAMERA": {
+        "Rear camera": "8-megapixel",
+        "Rear Flash": "No",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2014",
+        "Colours": "Silver, Gold, Space Gray",
+        "SAR value": "1.19",
+        "Removable battery": "No",
+        "Dimensions (mm)": "240.00 x 169.50 x 6.10",
+        "Weight (g)": "437.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 8.1"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad mini with Retina display Wi-Fi + Cellular",
+    "tags": [
+      "with",
+      "Cellular",
+      "Apple",
+      "mini",
+      "Wi-Fi",
+      "display",
+      "Retina",
+      "iPad",
+      "+"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "7.90",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Bluetooth version": "4.00",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "September 2013",
+        "Removable battery": "No",
+        "Dimensions (mm)": "200.00 x 134.70 x 7.20",
+        "Weight (g)": "341.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 7"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad mini with Retina display Wi-Fi",
+    "tags": [
+      "with",
+      "Apple",
+      "mini",
+      "Wi-Fi",
+      "display",
+      "Retina",
+      "iPad"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "326",
+        "Screen size (inches)": "7.90",
+        "Resolution": "2048x1536 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor": "1.3GHz",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "No",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "3G": "No",
+        "SIM 1": "",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "September 2013",
+        "Removable battery": "No",
+        "Dimensions (mm)": "134.70 x 200.00 x 7.20",
+        "Weight (g)": "331.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 7"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Air Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "Air",
+      "+"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1.3GHz",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes, v 4.00",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "September 2013",
+        "Battery capacity (mAh)": "8820",
+        "Alternate names": "iPad 5",
+        "Removable battery": "No",
+        "Dimensions (mm)": "240.00 x 169.50 x 7.50",
+        "Weight (g)": "478.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 7"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Air Wi-Fi",
+    "tags": [
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "Air"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Processor": "1.3GHz",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "No",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "3G": "No",
+        "Wi-Fi standards supported": "802.11 b/g/n",
+        "SIM 1": "",
+        "Bluetooth version": "4.00",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "September 2013",
+        "Battery capacity (mAh)": "8820",
+        "Removable battery": "No",
+        "Dimensions (mm)": "240.00 x 169.50 x 7.50",
+        "Weight (g)": "469.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 7"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad mini Wi-Fi + Cellular",
+    "tags": [
+      "Cellular",
+      "Apple",
+      "mini",
+      "Wi-Fi",
+      "iPad",
+      "+"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "163",
+        "Screen size (inches)": "7.90",
+        "Resolution": "768x1024 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1GHz",
+        "RAM": "512MB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Nano-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2012",
+        "Removable battery": "No",
+        "Dimensions (mm)": "200.00 x 134.70 x 7.20",
+        "Weight (g)": "312.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 6"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad mini Wi-Fi",
+    "tags": [
+      "Apple",
+      "mini",
+      "Wi-Fi",
+      "iPad"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "163",
+        "Screen size (inches)": "7.90",
+        "Resolution": "768x1024 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1GHz",
+        "RAM": "512MB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2012",
+        "Removable battery": "No",
+        "Dimensions (mm)": "200.00 x 134.70 x 7.20",
+        "Weight (g)": "308.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "Yes",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 6"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad 4th generation Wi-Fi + Cellular",
+    "tags": [
+      "generation",
+      "Cellular",
+      "Apple",
+      "Wi-Fi",
+      "4th",
+      "iPad",
+      "+"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1.4GHz",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2012",
+        "Battery capacity (mAh)": "11560",
+        "Alternate names": "iPad 4",
+        "Removable battery": "No",
+        "Dimensions (mm)": "241.20 x 185.70 x 9.40",
+        "Weight (g)": "662.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 6"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad 4th generation Wi-Fi",
+    "tags": [
+      "generation",
+      "Apple",
+      "Wi-Fi",
+      "4th",
+      "iPad"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1.4GHz",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "1.2-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "October 2012",
+        "Battery capacity (mAh)": "11560",
+        "Alternate names": "iPad 4",
+        "Removable battery": "No",
+        "Dimensions (mm)": "241.20 x 185.70 x 9.40",
+        "Weight (g)": "652.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating system": "iOS 6"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad 3rd generation Wi-Fi + Cellular",
+    "tags": [
+      "generation",
+      "Cellular",
+      "Apple",
+      "Wi-Fi",
+      "3rd",
+      "iPad",
+      "+"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1GHz",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "0.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "March 2012",
+        "Battery capacity (mAh)": "11560",
+        "Alternate names": "iPad 3",
+        "Removable battery": "No",
+        "Dimensions (mm)": "241.20 x 185.70 x 9.40",
+        "Weight (g)": "662.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 5.1"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad 3rd generation Wi-Fi",
+    "tags": [
+      "generation",
+      "Apple",
+      "Wi-Fi",
+      "3rd",
+      "iPad"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "264",
+        "Screen size (inches)": "9.70",
+        "Resolution": "1536x2048 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1GHz",
+        "RAM": "1GB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "5-megapixel",
+        "Front camera": "0.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "March 2012",
+        "Battery capacity (mAh)": "11560",
+        "Alternate names": "iPad 3",
+        "Removable battery": "No",
+        "Dimensions (mm)": "241.20 x 185.70 x 9.40",
+        "Weight (g)": "652.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 5.1"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad 2 Wi-Fi + 3G",
+    "tags": [
+      "2",
+      "Apple",
+      "Wi-Fi",
+      "3G",
+      "iPad",
+      "+"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "132",
+        "Screen size (inches)": "9.70",
+        "Resolution": "768x1024 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1GHz",
+        "RAM": "512MB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "0.7-megapixel",
+        "Front camera": "0.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "March 2011",
+        "Battery capacity (mAh)": "6930",
+        "Removable battery": "No",
+        "Dimensions (mm)": "241.20 x 185.70 x 8.80",
+        "Weight (g)": "607.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 4"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad 2 Wi-Fi",
+    "tags": [
+      "2",
+      "Apple",
+      "Wi-Fi",
+      "iPad"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "132",
+        "Screen size (inches)": "9.70",
+        "Resolution": "768x1024 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1GHz",
+        "RAM": "512MB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "0.7-megapixel",
+        "Front camera": "0.3-megapixel"
+      },
+      "GENERAL": {
+        "Release date": "March 2011",
+        "Battery capacity (mAh)": "6930",
+        "Removable battery": "No",
+        "Dimensions (mm)": "241.20 x 185.70 x 8.80",
+        "Weight (g)": "607.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "Yes",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "Yes",
+        "Barometer": "No",
+        "Proximity sensor": "No"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 4"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Wi-Fi +3G",
+    "tags": [
+      "Apple",
+      "Wi-Fi",
+      "iPad",
+      "+3G"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "132",
+        "Screen size (inches)": "9.70",
+        "Resolution": "768x1024 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1GHz",
+        "RAM": "256MB"
+      },
+      "CONNECTIVITY": {
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "Number of SIMs": "1",
+        "NFC": "No",
+        "GPS": "Yes",
+        "4G/ LTE": "No",
+        "Headphones": "3.5mm",
+        "GSM/CDMA": "GSM",
+        "3G": "Yes",
+        "SIM 1": "",
+        "SIM Type": "Micro-SIM",
+        "Supports 4G in India (Band 40)": "No"
+      },
+      "CAMERA": {
+        "Rear camera": "No",
+        "Front camera": "No"
+      },
+      "GENERAL": {
+        "Release date": "January 2010",
+        "Removable battery": "No",
+        "Dimensions (mm)": "242.80 x 189.70 x 13.70",
+        "Weight (g)": "680.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 4"
+      }
+    }
+  },
+  {
+    "itemName": "Apple iPad Wi-Fi",
+    "tags": [
+      "Apple",
+      "Wi-Fi",
+      "iPad"
+    ],
+    "specs": {
+      "DISPLAY": {
+        "Touchscreen": "No",
+        "Pixels per inch (PPI)": "132",
+        "Screen size (inches)": "9.70",
+        "Resolution": "768x1024 pixels"
+      },
+      "HARDWARE": {
+        "Internal storage": "16GB",
+        "Expandable storage": "No",
+        "Expandable storage type": "microSD",
+        "Processor": "1GHz",
+        "RAM": "256MB"
+      },
+      "CONNECTIVITY": {
+        "Headphones": "3.5mm",
+        "Bluetooth": "Yes",
+        "USB OTG": "No",
+        "Wi-Fi": "Yes",
+        "Infrared": "No",
+        "FM": "No",
+        "NFC": "No",
+        "GPS": "Yes"
+      },
+      "CAMERA": {
+        "Rear camera": "No",
+        "Front camera": "No"
+      },
+      "GENERAL": {
+        "Release date": "January 2010",
+        "Removable battery": "No",
+        "Dimensions (mm)": "242.80 x 189.70 x 13.70",
+        "Weight (g)": "680.00"
+      },
+      "SENSORS": {
+        "Accelerometer": "Yes",
+        "Ambient light sensor": "No",
+        "Gyroscope": "No",
+        "Temperature sensor": "No",
+        "Compass/ Magnetometer": "No",
+        "Barometer": "No",
+        "Proximity sensor": "Yes"
+      },
+      "SOFTWARE": {
+        "Operating System": "iOS 4"
+      }
+    }
   }
 ]

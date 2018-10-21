@@ -37,11 +37,10 @@ class App extends Component {
         super(props);
         this.state = {
             condition: undefined,
-            description: undefined
+            description: undefined,
         };
         this.props.onLoadingSpecs();
     }
-
 
     onDrop = (files) => {
         this.props.onSubmittingFile(files[0]);
@@ -57,19 +56,12 @@ class App extends Component {
         else return "orange"
     };
 
-    findDescription = (brand) => {
-        const specs = this.props.specs;
-        const description = _.values(specs).find(item => {
-            return item.tags.includes(brand)
-        });
-        this.setState({
-            description: description && description.specs
-        })
-    };
-
-
-    onChangeBrand = (newBrand) => {
-        this.findDescription(newBrand.toLowerCase());
+    onChoosingItem = (itemName) => {
+        if(itemName){
+            this.setState({
+                description: this.props.specs[itemName].specs
+            })
+        }
     };
 
     render() {
@@ -140,7 +132,8 @@ class App extends Component {
                 <Row>
                     <div className="menu-block-div white-back border-eight">
                         <CategorySelector
-                            onChangeBrand={this.onChangeBrand}
+                            onChoosingItem={this.onChoosingItem}
+                            specs={this.props.specs}
                         />
                     </div>
                 </Row>
