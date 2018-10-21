@@ -1,7 +1,18 @@
 import {handleActions} from 'redux-actions'
-import {changeFirstCategory, changeSecondCategory, changeThirdCategory, changeSize, addFile} from '../actions'
+import {
+    changeFirstCategory,
+    changeSecondCategory,
+    changeThirdCategory,
+    changeSize,
+    addFile,
+    addResults
+} from '../actions'
 
 import _ from 'lodash'
+
+export const getAnalyzerResults = (state) => {
+    return state.analyzerResults;
+};
 
 export const getFiles = (state) => {
     return _.values(state.files);
@@ -108,7 +119,8 @@ const defaultState = {
     firstCategory: undefined,
     secondCategory: undefined,
     thirdCategory: undefined,
-    files: {}
+    files: {},
+    analyzerResults: []
 };
 
 let reducer = handleActions(
@@ -157,6 +169,14 @@ let reducer = handleActions(
                     ...state.files,
                     [`File${filesNum + 1}`]: payload
                 }
+            }
+        },
+        [addResults]: (state, {payload}) => {
+            let results = state.analyzerResults;
+            results.push(payload);
+            return {
+                ...state,
+                analyzerResults: results
             }
         }
     },

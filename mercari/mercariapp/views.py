@@ -16,7 +16,7 @@ def new_item(request):
     if request.method == 'POST':
         form = UploadPhotoForm(request.POST, request.FILES)
         if form.is_valid():
-            return HttpResponse('{"status":"%d"}' % photo_handler(request.FILES['file']), status=200)
+            return HttpResponse('{"status":%d}' % photo_handler(request.FILES['file']), status=200)
     else:
         form = UploadPhotoForm()
     return render(request, 'sell-page/index.html', {'form': form})
