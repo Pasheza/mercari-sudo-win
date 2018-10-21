@@ -7,14 +7,16 @@ import {
     FormControl,
     ControlLabel,
     InputGroup,
-    ButtonToolbar, ToggleButtonGroup, ToggleButton, Button, ButtonGroup
+    ButtonToolbar, ToggleButtonGroup, ToggleButton, Button
 } from "react-bootstrap"
 import {Image} from 'semantic-ui-react'
 import Dropzone from 'react-dropzone'
 import CategorySelector from "./containers/CategorySelector";
 import {getAnalyzerInfo, greenCodes, redCodes} from '../utils/Constants'
+import ItemSpecs from "./ItemSpecs";
 
 require("../css/styles.css");
+
 const dropZoneStyle = {
     textAlign: "center",
     backgroundColor: "white",
@@ -34,8 +36,10 @@ class App extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            condition: undefined
-        }
+            condition: undefined,
+            description: undefined
+        };
+        this.props.onLoadingSpecs();
     }
 
 
@@ -48,9 +52,24 @@ class App extends Component {
     };
 
     getInfoColor = (code) => {
-        if(greenCodes.includes(code)) return "green";
+        if (greenCodes.includes(code)) return "green";
         else if (redCodes.includes(code)) return "red";
         else return "orange"
+    };
+
+    findDescription = (brand) => {
+        const specs = this.props.specs;
+        const description = _.values(specs).find(item => {
+            return item.tags.includes(brand)
+        });
+        this.setState({
+            description: description && description.specs
+        })
+    };
+
+
+    onChangeBrand = (newBrand) => {
+        this.findDescription(newBrand.toLowerCase());
     };
 
     render() {
@@ -75,7 +94,10 @@ class App extends Component {
                                     </div>
                                     <Button style={{width: 190}}
                                     >Delete</Button>
-                                    {this.props.results[index] && <span style={{textAlign: "center", color: this.getInfoColor(this.props.results[index])}}>{getAnalyzerInfo(this.props.results[index])}</span>}
+                                    {this.props.results[index] && <span style={{
+                                        textAlign: "center",
+                                        color: this.getInfoColor(this.props.results[index])
+                                    }}>{getAnalyzerInfo(this.props.results[index])}</span>}
                                 </div>
                             )
                         })}
@@ -117,9 +139,18 @@ class App extends Component {
                 </Row>
                 <Row>
                     <div className="menu-block-div white-back border-eight">
-                        <CategorySelector/>
+                        <CategorySelector
+                            onChangeBrand={this.onChangeBrand}
+                        />
                     </div>
                 </Row>
+                {this.state.description &&
+                <Row>
+                    <div className="menu-block-div white-back border-eight">
+                        <ItemSpecs specs={this.state.description}/>
+                    </div>
+                </Row>
+                }
                 <Row>
                     <div className="menu-block-div white-back border-eight">
                         <FormGroup

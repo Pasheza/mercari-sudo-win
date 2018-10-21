@@ -7,3 +7,7 @@ export const postFile = (file) => {
     formData.append("file", file);
     return axios.post(``, formData).then(resp => resp.data);
 };
+
+export const getSpecs = () => {
+    return axios.get(`../static/json/specs.json`).then(res => res.data)
+};

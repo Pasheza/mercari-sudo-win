@@ -4,12 +4,6 @@ import {ControlLabel, FormControl, FormGroup} from "react-bootstrap";
 
 
 export default class CategorySelector extends Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            brand: undefined
-        }
-    }
 
     onChangeOfFirstCategory = (selectedCategory) => {
         this.props.onChangeOfFirstCategory(selectedCategory)
@@ -26,13 +20,6 @@ export default class CategorySelector extends Component {
 
     onChangeOfSize = (newSize) => {
         this.props.onChangeOfSize(newSize);
-    };
-
-    changeBrand = (newBrand) => {
-        console.log(newBrand);
-        this.setState({
-            brand: newBrand.target.value
-        })
     };
 
     render() {
@@ -75,26 +62,11 @@ export default class CategorySelector extends Component {
                 <FormGroup
                     style={{marginLeft: 20, marginRight: 20, marginTop: 20}}
                 >
-                    <ControlLabel>
-                        <span className="red-text">*</span>
-                        Size
-                    </ControlLabel>
-                    <Select
-                        value={props.chosenSize}
-                        options={props.sizes}
-                        onChange={(selected => this.onChangeOfSize(selected.value))}
-                    />
-                </FormGroup>}
-                {props.thirdCategory &&
-                <FormGroup
-                    style={{marginLeft: 20, marginRight: 20, marginTop: 20}}
-                >
                     <ControlLabel>Brand</ControlLabel>
                     <FormControl
                         type="text"
-                        value={this.state.brand}
                         placeholder="Enter brand"
-                        onChange={this.changeBrand}
+                        onChange={event => this.props.onChangeBrand(event.target.value)}
                     />
                 </FormGroup>
                 }

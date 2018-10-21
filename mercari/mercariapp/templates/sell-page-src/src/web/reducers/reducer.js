@@ -5,10 +5,14 @@ import {
     changeThirdCategory,
     changeSize,
     addFile,
-    addResults
+    addResults, loadSpecs
 } from '../actions'
 
 import _ from 'lodash'
+
+export const getSpecs = (state) => {
+    return state.specs;
+};
 
 export const getAnalyzerResults = (state) => {
     return state.analyzerResults;
@@ -120,7 +124,8 @@ const defaultState = {
     secondCategory: undefined,
     thirdCategory: undefined,
     files: {},
-    analyzerResults: []
+    analyzerResults: [],
+    specs: {}
 };
 
 let reducer = handleActions(
@@ -177,6 +182,12 @@ let reducer = handleActions(
             return {
                 ...state,
                 analyzerResults: results
+            }
+        },
+        [loadSpecs]: (state, {payload}) => {
+            return {
+                ...state,
+                specs: payload
             }
         }
     },
